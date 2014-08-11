@@ -1,0 +1,766 @@
+Lesson 25
+WORDS: cheaper... than, more expensive ... than
+QUESTION: Is your handkerchief more expensive than your shoes? No, my handkerchief isn't more expensive than my shoes; it's cheaper than my shoes.
+QUESTION: Is a Rolls Royce cheaper than a Ford? No, a Rolls Royce isn't cheaper than a Ford; it's more expensive than a Ford.
+QUESTION: Is your town a more expensive place than New York? No, my town isn't a more expensive place than ...; it's a cheaper place than  New York.
+WORDS: the cheapest, the most expensive
+QUESTION: Is the Fiat the most expensive car in this country? No, the Fiat isn't the most expensive car in this country; it's the cheapest car in this country
+QUESTION: What's the most expensive thing you're wearing? My shoes are the most expensive things I'm wearing 
+WORDS: syllable, comparative, superlative
+GRAMMAR: When an adjective has one syllable, like "cheap", we make the comparative by adding the letters "er" and we say "cheaper than". We make the superlative by adding the letters "est" and we say "the cheapest". When an adjective has three syllables, like "expensive", we do not add "er"; instead, we make the comparative by using the word "more", and we say "more expensive than". For the superlative, we do not add "est". Instead, we use the word "most" and we say "the most expensive".
+QUESTION: What's the comparative of "long"? The comparative of "long" is "longer than"
+QUESTION: What's the comparative of "beautiful"? The comparative of "beautiful" is "more beautiful than"
+QUESTION: What's the superlative of "small"? The superlative of "small" is "the smallest"
+QUESTION: What's the superlative of "expensive"? The superlative of "expensive" is "the most expensive"
+QUESTION: Why do we say "cheaper than" but not "expensiver than"? We say "cheaper than" but not "expensiver than", because the adjective "cheap" has only one syllable, whereas the adjective "expensive" has three syllables
+WORDS: above, below
+QUESTION: Where's my nose? Your nose's above your mouth
+QUESTION: Where's my chin? Your chin's below your mouth
+QUESTION: Where's the ceiling? The ceiling's above our heads
+WORDS: January
+WORDS: February
+WORDS: March
+WORDS: April
+WORDS: May
+WORDS: June
+WORDS: July
+WORDS: August
+WORDS: September
+WORDS: October
+WORDS: November
+WORDS: December
+GRAMMAR: The names of the months of the year are "January", "February" etc.
+WORDS: last
+WORDS: next
+GRAMMAR: This month is #{month}. Last month was  #{month}. Next month will be
+QUESTION: What's this month? This month's  #{month}.
+QUESTION: What was last month? Last month was  #{month}.
+QUESTION: What will next month be? Next month will be  #{month}.
+QUESTION: What will the month after next be? The month after next will be  #{month}.
+QUESTION: What was the month before last? The month before last was  #{month}.
+WORDS: a.m., p.m., midday
+WORDS: Latin
+WORDS: then
+GRAMMAR: After the time, we can put the letters a.m. or p.m. The letters a.m. mean "ante meridiem", from the Latin, whereas the letters p.m. mean "post meridiem". In English, a.m. means "before midday" (12 o'clock), whereas p.m. means "after midday".
+QUESTION: What do the letters a.m. mean after the time? The letters a.m. mean "ante meridiem" after the time
+QUESTION: What do the letters p.m. mean after the time? The letters p.m. mean "post meridiem" after the time
+QUESTION: What's the difference between a.m. and p.m.? The difference between a.m. and p.m. is that we use a.m. for the time before midday (12 o'clock), and p.m. for the time after midday
+GRAMMAR: When we use a.m. and p.m. we say the hours, then the minutes, and then a.m. or p.m. We don't say "half past three p.m."; we say "three thirty p.m".
+QUESTION: Do we say "twenty to four a.m."? No, we don't say "twenty to four a.m."; we say "three forty a.m."
+QUESTION: What time do you eat breakfast? I eat breakfast at #{time} a.m.
+QUESTION: What time do you eat dinner? I eat dinner at #{time} p.m.
+
+Lesson 26
+WORDS: a lot of
+WORDS: both ... and
+GRAMMAR: We can use "a lot of" instead of "many" and "much", both for things we can count and for things we cannot count. Instead of saying "many books", we can say "a lot of books". Instead of saying "much water", we can say "a lot of water".
+QUESTION: What can we use instead of "many" and "much"? We can use "a lot of" instead of "many "and "much"
+QUESTION: Are there a lot of people in a small village? No, there aren't a lot of people in a small village; there are few people in a small village
+QUESTION: Do the English drink a lot of coffee? No, the English don't drink a lot of coffee; they drink a lot of tea
+QUESTION: Do you like to see a room with a lot of flowers in it? Yes, I like to see a room with a lot of flowers in it ~ No, I don't like to see a room with a lot of flowers in it
+QUESTION: Do you put a lot of butter on your bread? Yes, I put a lot of butter on my bread ~ No, I don't put a lot of butter on my bread
+QUESTION: Do we use our mouths for both eating and speaking? Yes, we use our mouths for both eating and speaking
+QUESTION: Can you speak both #{!user_language} and #{user_language}? No, I can't speak both #{!user_language} and #{user_language}; I speak only #{user_language}.
+WORDS: a lot
+QUESTION: Do you go to the cinema a lot? Yes, I go to the cinema a lot ~ No, I don't go to the cinema a lot
+QUESTION: Do you read a lot? Yes I read a lot ~ No, I don't read a lot
+QUESTION: Do you eat a lot? Yes I eat a lot ~ No, I don't eat a lot
+QUESTION: Do you use your mobile phone a phone a lot? Yes, I use my mobile - No, I don't use my mobile phone a lot
+WORDS: if, must
+WORDS: either... or
+WORDS: bar, pub
+WORDS: restaurant
+QUESTION: Do you want anything to eat at the moment? Yes, I want something to eat at the moment ~ No, I don't want anything to eat at the moment
+QUESTION: Do you want anything to drink at the moment? Yes, I want something to drink at the moment ~ No, I don't want anything to drink at the moment
+QUESTION: If you want something to drink, where must you go? If you want something to drink, you must go either home or to a bar or a pub
+QUESTION: If you want to eat in a restaurant, about how much money must you have? If I want to eat in a restaurant, I must have about #{money}.
+QUESTION: If you want to hear people speaking Greek which country must you go to? If I want to hear people speaking Greek, I must go to Greece.
+WORDS: play, piano, guitar, football, tennis
+QUESTION: Can you play the piano? Yes, I can play the piano. ~ No, I can't play the piano 
+QUESTION: Can you play the guitar? Yes, I can play the guitar ~ No, I can't play the guitar
+QUESTION: Can you play football? Yes, I can play football ~ No, I can't play football
+QUESTION: Can you play tennis? Yes, I can play tennis ~ No, I can't play tennis
+WORDS: morning, afternoon, evening, night
+WORDS: bed, go to bed
+GRAMMAR: We say "Good morning" to people between about 6 a.m. and 12 p.m. We say "Good afternoon" between 12 p.m. and 5 p.m. We say "Good evening" between 5 p.m. and 10 p.m. We say "Good night" when we say goodbye after about 10 p.m. or when we go to bed.
+QUESTION: What do we say to people between about 6 a.m. and 12 p.m.? We say "Good morning" to people between about 6 a.m. and 12 p.m.
+QUESTION: What do we say to people between about 12 p.m. and 5 p.m.? We say "Good afternoon" to people between about 12 p.m. and 5 p.m.
+QUESTION: What do we say to people between about 5 p.m. and 10 p.m.? We say "Good evening" to people between about 5 p.m. and 10 p.m.
+QUESTION: And what do we say when we say goodbye after 10 p.m. or when we go to bed? We say "Good night" when we say goodbye after 10 p.m. or when we go to bed
+DICTATION: We use the present simple/ for an action/ that we do generally./ For example,/ I generally speak German./ With the present simple,/ we use the auxiliary verb do/ in questions and negative sentences,/ but not in positive sentences./ For exa mple,/ Do you speak French?/ Yes, I speak French./ Do you speak Japanese?/ No, I do not speak Japanese./ She can speak Chinese. not in the ... or at night
+
+Lesson 27
+WORDS: piece
+QUESTION: About how many pieces of bread do you eat with your lunch? I eat about #{number} pieces of bread with my lunch
+WORDS: a country, the country
+WORDS: nation, nationality, British
+GRAMMAR: The difference between a country and the country is that a country is a nation, like India, Germany, France etc., whereas the country is the opposite of the town.
+QUESTION: What's the difference between a country and the country? The difference between a country and the country is that a country is a nation, whereas the country is the opposite of the town
+QUESTION: What's the name of your country? #{country} is the name of my country
+QUESTION: What's your nationality? My nationality is #{nationality}
+QUESTION: What nationality is Mr Brown? Mr Brown is British
+WORDS: live
+QUESTION: Do you live in the country? Yes, I live in the country ~ No, I don't live in the country; I live in a town/city 
+QUESTION: Do most children live with their parents? Yes, most children live with their parents
+QUESTION: Do you want to live for a hundred years? Yes, I want to live for a hundred years ~ No, I don't want to live for a hundred years
+WORDS: pleasant, unpleasant
+WORDS: gas
+GRAMMAR: Flowers smell pleasant, but gas smells unpleasant.
+QUESTION: Does gas smell pleasant? No, gas doesn't smell pleasant; it smells unpleasant
+QUESTION: Do flowers smell unpleasant? No, flowers don't smell unpleasant; they smell pleasant
+QUESTION: Do most people think work is a pleasant thing? No, most people don't think work is a pleasant thing; they think it's an unpleasant thing
+QUESTION: Is Paris an unpleasant city? No, Paris isn't an unpleasant city; it's a pleasant city
+WORDS: glass, cup
+GRAMMAR: We drink wine from a glass, but coffee from a cup.
+QUESTION: What do we drink wine from? We drink wine from a glass
+QUESTION: Do we drink coffee from a glass? No, we don't drink coffee from a glass; we drink it from a cup
+WORDS: longer ... than
+WORDS: shorter ... than
+QUESTION: Is the table longer than the room? No, the table isn't longer than the room; it's shorter than the room
+WORDS: higher ... than, lower ... than
+QUESTION: Is the table higher than the door? No, the table isn't higher than the door; it's lower than the door
+WORDS: larger ... than, smaller ... than
+QUESTION: Is a village larger than a city? No, a village isn't larger than a city; it's smaller than a city
+WORDS: the longest, river, Nile, world
+QUESTION: Which is the longest street in this town? #{street_name} Street is the longest street in this town
+QUESTION: Which is the longest river in the world? The Nile's the longest river in the world
+WORDS: the highest, mountain, Everest, Mount, Mt
+QUESTION: Which is the highest mountain in the world? Mt Everest is the highest mountain in the world
+WORDS: the largest
+WORDS: Tokyo
+QUESTION: Which is the largest city in Japan? Tokyo's the largest city in Japan
+WORDS: date
+GRAMMAR: The date today is the #{today_full}. We use the ordinal numbers for the date, and also we say the year, i.e. "nineteen-eighty-eight" or "two thousand and four".
+QUESTION: What's the date today? The date today is #{today_full}.
+QUESTION: What was the date yesterday? The date yesterday was #{yesterday_full}.
+QUESTION: What will the date tomorrow be? The date tomorrow will be #{tomorrow_full}.
+WORDS: light, heavy
+QUESTION: Is the table light? No, the table isn't light; it's heavy
+QUESTION: Is this piece of paper heavier than the table? No, this (or that) piece of paper isn't heavier than the table; it's lighter than the table
+QUESTION: Who's the lightest person in your family? #{family_member} is the lightest person in my family
+QUESTION: Who's the heaviest person in your family? #{family_member} is the heaviest person in my family
+WORDS: shop
+QUESTION: Are there any shops in the street where you live? Yes, there are some shops in the street where I live - No, there aren't any shops in the street where I live
+WORDS: ball
+QUESTION: What do we play football with? We play football with a ball
+QUESTION: Can we play tennis without a ball? No, we can't play tennis without a ball; we must have a ball to play tennis
+WORDS: bedroom
+WORDS: get up
+WORDS: sleep
+QUESTION: What time do you go to bed at night? I go to bed at #{time} at night
+QUESTION: What time do you get up in the morning? I get up at #{time} in the morning
+GRAMMAR: How long do you sleep at night? I sleep about #{number} hours at night
+QUESTION: What colour are the walls of your bedroom? The walls of my bedroom are #{colour}
+QUESTION: Are you the first to get up in your family? Yes, I'm the first to get up in my family ~ No, I'm not the first to get up in my family
+QUESTION: Do you sleep a lot? Yes, I sleep a lot ~ No, I don't sleep a lot; I sleep little
+QUESTION: Do you sleep longer than (more than) your parents? Yes, I sleep longer than my parents ~ No, I don't sleep longer than my parents; I sleep less than my parents
+
+Lesson 28
+WORDS: each
+GRAMMAR: Look at both your hands. You've got eight fingers on both hands and you've got four fingers on each hand. We say "each student is sitting", not "each student are sitting" - the word “each” is singular
+QUESTION: How many fingers have you got on both hands? I've got eight fingers on both hands
+QUESTION: How many fingers have you got on each hand? I've got four fingers on each hand
+QUESTION: Have we each got two eyes? Yes, we've each got two eyes
+QUESTION: Do we say "each student have a book" or "each student has a book"? We say "each student has a book"
+QUESTION: Why? Because the word "each" is singular
+QUESTION: Has each person got two heads? No, each person hasn't got two heads; each person's only got one head
+WORDS: vegetable, potato, carrot, onion, pea
+WORDS: fruit, apple, orange, lemon, banana
+WORDS: name me
+GRAMMAR: The names of some vegetables are potatoes, carrots, onions and peas. The names of some fruits are apples, oranges, lemons and bananas.
+QUESTION: Do you like vegetables? Yes, I like vegetables - No, I don't like vegetables
+QUESTION: Do you like all vegetables? No, I don't like all vegetables; some I like and some I dislike
+QUESTION: Name me (tell me the names of) four vegetables, please. The names of four vegetables are potatoes, carrots, onions and peas
+QUESTION: Name me four kinds of fruit. The names of four kinds of fruit are apples, oranges, lemons and bananas
+WORDS: juice, tomato
+QUESTION: Which do you prefer: tomato juice or orange juice? I prefer... 
+QUESTION: What's the plural of tomato? The plural of "tomato" is "tomatoes"
+WORDS: study, schoolchildren
+QUESTION: Do you study Spanish? No, I don't study Spanish; I study English
+QUESTION: Do most schoolchildren like studying? No, most schoolchildren don't like studying; they dislike or hate studying 
+QUESTION: Must you study a lot if you want to learn a language well? Yes, I must study a lot if I want to learn a language well
+WORDS: arrive
+WORDS: leave
+QUESTION: Do you leave any food on your plate after a meal? Yes, I leave some food on my plate after a meal ~ No, I don't leave any food on my plate after a meal
+WORDS: sun, sky
+QUESTION: What can we see in the sky during the day? We can see the sun in the sky during the day
+QUESTION: What colour's the sun? The sun's the colour of gold
+QUESTION: What colour's the sky today? The sky's blue today. The sky's gray today.
+WORDS: sea
+WORDS: land
+WORDS: by the sea
+WORDS: inland, Africa
+WORDS: Mediterranean
+QUESTION: Do you live on the sea? No, I don't live on the sea; I live on the land
+QUESTION: What's the name of the sea between Europe and North Africa? The name of the sea between Europe and North Africa is the Mediterranean Sea
+QUESTION: Is Moscow by the sea? No, Moscow isn't by the sea; it's inland
+QUESTION: Is New York inland? No, New York isn't inland; it's by the sea
+WORDS: once, twice
+WORDS: three times
+GRAMMAR: Once five equals five. Twice five equals ten. Three times five equals fifteen etc.
+QUESTION: How much is once ninety? Once ninety equals ninety
+QUESTION: How much is twice fifty? Twice fifty is a hundred
+QUESTION: How much is three times thirteen? Three times thirteen is thirty-nine
+QUESTION: How many times a month do you go to the cinema? I go to the cinema about #{times} a month 
+QUESTION: How many times a day do you eat? I eat #{times} times a day 
+QUESTION: How many times do we live? We only live once
+WORDS: cut
+QUESTION: What do we cut meat with? We cut meat with a knife
+QUESTION: Can we cut bread without a knife? No, we can't cut bread without a knife
+WORDS: lift, little
+WORDS: little finger
+QUESTION: What am I doing? You're lifting the table
+QUESTION: Can you lift the table with your little finger? No, I can't lift the table with my little finger
+GRAMMAR: Why not? Because it's too heavy for me to lift
+QUESTION: Is a piece of paper light enough for you to lift? Yes, a piece of paper is light enough for me to lift
+DICTATION: He likes the cinema/ but dislikes television./ Her right hand/ isn't moving;/ it's completely still./ He's half Russian/ and half Greek/ and speaks both languages./ Tell us/ what you're wearing./ They prefer tea/ to coffee./ We can't walk well/ with only one shoe./ The students/ aren't remaining/ in the classroom./ They're going/ into the corridor/ where there is nobody.
+
+Lesson 29
+WORDS: as ... as
+WORDS: not as ... as, not so ... as
+WORDS: Thames
+WORDS: America
+QUESTION: Is the table as high as the door? No, the table isn’t as high as the door; it's lower than the door
+QUESTION: Is this building as high as Mt Everest? No, this building isn't as high as Mt Everest; it's lower than Mt Everest
+QUESTION: Is the River Thames as long as the Nile? No, the River Thames isn't as long as the Nile; it's shorter than the Nile
+QUESTION: Is Spain as large as South America? No. Spain isn't as large as South America; it's smaller than South America
+WORDS: season, spring, summer, autumn, winter
+GRAMMAR: The names of the four seasons of the year are "spring", "summer", "autumn" and "winter".
+QUESTION: Tell me the names of the four seasons of the year, please. The names of the four seasons of the year are "spring", "summer", "autumn" and "winter"
+GRAMMAR: What season are we in now? We're in #{current_season_of_the_year} now
+QUESTION: What was last season? Last season was #{last_season_of_the_year}.
+QUESTION: What will next season be? Next season will be #{next_season_of_the_year}.
+WORDS: precede, follow
+GRAMMAR: Tuesday precedes Wednesday; Thursday follows Wednesday. 
+QUESTION: Which day precedes Wednesday? Tuesday precedes Wednesday
+QUESTION: Does Thursday precede Wednesday? No, Thursday doesn't precede Wednesday; it follows it
+QUESTION: Which number follows the number thirteen? Fourteen follows the number thirteen
+WORDS: when
+QUESTION: When do you have your breakfast? I have my breakfast at #{time}.
+QUESTION: When do you get up in the morning? I get up at #{time} in the morning
+WORDS: while
+WORDS: whilst
+QUESTION: What other words can we use instead of "whereas"? We can use "while" and "whilst" instead of "whereas"
+QUESTION: Which word do we use the most when we speak? We generally use "whereas" the most when we speak
+WORDS: old, new
+QUESTION: Is it an old building you're in at the moment? Yes, it is an old building I'm in at the moment ~ No, it isn't an old building I'm in at the moment
+QUESTION: Are your shoes new? Yes, my shoes are new - No, my shoes aren't new; they're old
+WORDS: older... than, newer... than
+WORDS: the oldest, the newest
+QUESTION: What's the newest thing you're wearing? My #{cloth} is/are the newest thing(s) I'm wearing
+WORDS: old
+WORDS: young
+GRAMMAR: We generally use "old" and "new" for things, whereas we generally use "old" and "young" for people.
+QUESTION: What's the difference between "new" and "young"? The difference between "new" and "young" is that we use "new" for things, whereas we use "young" for people
+QUESTION: Is Miss Brown an old woman? No, Miss Brown isn't an old woman; she's a young girl
+WORDS: younger ... than
+QUESTION: Are you older than your mother? No, I’m not older than my mother; I'm younger than my mother
+WORDS: the youngest
+QUESTION: Who's the youngest in your family? #{family_member} is the youngest in my family
+WORDS: put ... on
+WORDS: take ... off
+WORDS: go out
+QUESTION: What do we put on when we go out in winter? We put our hats and coats on when we go out in winter
+QUESTION: What do we take off when we come into a building? We take our hats and coats off when we come into a building
+DICTATION: There isn't anybody here,/ but there's somebody/ in the corridor./ He hasn't got/ the same colour hair/ as I have./ His is a different colour./ Their heads are moving/ up and down./ Mr Brown's tie/ is grey./ We call this/ a map./ Learning English grammar/ is easy;/ Spanish is difficult./ They go home/ by car or by train,/ but not by bus./ My mother and father/ have three children.
+
+Lesson 30
+WORDS: holiday
+WORDS: Christmas, Easter
+GRAMMAR: The two most important holidays of the year in Europe are Christmas and Easter. Christmas is on the 25th of December, and Easter is in spring, either in March or in April.
+QUESTION: What are the two most important holidays of the year in Europe? The two most important holidays of the year in Europe are Christmas and Easter
+QUESTION: When's Christmas? Christmas is on the 25th of December
+QUESTION: When's Easter? Easter's in spring, either in March or in April
+WORDS: full
+WORDS: empty
+GRAMMAR: Before a meal our stomachs are empty. After a meal they are full.
+QUESTION: Are your pockets full of money? Yes, my pockets are full of money ~ No, my pockets aren't full of money
+QUESTION: Is your stomach empty after a large meal? No, my stomach isn't empty after a large meal; it's full
+QUESTION: Are the streets full of people during the night? No, the streets aren't full of people during the night; they're empty during the night
+WORDS: moon
+WORDS: star
+QUESTION: Can we see the sun in the sky during the night? No, we can't see the sun in the sky during the night, but we can see the moon and the stars
+QUESTION: What colour's the moon? The moon's the colour of silver
+QUESTION: Can we count the stars? No, we can’t count the stars
+WORDS: subject, mathematics, history
+WORDS: geography
+QUESTION: Of these three subjects, mathematics, history and geography which do you like the most? Of those three subjects, mathematics, history and geography, I like #{enum(mathematics, history, geography)} the most
+QUESTION: About how many subjects must children generally study at school? Children must generally study about #{number} subjects at school
+QUESTION: Do you like the subject of mathematics? Yes, I like the subject of mathematics - No, I don't like the subject of mathematics
+WORDS: wash, dress, soap, shampoo
+QUESTION: What do we do when we get up in the morning? We wash and dress when we get up in the morning
+QUESTION: Do you dress before washing? Yes, I dress before washing ~ No, I don't dress before washing; I wash before dressing
+QUESTION: What do we wash our hands with? We wash our hands with soap and water
+QUESTION: What do we wash our hair with? We wash our hair with shampoo
+WORDS: hot, warm, cool, cold
+WORDS: Finland, one of the ...
+GRAMMAR: In Africa it’s hot. in Italy it’s warm, in England it’s cool, and in Finland it's cold. In England in summer it's hot, in spring it's warm, in autumn it’s cool, and in winter it's cold.
+QUESTION: Is it hot in Finland? No, it isn't hot in Finland; it's cold
+QUESTION: Is it warm in autumn? No, it isn't warm in autumn; it's cool
+QUESTION: Is it hotter in winter than in summer? No, it isn't hotter in winter than in summer; it's colder in winter than in summer
+GRAMMAR: After the words "one of the ..." use a plural noun. For example, “Paris is one of the largest cities in Europe".
+QUESTION: Which is one of the hottest countries in the world? India is one of the hottest countries in the world
+QUESTION: Which is one of the coldest countries in the world? Finland is one of the coldest countries in the world
+QUESTION: Is it as hot in Scandinavia as in Spain? No, it isn't as hot in Scandinavia as in Spain; it's colder in Scandinavia than in Spain
+WORDS: taste
+QUESTION: Do you like the taste of tea without sugar? Yes, I like the taste of tea without sugar ~ No, I don't like the taste of tea without sugar
+QUESTION: What do we taste with? We taste with our tongues
+WORDS: as many... as, as much ... as
+GRAMMAR: We use "as many as” and "as much as” with nouns. For example, "I've got as many fingers on my left hand as on my right", and "I eat as much meat as bread". We use "as many... as" with things we can count, and "as much ... as" with things we cannot count.
+QUESTION: What's the difference between "as many ... as" and "as much ... as"? The difference between "as many ... as" and "as much ... as" is that we use "as many ... as" for things we can count, and "as much ... as" for things we can't count
+QUESTION: Have I got as many fingers on my left hand as on my right? Yes, you've got as many fingers on your left hand as on your right
+QUESTION: Do you eat as much food for dinner as you do for lunch? Yes, I eat as much food for dinner as I do for lunch ~ No, I don't eat as much food for dinner as I do for lunch; I eat less food for dinner than I do for lunch
+QUESTION: Have we got as many feet as fingers? No, we haven't got as many feet as fingers; we've got fewer feet than fingers
+QUESTION: Do you drink as much fruit juice as water? No, I don't drink as much fruit juice as water; I drink less fruit juice than water
+QUESTION: Do you think you read as many books as your mother/father? Yes, I think I read as many books as my mother/father - No, I don't think I read as many books as my mother/father; I think I read fewer books than my mother/father
+
+Lesson 31
+WORDS: send, card, postcard
+WORDS: go on holiday, camera
+WORDS: photograph (photo), take a photo
+QUESTION: Do you send cards to your friends at Christmas time? Yes, I send cards to my friends at Christmas time ~ No, I don't send cards to my friends at Christmas time
+GRAMMAR: If the students are non-Christian, the teacher can change the above question to suit their religion or customs.
+QUESTION: Do you send postcards to your friends and family when you go on holiday? Yes, I send postcards to my friends and family when I go on holiday - No, I don't send postcards to my friends and family when I go on holiday
+QUESTION: When you go on holiday, do you take photos with a camera or with your phone? When I go on holiday, I take photos with ...
+WORDS: receive, reply, email
+WORDS: text, contact, message, letter
+QUESTION: What's the opposite of "send"? The opposite of "send" is "receive"
+QUESTION: Do you receive more letters than emails? No, I don't receive more letters than emails; I receive fewer letters than emails
+QUESTION: Can you email people from your mobile phone? Yes, I can email people from my mobile phone ~ No, I can't email people from my mobile phone 
+QUESTION: Do you reply to all the emails you receive? No, I don't reply to all the emails I receive; I only reply to some of them
+QUESTION: Do you generally contact your friends by texting them or by phoning them? I generally contact my friends by ...
+QUESTION: If you want to send somebody a quick message, do you write a text or an email? If I want to send somebody a quick message, I write ...
+WORDS: house, flat, floor, divide, block
+GRAMMAR: The difference between a house and a flat is that a house is a building, like the one behind Mr and Mrs Brown, whereas a flat is part of a building and is generally on one floor. Houses are generally in the country, whereas flats are in the town. A block of flats is a large building which is divided into many flats. For the word "divide", cut the air horizontally with your hand.
+QUESTION: What's the difference between a house and a flat? The difference between a house and a flat is that a house is a building, whereas a flat is part of a building
+QUESTION: What do we call a building which is divided into many flats? We call a building which is divided into many flats a block of flats
+QUESTION: Do you live in a house? Yes, I live in a house ~ No, I don't live in a house; I live in a flat
+QUESTION: Do most people in this country live in houses or flats? Most people in this country live in ...
+QUESTION: How many floors are there in this building? There are #{number} floors in this building
+WORDS: near
+WORDS: far from
+QUESTION: Is Japan near England? No, Japan isn't near England; it's far from England
+WORDS: nearer ... than
+WORDS: further ... than
+WORDS: farther ... than
+QUESTION: Is France further from England than China? No, France isn't further from England than China; it's nearer England than China
+WORDS: the nearest, the furthest, the farthest
+QUESTION: Of these three countries, France, Greece and Japan, which is the nearest to England? Of those three countries, France, Greece and Japan, France is the nearest to England
+QUESTION: And which of those three countries is the furthest from England? Of those three countries, Japan is the furthest from England
+WORDS: at the beginning of
+WORDS: at the end of
+GRAMMAR: Does January come at the end of the year? No, January doesn't come at the end of the year; it comes at the beginning of the year
+QUESTION: Does Saturday come at the beginning of the week? No, Saturday doesn't come at the beginning of the week; it comes at the end of the week
+WORDS: shine
+QUESTION: Is the sun shining at the moment? Yes, the sun is shining at the moment - No, the sun isn't shining at the moment
+QUESTION: Does the sun shine during the night? No, the sun doesn't shine during the night
+QUESTION: Can we see well during the night if the moon isn't shining? No, we can't see well during the night if the moon isn't shining; we see badly
+WORDS: early, late
+QUESTION: Do you go to bed early? Yes, I go to bed early -No, I don't go to bed early; I go to bed late
+QUESTION: Do you get up late? Yes, I get up late ~ No, I don't get up late; I get up early
+WORDS: earlier... than
+WORDS: later... than
+WORDS: the earliest
+WORDS: the latest
+QUESTION: Who gets up the earliest in your family? #{family_member} gets up the earliest in my family
+QUESTION: Who gets up the latest in your family? #{family_member} gets up the latest in my family
+WORDS: light, dark
+QUESTION: Is it light during the night? No, it isn't light during the night; it's dark during the night
+QUESTION: Is it dark in here now? No, it isn't dark in here now; it's light
+QUESTION: Can you see in the dark? No, I can't see in the dark
+DICTATION: Mr Brown is married,/ not single./ He is his wife's husband./ They have two children./ The four cardinal points/ are north, south,/ east and west./ What's hanging/ on the wall?/ Nothing./ I can touch my back/ with my hand./ This is the top/ of my head,/ not the bottom./ Why can't she/ touch her nose/ with her tongue?/ Because her tongue's too short./ He's my friend now.
+
+Lesson 32
+WORDS: station
+QUESTION: Do you live near a station? Yes, I live near a station ~ No, I don't live near a station; I live far from a station
+QUESTION: Is the station far from here? Yes, the station is far from here ~ No, the station isn't far from here; it's near here 
+WORDS: millionaire
+GRAMMAR: A millionaire is a person who has a million pounds or more.
+QUESTION: What's a millionaire? A millionaire is a person who has a million pounds or more
+QUESTION: Tell me the names of some millionaires, please. The names of some millionaires are ...
+QUESTION: Have you got as much money as a millionaire? No, I haven't got as much money as a millionaire; I've got less money than a millionaire
+WORDS: very
+QUESTION: Is Mt Everest very high? Yes, Mt Everest's very high
+QUESTION: Are there very few people in China? No, there aren't very few people in China; there are very many people in China
+QUESTION: Is it very cold in Africa? No, it isn't very cold in Africa; it's very hot in Africa
+QUESTION: Is Japan very near England? No, Japan isn't very near England; it's very far from England
+QUESTION: Do you get up very early? Yes, I get up very early - No, I don't get up very early; I get up very late (or late)
+QUESTION: Do you speak English very well? No, I don't speak English very well, but I speak it well enough
+WORDS: merry, happy, unhappy, sad
+GRAMMAR: When we send cards to our friends at Christmas time, we generally write "A Merry Christmas and a Happy New Year" inside.
+QUESTION: What message do we generally write inside a Christmas card? The message we generally write inside a Christmas card is "A Merry Christmas and a Happy New Year"
+QUESTION: Are people generally merry if they drink a lot of wine? Yes, people are generally merry if they drink a lot of wine
+QUESTION: Do you feel sad when you go on holiday? No, I don't feel sad when I go on holiday; I feel happy
+WORDS: together
+WORDS: apart
+WORDS: apart from
+QUESTION: Do you live apart from your family? Yes, I live apart from my family ~ No, I don't live apart from my family; I live together with my family
+QUESTION: Are you in this room together with other people? Yes, I'm in this room together with other people
+QUESTION: What do you eat for your lunch apart from meat? I eat bread, vegetables etc. for my lunch apart from meat
+QUESTION: Do you study anything apart from English? Yes, I study something apart from English - No, I don't study anything apart from English
+WORDS: better... than, worse ... than, pole
+QUESTION: Do you speak English better than Chinese? Yes, I speak English better than Chinese. No, I don't speak English better than Chinese; I speak it worse than Chinese
+QUESTION: Do you think Paris is a worse place to live in than the North Pole? No, I don't think Paris is a worse place to live in than the North Pole; I think it's a better place to live in than the North Pole
+QUESTION: Is a Fiat a better car than a Rolls Royce? No, a Fiat isn't a better car than a Rolls Royce; it's a worse car than a Rolls Royce
+WORDS: capital letter
+GRAMMAR: We use capital letters at the beginning of a sentence, for the pronoun "I", and for the first letter of people's names, place names, days of the week, months of the year, nationalities and languages.
+QUESTION: When do we use capital letters? We use capital letters at the beginning of a sentence, for the pronoun "I", and for the first letter of people's names, place names, days of the week, months of the year, nationalities and languages
+WORDS: the best, the worst
+QUESTION: Which do you think's the worst day of the week? I think #{day_of_week} is the worst day of the week
+QUESTION: What is (or was) your best subject at school? #{school_subject} is (or was) my best subject at school
+QUESTION: What is (or was) your worst subject at school? #{school_subject} is (or was) my worst subject at school 
+WORDS: game, rugby, golf, basketball
+QUESTION: What kind of games do you like the best? The kind of games I like the best are #{game}
+QUESTION: Do children like playing games? Yes, children like playing games
+QUESTION: Tell me the name of a card game. The name of a card game is #{card_game}
+QUESTION: Name me some games in which we use a ball, please. Some games in which we use a ball are football, tennis, rugby, golf, basketball etc.
+DICTATION: During the lesson/ there are about/ thirteen students/ in the room./ I am going/ into the corridor./ There aren't/ many matches/ in this box,/ but few./ The table has no smell./ My address is/ 15 High Street, London, NW1./ There's a place/ on my left-hand side./ The opposite of "with"/ is "without"./ Sixty minutes make an hour./ One has a daughter/ and the other has a son./ Don't break it.
+
+Lesson 33
+WORDS: look at
+WORDS: watch
+GRAMMAR: The difference between "to look at" and "to watch" is that we use "to look at" for something that is still, whereas we use "to watch" for something that is moving.
+QUESTION: What's the difference between "to look at" and "to watch"? The difference between "to look at" and "to watch" is that we use "to look at" for something that is still, whilst we use "to watch" for something that is moving
+QUESTION: Is it right to say I'm watching that picture? No, it isn't right to say you're watching that picture
+QUESTION: Why not? Because that picture's still
+QUESTION: What must I say instead? You must say you're looking at that picture
+QUESTION: Is it right to say we look at a game of football? No, it isn't right to say we look at a game of football
+QUESTION: Why not? Because a game of football moves
+QUESTION: What must we say instead? We must say we watch a game of football instead
+QUESTION: Do you like watching television? Yes, I like watching television ~ No, I don't like watching television
+WORDS: buy
+QUESTION: Where do you buy your food? I buy my food from a shop near where I live
+QUESTION: Can we buy apples at a shoe shop? No, we can't buy apples at a shoe shop
+WORDS: gerund, preposition + noun
+GRAMMAR: A gerund is a noun that we make by putting the letters "ing" at the end of a verb. For example, "speaking", "eating", "coming". In English, after a preposition we use a noun. For example, "on the table", "after the lesson". If we want to say an action after a preposition, we use the gerund - not the infinitive. For example, we say "for buying", "after eating" etc.
+QUESTION: Do we use the gerund or the infinitive after a preposition? We use the gerund after a preposition
+QUESTION: What is a gerund? A gerund is a noun that we make by putting the letters "ing" at the end of a verb
+QUESTION: Are you good at playing football? Yes, I'm good at playing football ~ No, I'm not good at playing football; I'm bad at playing football
+WORDS: beside, besides, walk, any more
+GRAMMAR: The difference between "beside" and "besides" is that "beside" means "next to" whereas "besides" means "apart from". For example, "The pen is beside the book. I eat vegetables and bread etc. for my lunch besides meat".
+QUESTION: What's the difference between "beside" and "besides"? The difference between "beside" and "besides" is that "beside" means "next to", whereas "besides" means "apart from"
+QUESTION: Is Paris beside the sea? No, Paris isn't beside the sea; it's inland
+QUESTION: What do you do in the evening besides watching television? I go for a walk, I read, I go to the cinema etc. in the evening besides watching television
+QUESTION: How many floors are there in this building besides this one? There is/are #{number} floor(s) in this building besides this one
+QUESTION: Have your parents got any more children besides you? Yes, my parents have got another child (or some more children) besides me ~ No, my parents haven't got any more children besides me
+WORDS: very much
+QUESTION: Do you like walking very much? Yes, I like walking very much ~ No, I don't like walking very much
+QUESTION: Do you like working very much? Yes, I like working very much ~ No, I don't like working very much
+WORDS: another
+QUESTION: Have you got another watch besides that one? Yes, I've got another watch besides this one ~ No, I haven't got another watch besides this one
+WORDS: church, temple, mosque
+WORDS: synagogue
+QUESTION: Do most people in your country go to church each week? Yes, most people in mu country go to church each week ~ No, most people in my country don't go to church each week
+WORDS: enter
+WORDS: air
+QUESTION: Can we see the air? No, we can't see the air
+DICTATION: Parents are mother and father,/ whereas relations/ are all the other people/ in the family,/ such as/ uncles, aunts, cousins etc./ He's got more brothers/ than sisters./ I think I can see/ somebody coming/ out of the house./ We generally use the word "got"/ with the verb "have"./ Instead of saying/ "I have a pen",/ we can say/ "I have got a pen"./ I've got no money.
+
+Lesson 34
+WORDS: cover
+QUESTION: Can you cover both your eyes with only one hand? Yes, I can cover both my eyes with only one hand
+QUESTION: What covers our heads? Our hair covers our heads 
+WORDS: snow
+QUESTION: What colour's snow? Snow's white
+QUESTION: Does it generally snow very much in the hot countries of the world? No, it doesn't generally snow very much in the hot countries of the world; it generally snows very little
+WORDS: weather
+QUESTION: What kind of weather do you prefer: hot, warm, cool or cold? I prefer ... weather
+QUESTION: What kind of weather are you having these days? We are having ... weather these days
+QUESTION: Is British weather pleasant in winter? No, British weather isn't pleasant in winter; it's unpleasant
+WORDS: hold
+WORDS: conversation
+WORDS: simple, complicated
+QUESTION: Which hand do you hold your pen in when you write? I hold my pen in my ... hand when I write
+QUESTION: Can you hold a complicated conversation in English? No, I can't hold a complicated conversation in English; I can hold a simple conversation in English
+QUESTION: About how many matches does a matchbox generally hold? A matchbox generally holds about #{number} matches
+WORDS: know, excellent, other than
+QUESTION: Do you know any excellent restaurants near place where you live? Yes, I know some excellent restaurants near place where I live ~ No, I don't know any excellent restaurants near place where I live
+WORDS: quick
+WORDS: slow
+QUESTION: What's the opposite of the word "quick"? The opposite of the word "quick" is "slow"
+QUESTION: Do you speak English quicker than people in England? No, I don't speak English quicker than people in England; I speak it slower than people in England
+GRAMMAR: The word "slower" (adj) in the question should really be "more slowly" (adv), and the answer should be "more quickly". However, "slower" and "quicker" are permissible, as that is what most people actually say.
+QUESTION: Do people walk quicker in hot weather than in cold? No, people don't walk quicker in hot weather than in cold; they walk slower
+WORDS: every, everybody, everything
+WORDS: everywhere, at the same time
+GRAMMAR: The word "every" is similar to "all" but it is singular. We say "all the chairs are red", but we say "every chair is red".
+QUESTION: Do we say "every student is good" or "every students are good"? We say every student is good
+QUESTION: Why? Because "every" is singular
+QUESTION: Is every town in the world beautiful? No, not every town in the world is beautiful; some are beautiful and some are ugly
+QUESTION: Do you go to bed at the same time every night? No, I don't go to bed at the same time every night; I go to bed at different times
+QUESTION: Does everybody in the world have enough food to eat? No, not everybody in the world has enough food to eat
+QUESTION: Is everything in your room the same colour? No, not everything in my room is the same colour; some things are red and some things are blue, green etc
+QUESTION: Does it snow everywhere in the world? No, it doesn't snow everywhere in the world; in some places it does and in some places it doesn't
+WORDS: rain
+QUESTION: Is it raining outside now? Yes, it's raining outside now ~ No, it isn't raining outside now
+QUESTION: Do you like walking in the rain? Yes, I like walking in the rain ~ No, I don't like walking in the rain
+QUESTION: When it rains, what do we cover our heads with? When it rains, we cover our heads with a hat or an umbrella
+WORDS: always
+QUESTION: Does Thursday always follow Wednesday? Yes, Thursday always follows Wednesday
+QUESTION: Is Christmas always on the 25th of December? Yes, Christmas is always on the 25th of December
+QUESTION: Must we always open our mouths when we want to eat? Yes, we must always open our mouths when we want to eat
+QUESTION: Do you always reply to letters you receive? Yes, I always reply to letters I receive ~ No, I don't always reply to letters I receive
+WORDS: nice
+QUESTION: Is the weather nicer today than yesterday? Yes, the weather's nicer today than yesterday ~ No, the weather isn't nicer today than yesterday; it's worse
+QUESTION: Are you always nice to other people? Yes, I'm always nice to other people ~ No, I'm not always nice to other people
+DICTATION: We wear a watch/ on our wrist,/ whereas we hang a clock/ on the wall./ The time now/ is a quarter past eleven./ We put butter on bread,/ not sugar./ Seven days make a week./ Twelve months make a year./ We don't drink meat; we eat it./ It isn't the most beautiful,/ but it isn't ugly./ Gold, silver and iron/ are metals.
+
+Lesson 35
+WORDS: past, tense, ago
+GRAMMAR: I was we were
+you were you were
+he, she, it was they were
+GRAMMAR: The past tense of "I am", "you are", "he is" etc. is "I was”, "you were”, "he was", "she was", "it was", "we were”, "you were", "they were".
+QUESTION: What's the past tense of "I am", "you are", "he is" etc.? The past tense of "I am" is "I was"...
+QUESTION: Were you there two weeks ago? Yes, I was here two weeks ago
+QUESTION: Where were you at this time yesterday? I was at work at this time yesterday
+WORDS: road
+WORDS: street
+WORDS: connect
+GRAMMAR: The difference between a road and a street is that a road is generally in the country and connects two towns, whereas a street is in a town and generally has shops in it. A road can also be in the town but, if it is, it generally has no shops.
+QUESTION: What's the difference between a road and a street? The difference between a road and a street is that a road is generally in the country and connects two towns, whereas a street is in a town and generally has shops in it
+QUESTION: Do you live in a road or a street? I live in a ...
+WORDS: line
+QUESTION: Are there a lot of lines on an old person's face? Yes, there are a lot of lines on an old person's face
+WORDS: straight, crooked, bottle, whisky
+QUESTION: After drinking a bottle of whisky, can people walk in a straight line? No, after drinking a bottle of whisky, people can't walk in a straight line; they walk in a crooked line
+WORDS: sometimes
+QUESTION: Does the sun always shine? No, the sun doesn't always shine; sometimes it shines and sometimes the sky is covered with clouds
+QUESTION: Is it always hot in France? No, it isn't always hot in France; sometimes it's hot and sometimes it's cold
+QUESTION: Is Easter always in March? No, Easter isn't always in March; sometimes it's in March and sometimes it's in April
+QUESTION: Do you always get up at the same time every morning? No, I don't always get up at the same time every morning; sometimes I get up early and sometimes I get up late
+WORDS: government
+WORDS: law
+QUESTION: Does the government of your country make the laws of the country? Yes, the government of your country makes the laws of the country
+GRAMMAR: Some words, such as "government", can be thought of as singular or plural. Consequently, their accompanying verb can be singular or plural, and one can say "the government is" or "the government are".
+WORDS: heart
+QUESTION: On which side of your body is your heart? My heart is on the left side of my body
+WORDS: quickly, slowly, adverb, thinker, writer
+GRAMMAR: The word "quick" is an adjective, whereas the word "quickly" is an adverb. For example, we say "He is a quick thinker; he thinks quickly", or "He is a slow writer; he writes slowly".
+QUESTION: What's the difference between the words "quick" and "quickly"? The difference between the words "quick" and "quickly" is that "quick" is an adjective whereas "quickly" is an adverb 
+QUESTION: Do you speak English quickly? No. I don't speak English quickly, but I speak it quickly enough 
+QUESTION: Do people generally walk slowly when the weather is cold? No, people don't generally walk slowly when the weather is cold; they walk quickly 
+QUESTION: Can you text as quickly as you can speak? No, I can't text as quickly as I can speak; I text more slowly than I speak
+WORDS: deep, shallow, university
+QUESTION: What's the opposite of deep? The opposite of deep is shallow
+QUESTION: Is the River Thames deeper than the Mediterranean Sea? No, the River Thames isn't deeper than the Mediterranean Sea; it's shallower than the Mediterranean Sea
+QUESTION: Do people study subjects deeply at university? Yes, people study subjects deeply at university
+WORDS: smoke, cigarette, ash, ashtray
+QUESTION: Do you smoke? Yes, I smoke ~ No, I don't smoke
+QUESTION: Which person in your family smokes the most? #{family_member} is the person in my family who smokes the most
+QUESTION: When people smoke, where do they put the ash? When people smoke, they put the ash in an ashtray
+WORDS: wait
+QUESTION: If you arrive too early at the station, what must you do? If I arrive too early at the station, I must wait for the train
+GRAMMAR: For the above question, drum your hands on the table as if waiting for something.
+QUESTION: Do you like waiting? No, I don't like waiting; I dislike waiting
+QUESTION: Is it pleasant to wait for somebody in the rain? No, it isn't pleasant to wait for somebody in the rain; it's unpleasant
+
+Lesson 36
+WORDS: ever
+WORDS: never
+GRAMMAR: The word "ever" is positive, and is generally used in questions, whilst the word "never" is negative.
+QUESTION: What's the difference between the words "ever" and "never"? The difference between the words "ever" and "never" is that the word "ever" is positive , and is generally used in questions, whilst the word "never" is negative
+QUESTION: Does it ever snow in the south of Italy in summer? No, it never snows in the south of Italy in summer
+QUESTION: Is Christmas ever on the 21st of December? No, Christmas is never on the 21st of December; it's always on the 25th of December
+QUESTION: Do you ever come here on Sunday? No, I never come here on Sunday
+QUESTION: Does the sun ever shine during the night? No, the sun never shines during the night
+WORDS: square
+WORDS: circle
+WORDS: round
+GRAMMAR: The square is square, but the circle is round.
+WORDS: shake, nod
+QUESTION: Do you always shake hands with your friends every time you see them? No, I don't always shake hands with my friends every time I see them
+QUESTION: Do we nod our heads when we say no? No, we don't nod our heads when we say no; we shake our heads when we say no
+WORDS: direct, directly, method
+WORDS: it is called, think
+QUESTION: Is it more or less time to go to bed (or have lunch etc.)? Yes, it's more or less time to go to bed (or have lunch etc.) ~ No, it isn't more or less time to go to bed (or have lunch etc.)
+QUESTION: Are the countries of Europe more or less friends today? Yes, the countries of Europe are more or less friends today
+WORDS: accent
+QUESTION: What kind of accent do you speak English with? I speak English with a/an #{language} accent
+QUESTION: Where's the accent in the word "excellent"? The accent in the word "excellent" is on the first syllable
+WORDS: to depend on
+QUESTION: Do children depend on their parents for money? Yes, children depend on their parents for money
+QUESTION: Some people eat in expensive restaurants, others eat in cheap restaurants. What does this depend on? It depends on how much money they have
+QUESTION: During the day it's light, whilst during the night it's dark. What does this depend on? It depends on the sun and where it is in the sky
+GRAMMAR: In actual fact, of course, the light and dark depend on the movement of the Earth, but at this stage of your studies you do not have sufficient vocabulary to express such a concept.
+WORDS: cloud
+QUESTION: Are there any clouds in the sky today? Yes, there are some clouds in the sky today ~ No, there aren't any clouds in the sky today
+QUESTION: What are clouds made of? Clouds are made of water
+WORDS: remember, forget
+QUESTION: Do you always remember everything you learn? No, I don't always remember everything I learn; some things I remember and some things I forget
+QUESTION: Do you remember when to use capital letters in English? Yes, I remember when to use capital letters in English ~ No, I don't remember when to use capital letters in English
+QUESTION: Tell me, please. We use capital letters at the beginning of a sentence, for the pronoun "I", and for the first letter of people's names, place names, days of the week, months of the year, nationalities and languages
+QUESTION: Do you remember the name of this thing? Yes, I remember the name of that thing; it's a pen
+QUESTION: Do you ever forget to answer emails? Yes, I sometimes forget to answer emails
+QUESTION: Do you ever forget the names or faces of people you know? Yes, I sometimes forget the names or faces of people I know
+WORDS: nearly
+QUESTION: Are we nearly in #{next_season_of_the_year}? Yes, we're nearly in #{next_season_of_the_year}. ~ No, we aren't nearly in #{next_season_of_the_year}.
+QUESTION: Is it nearly time to go to bed (or have lunch etc.)? Yes, it's nearly time to go to bed (or have lunch etc.) ~ No, it isn't nearly time to go to bed (or have lunch etc.)
+QUESTION: Are you nearly always the last person to get up in your family? Yes, I'm nearly always the last person to get up in my family ~ No, I'm not nearly always the last person to get up in my family; my #{family_member} is nearly always the last person to get up in my family
+DICTATION: The door key/ is also made of steel./ How much does it cost?/ Monday, Tuesday, Wednesday,/ Thursday, Friday, Saturday,/ Sunday./ The word "bag"/ is a noun/ and the word "bad"/ is an adjective./ What kind of car/ does your dad drive?/ Give all the food/ to him./ Do another translation, please./ I have fewer pounds/ than her./ What's today?/ What was yesterday?
+
+Lesson 37
+WORDS: wasn't
+WORDS: weren't
+GRAMMAR: The negative of "I was" is "I was not" or "I wasn't", whilst the negative of "you were" is "you were not" or "you weren't".
+QUESTION: What's the negative of "I was"? The negative of "I was" is "I wasn't"
+QUESTION: What's the negative of "you were"? The negative of "you were" is "you weren't"
+QUESTION: Were you there a hundred years ago? No, I wasn't here a hundred years ago
+QUESTION: Were we in this world ninety years ago? No, we weren't in this world ninety years ago
+WORDS: field
+QUESTION: Are there any fields near where you live? Yes, there are some fields near where I live ~ No, there aren't any fields near where I live
+WORDS: increase
+QUESTION: Is the number of people in your town (or village or city) always increasing? Yes, the number of people in my town (or village or city) is always increasing
+WORDS: battle, war table, but your right hand is over the pen, because
+QUESTION: Are there a lot of battles in a war? Yes, there are a lot of battles in a war
+QUESTION: Were there a lot of battles in Europe during the Second World War? Yes, there were a lot of battles in Europe during the Second World War
+WORDS: over, contact, object
+WORDS: idea
+QUESTION: Do you think it's a bad idea to go to England if you want to learn English well? No, I don't think it's a bad idea to go to England if I want to learn English well; I think it's a good idea
+QUESTION: Do you think it's a good idea to learn some English before going to England? Yes, I think it's a good idea to learn some English before going to England
+WORDS: often, rarely, theatre
+QUESTION: Does it often snow in the warm countries of the world? No, it doesn't often snow in the warm countries of the world; it rarely snows in the warm countries of the world
+QUESTION: Is it very often cold in Africa? No, it isn't very often cold in Africa; it's very rarely cold in Africa
+QUESTION: Do you often go to the theatre? Yes, I often go to the theatre ~ No, I don't often go to the theatre; I rarely go to the theatre
+QUESTION: Does the sun often shine in the north of Europe in winter? No, the sun doesn't often shine in the north of Europe in winter; it rarely shines
+WORDS: understand, exactly, I am sorry
+QUESTION: Do you understand two people when they speak very quickly in English? No, I don't understand two people when they speak very quickly in English
+WORDS: stop
+QUESTION: Do you think it's easy to stop smoking? Yes, I think it's easy to stop smoking ~ No, I don't think it's easy to stop smoking
+DICTATION: What will tomorrow be?/ I don't want anything to eat/ at the moment./ The lesson begins at six o'clock/ and ends at ten to seven./ Those glasses aren't cheap,/ but expensive./ We're inside a building/ and can hear the cars outside./ Put the flowers/ into some water, please./ My mum prefers milk for breakfast/ but wine for lunch./ I hate some food, but most food I love./ We have dinner most evenings with friends.
+
+Lesson 38
+WORDS: talk
+WORDS: voice
+WORDS: however
+GRAMMAR: The verb "to talk" means "to speak"; we can speak to somebody about something, or we can talk to somebody about something. However, we must say "I speak English" and not "I talk English".
+QUESTION: What does the verb to talk mean? The verb "to talk means "to speak" 
+QUESTION: Do you talk to your friends on your mobile every day? Yes, I talk to my friends on my mobile every day ~ No, I don't talk to my friends on my mobile every day
+QUESTION: What does the teacher generally do if you start talking to the student next to you during the lesson? If I start talking to the student next to me during the lesson, the teacher generally asks me to stop talking
+QUESTION: Is it right to say "I am talking English"? No, it isn't right to say "I am talking English"; it's wrong
+QUESTION: What must we say instead? We must say "I'm speaking English" instead
+QUESTION: Can you hear any voices in the next room? Yes, I can hear some voices in the next room - No, I can't hear any voices in the next room
+WORDS: did
+GRAMMAR: The past tense of the verb "to do" is "did".
+QUESTION: What's the past tense of the verb "to do"? The past tense of the verb "to do" is "did"
+WORDS: form, regular, how
+GRAMMAR: We form the past tense of regular verbs by putting the letters "ed" at the end. For example, "walk - walked"; "talk - talked"; "work - worked"; "live - lived" etc. We say "I generally walk a lot; I walked a lot yesterday".
+QUESTION: How do we form the past tense of regular verbs? We form the past tense of regular verbs by putting the letters "ed" at the end
+QUESTION: Did you watch television last week? Yes, I watched television last week
+QUESTION: Did you walk to school yesterday? Yes, I walked to school yesterday
+QUESTION: When did last season end? Last season ended on the #{date}
+QUESTION: Did you work last month? Yes, I worked last month
+QUESTION: How long did last season last? Last season lasted about three months
+QUESTION: Did you live at home with your parents when you were a small child? Yes, I lived at home with my parents when I was a small child
+GRAMMAR: We only put "ed" at the end of the verb in the positive. To make questions and negative sentences, we use "did" and the infinitive without "to". For example, "Did you work yesterday?" - "No, I didn't work yesterday".
+QUESTION: How do we make a negative sentence in the past tense? We make a negative sentence in the past tense by using the word "did" and the infinitive without "to"
+QUESTION: Give me an example, please. I didn't work last Saturday
+QUESTION: How do we make a question in the past tense? We make a question in the past tense by using the word "did" and the infinitive without "to"
+QUESTION: Did you talk to anybody in your family last week? Yes, I talked to somebody in my family last week ~ No, I didn't talk to anybody in my family last week
+QUESTION: Did you call anybody on your mobile phone yesterday? Yes, I called somebody on my mobile phone yesterday - No, I didn't call anybody on my mobile phone yesterday
+WORDS: tree
+QUESTION: Can you see any trees from where you're sitting? Yes, I can see some trees from where I'm sitting - No, I can't see any trees from where I’m sitting
+WORDS: farm, pig
+WORDS: sheep, chicken
+QUESTION: Do you live on a farm? No, I don't live on a farm
+GRAMMAR: The plural of sheep is sheep.
+QUESTION: What's the plural of sheep? The plural of sheep is sheep
+WORDS: cow
+WORDS: horse
+QUESTION: Name some animals we can see on a farm. On a farm, we can see pigs, cows, sheep, chickens and horses
+WORDS: peace
+QUESTION: Is there peace between all the countries of the world at the moment? No, there isn't peace between all the countries of the world at the moment
+WORDS: measure
+QUESTION: Can we measure exactly the quantity of water in the sea? No, we can't measure exactly the quantity of water in the sea
+WORDS: necessary
+QUESTION: Is it necessary to study a lot if we want to learn a subject well? Yes, it's necessary to study a lot if we want to learn a subject well
+WORDS: pay, cash, (credit) card
+WORDS: waiter, waitress
+QUESTION: When you have a meal in a restaurant, do you generally pay by cash or by (credit) card? When I have a meal in a restaurant, I generally pay by ...
+QUESTION: And who takes the money from you? The waiter/ waitress takes the money from me
+DICTATION: We call/ the evening meal dinner./ We eat with a knife, fork and spoon./ I only put a little salt and pepper on my food./ I've got less money/ than the bank./ Most people rest on Sunday,/ but some work./ The opposite of friendly is unfriendly./ The window/ is made of wood and glass,/ the book of paper,/ the floor of stone,/ and the mobile phone of plastic./ There isn't enough air/ in the church/ because the windows are closed.
+
+Lesson 39
+WORDS: along
+QUESTION: Which streets do you walk along when you go home? I walk along ... when I go home
+QUESTION: Is there a white line along the road from here to the next town? Yes, there's a white line along the road from here to the next town.
+WORDS: way
+QUESTION: Which is the best way to remember something very well? The best way to remember 
+GRAMMAR: What's the best way to learn a language? The best way to learn a language is to study a lot and repeat, repeat and repeat
+WORDS: how often
+QUESTION: How often do you go to the cinema? I go to the cinema about once a ...
+QUESTION: How often do we live? We only live once
+QUESTION: How often do you text your friends? I text my friends...
+WORDS: health, healthy, unhealthy
+WORDS: fresh, chips, salad
+QUESTION: Is it good for the health to eat fresh fruit and vegetables? Yes, it's good for the health to eat fresh fruit and vegetables
+QUESTION: Which is healthier to have with our lunch: chips or salad? Salad is healthier to have with our lunch than chips
+QUESTION: Is it healthy to go to bed late every day? No, it isn't healthy to go to bed late every day; it's unhealthy to go to bed late every day
+WORDS: agree
+QUESTION: 2 plus 2 equals 7: do you agree? No, I don't agree that 2 plus 2 equals 7; I disagree
+QUESTION: Do you agree that Paris is an ugly place? No, I don't agree that Paris is an ugly place; I disagree
+GRAMMAR: Do you always agree with everything people say? No, I don't always agree with everything people say; sometimes I agree and sometimes I disagree
+QUESTION: Which is it right to say: "I agree" or "I'm agree"? It's right to say "I agree”
+WORDS: add
+GRAMMAR: 13 plus 30 equals 43. I’m adding 13 and 30.
+QUESTION: Is it complicated to add the numbers 15 and 30 together? No, it isn't complicated to add the numbers 15 and 30 together; it's simple
+QUESTION: What do we sometimes add to our tea and coffee? We sometimes add milk and sugar to our tea and coffee
+QUESTION: What do we add to a regular verb to form its past tense? We add the letters "ed" to a regular verb to form its past tense
+WORDS: jump
+QUESTION: Can you jump over a table with both your feet together? No, I can't jump over a table with both my feet together
+QUESTION: Can you jump up and touch the ceiling? No, I can't jump up and touch the ceiling
+QUESTION: Why not? Because the ceiling's too high
+QUESTION: Can you jump as high as a house? No, I can't jump as high as a house
+WORDS: corner
+WORDS: at
+QUESTION: Are you sitting in a corner of this room? Yes, I'm sitting in a corner of this room - No, I'm not sitting in a corner of this room
+QUESTION: Can you sit at the corner of a round table? No, I can't sit at the corner of a round table
+QUESTION: Why not? Because a round table has no corners
+WORDS: ship
+WORDS: boat
+QUESTION: Can we go by ship from Paris to Milan? No, we can't go by ship from Paris to Milan
+QUESTION: Why not? Because both cities are inland
+QUESTION: Is a boat larger than a ship? No, a boat isn't larger than a ship; it's smaller than a ship
+WORDS: almost
+QUESTION: Does almost everybody in this country have a mobile phone? Yes, almost everybody in this country has a mobile phone
+WORDS: desk, office, job
+QUESTION: Where do we generally see people sitting at desks? We generally see people sitting at desks in offices and classrooms
+QUESTION: In some jobs, can people work from home instead of going to an office? Yes, in some jobs, people can work from home instead of going to an office
+QUESTION: Is it easier to get a good job in your country if you speak English? Yes, it’s easier to get a good job in my country if you speak English
+WORDS: start
+QUESTION: When does next season start? Next season starts on the #{date}
+DICTATION: January, February, March,/ April, May, June,/ July, August, September,/ October, November, December./ That pub is full in the evenings./ The battle was above us/ in the air./ The water below us/ was very deep./ Last month was January./ Next month will be March./ If I want to eat./ I must go either home/ or to a restaurant./ We can enter the bar/ by this door.
+
+Lesson 40
+WORDS: birthday
+QUESTION: When's your birthday? My birthday's on ...
+QUESTION: What do we say to people on their birthday? We say "Happy Birthday" to people on their birthday
+WORDS: hi, meet
+WORDS: nice to meet you, how are you?
+GRAMMAR: When we meet a friend, we can say "Hi" and then "How are you?", "How's it going?" or "How are you doing?" When we meet somebody for the first time, we can say "Hello. Nice to meet you", and shake hands with them.
+QUESTION: What can we say when we meet a friend? When we meet a friend, we can say "Hi. How are you?"
+QUESTION: What can we do when we meet somebody for the first time? When we meet somebody for the first time, we can say "Hello. Nice to meet you", and shake hands with them
+QUESTION: When you go to meet somebody, do you always arrive early? No, when I go to meet somebody I don't always arrive early; sometimes I arrive early and sometimes I arrive late
+WORDS: bring
+WORDS: take
+GRAMMAR: The difference between "bring" and "take" is that "bring" means "carry here" whereas "take" means "carry there". When pupil come to school, they bring their book with them. When they go home after the lesson, they take their book with them.
+QUESTION: What's the difference between "bring" and "take"? The difference between "bring" and "take" is that "bring" means "carry here" whereas "take" means "carry there”
+GRAMMAR: The use of "bring" and "take" obviously becomes more complicated when the speaker and listener are in different places, for example when emailing or talking on the phone.
+QUESTION: Do you take a camera with you when you go on holiday? Yes, I take a camera with me when I go on holiday ~ No, I don't take a camera with me when I go on holiday
+WORDS: quite
+QUESTION: Do you speak English quite well? Yes, I speak English quite well
+QUESTION: Do you go to the cinema quite often? Yes, I go to the cinema quite often ~ No, I don't go to the cinema very often
+QUESTION: Do you think learning English is quite easy, quite difficult, or very difficult? I think learning English is...
+WORDS: pure
+WORDS: impure
+QUESTION: Is pure water bad for the body? No, pure water isn't bad for the body; it's good for the body
+QUESTION: Is the wine we buy in the shops always pure? No, the wine we buy in the shops isn't always pure; sometimes it's pure and sometimes it's impure
+WORDS: promise
+QUESTION: Do you ever promise to give something to somebody and then not give it? Yes, I sometimes promise to give something to somebody and then not give it ~ No, I never promise to give something to somebody and then not give it
+QUESTION: Do you always do what you promise to do? Yes, I always do what I promise to do - No, I don't always do what I promise to do
+WORDS: polite, impolite, adult, teenager
+QUESTION: Are waiters and waitresses always polite to people in restaurants? No, waiters and waitresses aren't always polite to people in restaurants; sometimes they're polite and sometimes they're impolite
+QUESTION: Are teenagers generally more polite than adults? No, teenagers aren't generally more polite than adults; they're generally less polite than adults
+WORDS: excuse me
+QUESTION: When we want to speak to somebody we don't know, what's the first thing we generally say? When we want to speak to somebody we don't know, the first thing we generally say is "Excuse me"
+DICTATION: The government makes the laws,/ and the people break them./ Sometimes a lot of people/ are here at midday./ He can play football/ but not the piano./ The oranges and bananas were old,/ and tasted bad./ He plays his guitar/ morning, afternoon and night./ A boat is smaller than a ship./ If you go to their office,/ they will pay you the necessary money./ It can sometimes be pleasant/ to walk in a field/ in the heart of the country./ We drink from cups and glasses.

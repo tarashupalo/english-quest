@@ -1,0 +1,1316 @@
+Lesson 41
+WORDS: wife - wives, help
+QUESTION: What's the plural of "wife"? The plural of "wife" is "wives"
+QUESTION: Do husbands in this country generally help their wives in the house? Yes, husbands in this country generally help their wives in the house. No, husbands in this country don't generally help their wives in the house
+WORDS: common
+QUESTION: Which is the most common drink in this country besides water? Pepsi is the most common drink in this country besides water
+WORDS: fire
+QUESTION: Do you have a fire at home in winter? Yes, I have a fire at home in winter. No, I don't have a fire at home in winter
+WORDS: broad
+QUESTION: Which is the broadest street in your town? #{street} is the broadest street in my town
+WORDS: rich
+QUESTION: Who is the richest person you know? Bill Gates is the richest person I know
+WORDS: poor
+QUESTION: Name me one of the poorest countries in the world? #{poor_country} is one of the poorest countries in the world
+WORDS: story
+WORDS: bedtime
+QUESTION: Do you like reading war stories? Yes, I like reading war stories ~ No, I don't like reading war stories
+QUESTION: Do parents in your country read bedtime stories to their children? Yes, parents in my country read bedtime stories to their children ~ No, parents in my country don't read bedtime stories to their children
+WORDS: express
+WORDS: thought
+QUESTION: Can you express a very simple idea quite well in English? Yes, I can express a very simple idea quite well in English
+QUESTION: Do you think it's easier to express your thoughts in writing or in speaking? I think it�s easier to express my thoughts in ...
+WORDS: Irregular verbs, so, change
+GRAMMAR: The past tenses of some verbs are irregular, and so we do not add "ed" to form the past tense. Instead, we change the word. For example, the past of "speak" is "spoke"; the past of "come" is "came" etc.
+QUESTION: What's the past of "speak"? The past of speak is "spoke"
+WORDS: speak - spoke
+WORDS: drive - drove
+WORDS: come - came
+WORDS: forget - forgot
+WORDS: break - broke
+WORDS: see - saw
+WORDS: wear - wore
+WORDS: sit - sat
+WORDS: write - wrote
+WORDS: eat - ate
+WORDS: get up - got up
+WORDS: give - gave
+WORDS: stand - stood
+WORDS: begin - began
+WORDS: shine - shone
+WORDS: drink - drank
+WORDS: take - took
+WORDS: sleep - slept
+WORDS: tell - told
+QUESTION: What's the past of "come"? The past of "come" is "came"
+QUESTION: What's the past of "break"? The past of "break" is "broke"
+QUESTION: Did you ever break an arm or a leg when you were a little child? Yes, I broke an arm/a leg when I was a little child - No, I never broke an arm or a leg when I was a little child
+QUESTION: Did you wear a t-shirt yesterday? Yes, I wore a t-shirt yesterday. No, I didn't wear a t-shirt yesterday.
+QUESTION: What time did you get up this morning? I got up at #{time} this morning
+QUESTION: Did the sun shine last week? Yes, the sun shone last week ~ No, the sun didn't shine last week
+QUESTION: Did you take any photographs on your last holiday? Yes, I took some photographs on my last holiday ~ No, I didn't take any photographs on my last holiday
+QUESTION: Did you tell me your name? Yes, I told you my name
+QUESTION: Did anybody in your family drive a car last year? Yes, somebody in my family drove a car last year ~ No, nobody in my family drove a car last year
+QUESTION: What did you eat for your lunch yesterday? I ate some #{food} for my lunch yesterday
+QUESTION: When did last season begin? Last season began on #{date_when_last_season_began}
+QUESTION: What did you drink with your breakfast this morning? I drank some #{drink} with my breakfast this morning
+QUESTION: How long did you sleep last night? I slept #{number} hours last night
+
+Lesson 42
+WORDS: hill, around
+QUESTION: Are there any hills around your town/city? Yes, there are some hills around this town/city - No, there aren't any hills around this town/city
+WORDS: laugh, comedy
+QUESTION: Do people generally laugh when they're happy or unhappy? People generally laugh when they're happy
+QUESTION: Do you laugh when you watch comedies? Yes, I laugh when I watch comedies
+WORDS: enemy, Britain
+QUESTION: What's the opposite of the word "friend"? The opposite of the word "friend" is "enemy"
+QUESTION: Were Britain and America enemies during the Second World War? No, Britain and America weren't enemies during the Second World War; they were friends
+WORDS: castle
+QUESTION: Are there any old castles in your town/city? Yes, there are some old castles in your town/city - No, there aren't any old castles in this town/city
+WORDS: hungry
+WORDS: noise
+QUESTION: Are you hungry at the moment? Yes, I'm hungry at the moment - No, I'm not hungry at the moment
+QUESTION: Are there a lot of hungry people in some parts of the world today? Yes, there are a lot of hungry people in some parts of the world today
+QUESTION: Does your stomach make noises when you're hungry? Yes, my stomach makes noises when I'm hungry
+WORDS: fact, historical
+WORDS: mathematical
+WORDS: geographical
+QUESTION: Tell me a geographical fact. Mt Everest is the highest mountain in the world
+QUESTION: Tell me a historical fact. The Second World War began in 1939
+QUESTION: Tell me a mathematical fact. 2 + 2 = 4
+WORDS: Get
+GRAMMAR: We use the word "get" a lot in English, and it has different meanings:
+WORDS: become
+GRAMMAR: The word "get" means "become" when it has an adjective after it. For example, "I am getting hungry" means "I am becoming hungry".
+QUESTION: When you get hungry, what do you do? When I get hungry, I eat
+QUESTION: Do you think your English is getting better? Yes, I think my English is getting better
+WORDS: obtain, fetch, doctor
+GRAMMAR: When we put a noun after "get", it can mean "receive", "obtain" or "fetch".
+QUESTION: About how much does a doctor get (receive) a month? A doctor gets about #{number} pounds (dollars etc.) a month
+QUESTION: Do you get (receive) any cards from your friends on your birthday? Yes, I get some cards from my friends on my birthday - No, I don't get any cards from my friends on my birthday
+GRAMMAR: Can I get (obtain) clothes from a bookshop? No, you can't get clothes from a bookshop
+QUESTION: Which animal do we get (obtain) milk from? We get milk from a cow
+QUESTION: Will you go and get (fetch) a pen for me from the next room, please? Yes, I'll go and get a pen for you from the next room
+QUESTION: When children are young, do their parents get (fetch) them from school each day? Yes, when children are young, their parents get them from school each day
+WORDS: get to, reach
+GRAMMAR: If we "get to" a place, it means we arrive (or reach) there.
+GRAMMAR: Before the words "home", "here" and "there", we do not use the word "to". For example. "I get here at 11 a.m. for my lesson and go home again at 1 p.m.".
+QUESTION: What time do you generally get (arrive) home at the end of the day? I generally get home at about #{time} at the end of the day
+GRAMMAR: The verb "get" has other meanings besides the ones here, but its general meanings are "become" (before an adjective) and "obtain" (before a noun). If you are not sure when to use "get", it is better to use the other verb with the same meaning. For example, instead of saying "I get many emails" you can say "I receive many emails".
+QUESTION: What are the general meanings of the verb "get"? The general meanings of the verb "get" are "become" and "obtain"
+QUESTION: If you are not sure when to use "get", what is it better to do? If I�m not sure when to use "get", it's better to use the other verb with the same meaning
+WORDS: there was, there were
+WORDS: die
+WORDS: president
+QUESTION: What's the opposite of the verb "to live"? The opposite of the verb "to live" is "to die"
+QUESTION: Do most people die before they're a hundred years old? Yes, most people die before they're a hundred years old
+QUESTION: When did President Kennedy die? President Kennedy died in 1963
+DICTATION: Mount Everest/ is the highest mountain/ in the world./ The Nile is the longest river/ in the world./ This piece of plastic/ is larger than that one./ Her uncle is/ a very handsome man./ War between two nations/ is unpleasant./ A hundred pence/ make a pound./ I can't measure the increase/ in the quantity of gas/ we're using./ A lemon is a yellow fruit./ Start at the bottom of the road/ and go almost to the top./ The table's heavy./ The date today/ is the twenty-first of October/ 2011.
+
+Lesson 43
+WORDS: strong, weak, physical
+QUESTION: Is whisky a weak drink? No, whisky isn't a weak drink; it�s a strong drink
+QUESTION: Are young boys generally physically stronger than men? No, young boys aren't generally physically stronger than men; they�re generally physically weaker than men
+WORDS: soldier, army, make money
+WORDS: uniform
+QUESTION: Does a soldier make a lot of money these days? Yes a soldier makes a lot of money these days ~ No, a soldier doesn't make a lot of money these days
+QUESTION: Which country do you think has the largest army in the world today? I think #{country} has the largest army in the world today
+QUESTION: What do we call the clothes that a soldier wears? We call the clothes that a soldier wears a uniform
+QUESTION: Do most children wear uniforms at school in your country? Yes, most children wear uniforms at school in my country - No, most children don't wear uniforms at school in my country
+WORDS: build, fill
+QUESTION: Is it cheap to build a large house in the country? No, it isn�t cheap to build a large house in the country; it�s expensive
+QUESTION: Do you fill your stomach completely when you eat? Yes, I fill my stomach completely when I eat ~ No, I don�t fill my stomach completely when I eat
+WORDS: contain
+WORDS: art, artist
+QUESTION: Are you very good at art? Yes, I�m very good at art - No, I�m not very good at art
+QUESTION: Was Picasso a writer or an artist? Picasso was an artist
+WORDS: feel, too much
+QUESTION: Do you always feel in good health? Yes, I always feel in good health ~ No, I don�t always feel in good health
+QUESTION: Do you feel bad if you eat too much? Yes, I feel bad if I eat too much
+QUESTION: Do you feel sad in good weather? No, I don't feel sad in good weather; I feel happy in good weather
+WORDS: middle, centre
+QUESTION: Do people drive their cars in the middle of the road? No, people don�t drive their cars in the middle of the road; in most countries they drive them on the right-hand side of the road
+QUESTION: What's another word for "middle"? Another word for "middle" is "centre"
+QUESTION: Is there anything in the centre of your room? Yes, there�s something in the centre of my room ~ No, there isn�t anything in the centre of my room
+WORDS: sure
+QUESTION: What's your name? My name's #{any}
+QUESTION: Are you sure? Yes, I'm sure
+QUESTION: How many ears have you? I've two ears
+QUESTION: Are you sure? Yes, I'm sure
+WORDS: request
+QUESTION: Do we generally say "please" in English at the beginning of a request? No, we don't generally say please in English at the beginning of a request; we say it at the end of a request
+QUESTION: Is it polite not to say "please" when we make a request? No, it isn't polite not to say "please� when we make a request; it's impolite
+WORDS: neither ... nor
+QUESTION: Are there a hundred chairs in your room or a thousand chairs? No, there are neither a hundred chairs in this room nor a thousand chairs; there are #{number} chairs in this room 
+QUESTION: Are you Mr Brown or Mr Smith? No, I'm neither Mr Brown nor Mr Smith; I'm #{name}
+WORDS: willing
+QUESTION: Are you always willing to help other people? Yes, I'm always willing to help other people - No, I'm not always willing to help other people
+
+Lesson 44
+WORDS: film, pronunciation
+WORDS: leave - left
+WORDS: read - read
+WORDS: smell - smelt
+WORDS: meet- met
+WORDS: learn- learnt
+WORDS: feel - felt
+WORDS: send - sent
+WORDS: hear - heard
+WORDS: know - knew
+WORDS: hold - held
+WORDS: hang - hung
+WORDS: bring - brought
+WORDS: buy - bought
+WORDS: go - went
+WORDS: shake - shook
+WORDS: teach - taught
+WORDS: think - thought, say - said
+QUESTION: What's the past of "leave"? The past of leave is "left"
+QUESTION: What's the past of "smell"? The past of smell is "smelt"
+QUESTION: Did your lunch smell bad yesterday? No, my lunch didn't smell bad yesterday; it smelt good
+QUESTION: Did you learn any new words last week? Yes, I learnt some new words last week
+QUESTION: Did you send any emails to your friends last month? Yes, I sent some emails to my friends last month
+QUESTION: Did you read any books last week? Yes, I read some books last week
+QUESTION: Who was the last person you met today? #{person} was the last person I met today
+QUESTION: Did you feel cold last summer? No, I didn't feel cold last summer; I felt hot
+QUESTION: Where did you buy your clothes from? I bought my clothes from #{shop}.  I bought my clothes from a clothes shop. I bought my clothes from a man on a street
+QUESTION: Did you go to the pub last month? Yes, I went to the pub last month ~ No, I didn't go to the pub last month
+QUESTION: Who was the last person you shook hands with? #{person} was the last person I shook hands with
+QUESTION: What did I say to you at the end of the last lesson? You said "Goodbye" to us at the end of the last lesson
+QUESTION: Did you think the last film you saw was a good one? Yes, I thought the last film I saw was a good one - No, I didn't think the last film I saw was a good one; I thought it was bad
+QUESTION: Did you think English pronunciation was difficult when you first began studying English? Yes, I thought English pronunciation was difficult when I first began studying English
+QUESTION: Did your parents teach you to wash and dress when you were a child? Yes, my parents taught me to wash and dress when I was a child
+WORDS: bicycle, motorbike
+WORDS: bike
+QUESTION: Which is quicker: a bicycle or a motorbike? A motorbike is quicker than a bicycle
+QUESTION: What's a bike? A bike is either a bicycle or a motorbike
+WORDS: mistake
+QUESTION: Did you make any mistakes in your last dictation? Yes, I made some mistakes in my last dictation
+QUESTION: Do you ever mistake the word "walk" for "work" when you hear it? Yes, I sometimes mistake the word "walk" for "work" when I hear it
+WORDS: listen
+WORDS: hear
+WORDS: news
+WORDS: radio, radio station, all the time
+QUESTION: What can you hear? I can hear the cars in the street etc.
+QUESTION: Did you hear the news on the radio yesterday? Yes, I heard the news on the radio yesterday ~ No, I didn't hear the news on the radio yesterday
+QUESTION: How often do they give the news on the radio each day? They give the news about #{times} on the radio each day
+QUESTION: Do you listen to the same radio station all the time? Yes, I listen to the same radio station all the time ~ No, I don't listen to the same radio station all the time
+WORDS: ill, well, a cold, medicine
+QUESTION: Do you ever feel ill? Yes, I sometimes feel ill
+QUESTION: Do you take medicine when you feel ill? Yes, I take medicine when I feel ill ~ No, I don�t take medicine when I feel ill
+QUESTION: When was the last time you felt ill? The last time I felt ill was #{when_in_past}
+QUESTION: What's the opposite of "ill"? The opposite of "ill" is "well"
+QUESTION: Do people feel well when they have a cold? No, people don't feel well when they have a cold; they feel ill
+WORDS: favourite, thirsty, programme
+QUESTION: Are you thirsty at the moment? Yes, I'm thirsty at the moment - No, I'm not thirsty at the moment
+QUESTION: What's your favourite drink apart from water when you feel very thirsty? My favourite drink apart from water when I feel very thirsty is #{drink}
+QUESTION: What's your favourite television programme? My favourite television programme is #{tv_programme}
+WORDS: sell, supermarket
+QUESTION: What's the opposite of the verb "to buy"? The opposite of the verb "to buy" is "to sell"
+QUESTION: In what kind of shops do they generally sell umbrellas? They generally sell umbrellas in clothes shops
+QUESTION: Do they sell food in clothes shops? No, they don�t sell food in clothes shops; they sell it in supermarkets
+QUESTION: Is there a supermarket in the centre of your town? Yes, there's a supermarket in the centre of my town - No, there isn�t a supermarket in the centre of my town
+DICTATION: They go to bed at ten/ and get up at seven./ They sleep nine hours./ I love both tennis and basketball,/ but don't play either well./ He hates going to the shops/ at the weekend./ Count up to ten, please./ He has the least money./ The word "mine"/ is a possessive pronoun./ "On" is a preposition./ "Break" is an irregular verb./ That phone is excellent./ What does the word "stomach" mean?/ "Go!" is imperative./ The names of five vegetables are/ potatoes, tomatoes,/ onions, carrots and peas.
+
+Lesson 45
+WORDS: lots of, away, tell
+QUESTION: What can we say instead of "a lot of"? We can say "lots of" instead of "a lot of"
+QUESTION: If you have lots of work to do and a friend talks to you all the time, what do you tell him to do? If I have lots of work to do and a friend talks to me all the time, I tell him to go away
+QUESTION: Did you go away for your holidays last summer? Yes, I went away for my holidays last summer ~ No, I didn't go away for my holidays last summer
+QUESTION: Where did you go? Did you like it? I went to ...
+QUESTION: Do you ever give any money away? Yes, I sometimes give some money away ~ No, I never give any money away
+WORDS: business, foreign
+QUESTION: Does your country do business with foreign countries? Yes, my country does business with foreign countries
+WORDS: rainy
+WORDS: sunny
+WORDS: cloudy
+QUESTION: Is Greece a rainy country? No, Greece isn't a rainy country; it's a sunny country 
+QUESTION: Is it a sunny day today? Yes, it's a sunny day today - No. it isn't a sunny day today
+QUESTION: Was it a cloudy day yesterday? Yes, it was a cloudy day yesterday - No, it wasn't a cloudy day yesterday
+QUESTION: Do you think it will be a rainy day tomorrow? Yes, I think it'll be a rainy day tomorrow - No. I don't think it'll be a rainy day tomorrow
+QUESTION: nature
+QUESTION: Do you think nature is always beautiful? Yes, I think nature is always beautiful - No, I don't think nature is always beautiful
+WORDS: price 
+QUESTION: What is the price of a meal in a very cheap restaurant in the place where you live? The price of a meal in a very cheap restaurant in the place where I live is about #{money}
+WORDS: bush
+QUESTION: ls a bush higher (or taller) than a tree? No, a bush isn't higher (or taller) than a tree; it's lower (or shorter) than a tree
+WORDS: worth, to be worth, value
+GRAMMAR: My car cost $8000, but I bought it two years ago. Now, if I want to sell it, I can only sell it for about $5000. It has a value of about $5000. It is worth about $5000 now.
+QUESTION: What does it mean if I say "This book is worth $5"? If you say that book is worth $5, it means that you can sell it for $5, or that it has a value of $5
+QUESTION: How much did your watch cost? My watch cost #{money}
+QUESTION: When did you buy it? I bought it in a shop.
+QUESTION: About how much do you think it's worth now? I think it�s worth about #{money} now
+QUESTION: Are your shoes worth as much now as they were when you bought them? No, my shoes aren't worth as much now as they were when I bought them; they�re worth less now than they were when I bought them
+GRAMMAR: Worth + -ing (gerund)
+GRAMMAR: If we say that something is "worth doing", we mean that it is better to do it than not do it. For example, if you live in a very rainy country, it is worth buying an umbrella. If you live in a very sunny country, it is not worth buying an umbrella.
+QUESTION: Do you think it's worth paying lots of money for clothes? Yes, I think it's worth paying lots of money for clothes ~ No, I don't think it's worth paying lots of money for clothes
+QUESTION: Do you think it's worth studying the language of another country? Yes, I think it�s worth studying the language of another country
+QUESTION: Do you think it's worth buying an umbrella if you live in a country where it only rains about once a month? No, I don't think it's worth buying an umbrella if I live in a country where it only rains about once a month
+QUESTION: Do you think it's worth taking an umbrella with you on a rainy day? Yes, I think it's worth taking an umbrella with me on a rainy day
+WORDS: hard, soft
+GRAMMAR: The word "hard" has three meanings: "difficult", "very much", and the opposite of "soft".
+QUESTION: What are the three meanings of the word "hard"? The three meanings of the word "hard" are "difficult", "very much�, and the opposite of "soft"
+QUESTION: Is Chinese an easy language to learn? No, Chinese isn't an easy language to learn; it's a hard language to learn 
+QUESTION: Is English grammar hard? No, English grammar isn't hard; it's easy 
+QUESTION: Do you work very hard? Yes, I work very hard - No, I don't work very hard; I work very little
+QUESTION: Do you think you generally work harder than your parents? Yes, I think I generally work harder than my parents - No, I don't think I generally work harder than my parents; I think I work less than my parents (or less hard than my parents)
+QUESTION: Is your hand hard? No, my hand isn't hard; it's soft
+QUESTION: Is the floor soft? No, the floor isn't soft; it's hard
+DICTATION: I arrive at eight o'clock,/ study one hour,/ and leave at nine./ During the day/ we can see the sun in the sky,/ whilst during the night/ we can see the moon and the stars./ Paris is not by the sea,/ but inland./ He cut his finger;/ not once, not twice, but three times./ They cannot lift the table/ on their backs./ The four seasons are/ spring, summer, autumn and winter./ He does not follow the teacher/ into the room,/ but he precedes him.
+
+Lesson 46
+WORDS: Future tense, "Will" + infinitive without "to"
+GRAMMAR: We form the future tense with the word "will" and the infinitive without "to". The future of "I go" is �I will go�. The future of "you go" is "you will go". The complete tense of the verb "to go" is "I will go", �you will go", "he will go", �she will go" etc.
+QUESTION: What's the future of "I go"? The future of "I go" is "I will go"
+QUESTION: What's the future of "you go"? The future of "you go" is "you will go"
+QUESTION: What's the complete future of the verb "to go"? The complete future of the verb "to go" is "I will go", "you will go� etc.
+GRAMMAR: The contraction of "I will" is 'I'll�; the contraction of "you will" is "you'll" etc.
+QUESTION: What's the contraction of "I will"? The contraction of "I will" is "I�ll"
+QUESTION: What's the contraction of "you will"? The contraction of "you will" is "you'll"
+QUESTION: What are the contractions of "he will", "she will" etc.? The contractions of "he will", "she will" etc. are "he'll", "she�ll", etc.
+WORDS: in 3 months' time
+GRAMMAR: The opposite of "3 months ago" is "in 3 months' time".
+QUESTION: What's the opposite of 3 months ago? The opposite of "3 months ago" is "in 3 months' time"
+QUESTION: Where will you be in 6 months' time? I'll be #{where} in 6 months' time
+QUESTION: Will it rain next year? Yes, it'll rain next year
+GRAMMAR: We use the apostrophe in the phrase "3 months' time", because the phrase means �the time of 3 months".
+WORDS: won't
+WORDS: stay
+GRAMMAR: The contraction of "I will not" is "I won't". The contraction of "you will not" is "you won't".
+QUESTION: What's the contraction of "I will not"? The contraction of "I will not" is "I won't"
+QUESTION: What's the contraction of "you will not"? The contraction of "you will not" is "you won�t"
+QUESTION: What are the contractions of "he will not", "she will not" etc.? The contractions of "he will not", "she will not" etc. are "he won't", "she won't" etc.
+QUESTION: Will you be here in a hundred years' time? No, I won't be here in a hundred years' time
+QUESTION: Will we live for a thousand years? No, we won't live for a thousand years
+QUESTION: Will you agree to give a man on the street all the money you have in your pockets if he ask you? No, I won�t agree to give a man on the street all the money I have in my pockets if he ask me
+WORDS: shall, suggestion
+GRAMMAR: We use "shall" instead of "will" when we are making a suggestion with the pronoun "I" or "we". For example, we say "Shall I open the window?", "Shall we go to the cinema?" etc. 
+We can also ask somebody for a suggestion with "shall". For example, we can ask "What shall I do?", "Where shall we go?" etc.
+QUESTION: When do we use "shall" instead of "will"? We use "shall" when we are making a suggestion with the pronoun "I" or "we"
+QUESTION: Can we use "shall" to ask for a suggestion? Yes, we can use "shall" to ask for a suggestion
+WORDS: public, in public, public holiday
+QUESTION: Is your home open to the public? No, my home isn't open to the public
+QUESTION: How many public holidays are there in your country each year? There are #{number} public holidays in my country each year
+QUESTION: Do you like speaking in public? Yes, I like speaking in public - No, I don't like speaking in public
+WORDS: show
+WORDS: kill, tiger
+QUESTION: Do tigers kill other animals for food? Yes, tigers kill other animals for food
+QUESTION: Do you like films in which lots of people get killed? Yes, I like films in which lots of people get killed - No, I don't like films in which lots of people get killed
+
+Lesson 47
+WORDS: queen
+WORDS: head
+QUESTION: Are there many countries in the world which have a queen as the head of the government? No, there aren't many countries in the world which have a queen as the head of the government
+WORDS: blood
+QUESTION: What colour's blood? Blood's red
+WORDS: offer, company
+WORDS: in company
+WORDS: chocolate
+WORDS: chocolates
+QUESTION: When you're eating chocolates in company, do you offer them round? Yes, when I'm eating chocolates in company, I offer them round - No, when I'm eating chocolates in company, I don't offer them round
+QUESTION: If I offer you a million pounds, will you take it? Yes, if you offer me a million pounds. I'll take it ~ No, if you offer me a million pounds, I won't take it
+WORDS: life, death, in the past
+QUESTION: What's the opposite of "life"? The opposite of "life" is "death"
+QUESTION: Do you think life is more pleasant for children or adults? I think life is more pleasant for ...
+QUESTION: Do you think life is harder these days than it was in the past? No, I don't think life is harder these days than it was in the past; I think it's easier
+QUESTION: In your country, what colour do you use for death? In my country, we use ... for death
+QUESTION: Is death a pleasant subject to speak about? No, death isn't a pleasant subject to speak about
+WORDS: suggest, exercise
+QUESTION: What do doctors suggest doing for a healthy life? Doctors suggest eating healthy food and getting lots of fresh air and exercise for a healthy life
+QUESTION: Where do you suggest I go for my holiday next year? suggest you go to #{place}
+WORDS: tonight
+QUESTION: What time will you go to bed tonight? I�ll go to bed at #{time} tonight
+QUESTION: What will you do before going to bed tonight? I�ll watch TV, read, go to the cinema etc. before going to bed tonight
+WORDS: tired, tired of
+QUESTION: Are you tired at the moment? Yes, I�m tired at the moment ~ No, I�m not tired at the moment
+QUESTION: What do you do when you feel tired? When I feel tired, I go to bed
+QUESTION: Are you tired of studying? Yes, I�m tired of studying ~ No, I�m not tired of studying
+WORDS: turn, turn over
+QUESTION: If you turn round, what will you see? If I turn round, I�ll see a picture etc.
+QUESTION: Can you turn completely round without standing up? No, I can't turn completely round without standing up
+WORDS: got
+GRAMMAR: The past of "get" is "got".
+QUESTION: What's the past of "get"? The past of "get" is "got"
+QUESTION: Where did you get your shoes? I got my shoes from... (or "a shoe shop")
+WORDS: until, till
+GRAMMAR: Every day, I work from 9 a.m. until 18 p.m. At night, I sleep from 23 p.m. until 7 a.m. Instead of �until", we can say "till".
+QUESTION: Do you want to live until you're a hundred years old? Yes, I want to live until I�m a hundred years old - No, I don't want to live until I'm a hundred years old
+QUESTION: Are supermarkets sometimes open till late at night? Yes, supermarkets are sometimes open till late at night
+WORDS: again
+WORDS: too many
+QUESTION: Will you come here again next week? Yes, I'll come here again next week - No, I won't come here again next week
+QUESTION: If we make too many mistakes in our dictations, do you think it�s better to do them again? Yes, if we make too many mistakes in our dictations, I think it's better to do them again
+WORDS: duration
+QUESTION: What's the duration of a lesson in school? The duration of a lesson in school is ... minutes
+QUESTION: What's the duration of a game of football? The duration of a game of football is 90 minutes
+WORDS: there will be, there'll be
+QUESTION: Will there be anything on TV tonight? Yes, there'll be something on TV tonight
+QUESTION: "New" we use for things,/ whereas "young" we use for people./ That shop is older than ours./ Christmas and Easter/ are the two most important holidays/ of the year./ When our stomachs are empty,/ we must eat,/ but not when they are full./ He doesn't like the subject of mathematics/ very much./ On a cold morning,/ he sometimes dresses before washing./ Juice, geography, fruit, telephone, apple./ Finland is/ one of the coldest countries/ in the world,/ whilst India is/ one of the hottest./ England is cool./ Italy is warm./ Her flat is near our house./ She lives in the first block.
+
+Lesson 48
+WORDS: newspaper, magazine
+WORDS: popular
+QUESTION: Which newspaper do you read? I read...
+QUESTION: Which is one of the most popular newspapers in your country? The ... is one of the most popular newspapers in this country
+QUESTION: Do you often read magazines? Yes, I often read magazines ~ No, I don't often read magazines
+WORDS: sold
+QUESTION: What's the past of "sell"? The past of "sell" is "sold"
+QUESTION: Which shop sold you your shoes? ... sold me my shoes
+WORDS: coal
+QUESTION: What do we use to make a fire? We use wood, paper, coal etc. to make a fire
+QUESTION: What colour's coal? Coal�s black
+WORDS: decide, menu
+QUESTION: In a restaurant, what do we look at to decide what we want to eat? In a restaurant, we look at a menu to decide what we want to eat
+QUESTION: Did you decide to study English, or did somebody in your family decide for you? I decided to study English; nobody in my family decided for me - Somebody in my family decided for me
+WORDS: explain
+QUESTION: Explain the difference between the present continuous and the present simple, please. The difference between the present continuous and the present simple is that we use the present continuous for an action we are doing now, whereas we use the present simple for an action we do generally
+QUESTION: What are you doing? I'm explaining the difference between the present continuous and the present simple
+WORDS: heaven, hell
+QUESTION: Which place in the world do you think is most like heaven? I think #{place} is most like heaven
+QUESTION: What's the opposite of "heaven"? The opposite of "heaven" is "hell"
+WORDS: book
+QUESTION: Is it a good idea to book a table before going to a very popular restaurant? Yes, it's a good idea to book a table before going to a very popular restaurant
+WORDS: try, try hard, possible, impossible
+QUESTION: Do you always try hard to answer the questions I ask you? Yes, I always try hard to answer the questions you ask me
+QUESTION: Are you always willing to try anything new? Yes, I'm always willing to try anything new - No, I'm not always willing to try anything new
+QUESTION: Do some people sometimes try to do the impossible? Yes, some people sometimes try to do the impossible
+WORDS: quiet, noisy
+QUESTION: Are cities quiet places to live in? No, cities aren't quiet places to live in; they're noisy places
+QUESTION: Is village life noisy? No, village life isn't noisy; it's quiet
+QUESTION: Which do you think's the noisiest street in this town? I think ... is the noisiest street in this town
+QUESTION: Are motorbikes quieter than bicycles? No, motorbikes aren't quieter than bicycles; they're noisier than bicycles
+WORDS: sorry, pleased, I'm sorry
+QUESTION: Are you sorry when the winter ends? Yes, I�m sorry when the winter ends ~ No, I�m not sorry when the winter ends; I'm pleased
+QUESTION: Will you be sorry if it's a sunny day tomorrow? No, I won't be sorry if it's a sunny day tomorrow; I'll be pleased
+QUESTION: What do we say to people when we do something wrong? We say "I'm sorry" to people when we do something wrong
+WORDS: had
+GRAMMAR: The past of "have" is "had".
+QUESTION: What's the past of "have"? The past of "have" is "had"
+QUESTION: What did I have in my hand last lesson? You had a pen in your hand last lesson
+QUESTION: What did you have for your breakfast this morning? I had some coffee, some bread etc. for my breakfast this morning
+QUESTION: Did you have any shoes on your feet yesterday? Yes, I had some shoes on my feet yesterday
+QUESTION: Did you have any money in your pockets (or bags) today in the morning? Yes, I had some money in my pockets (or bags) today in the morning
+WORDS: could, baby
+GRAMMAR: The past of "can" is "could".
+QUESTION: What's the past of "can"? The past of "can" is "could"
+QUESTION: Could you speak English fifteen years ago? No, I couldn't speak English fifteen years ago
+QUESTION: Could you write your name when you were a baby of six months old? No, I couldn�t write my name when I was a baby of six months old
+QUESTION: Could you read when you were a little baby? No, I couldn't read when I was a little baby
+WORDS: perhaps, maybe, a friend of yours
+QUESTION: Do you think maybe it'll rain later? Yes, I think maybe it�ll rain later ~ No, I don't think it'll rain later
+QUESTION: Do you think perhaps you'll meet a friend of yours tonight? Yes, I think perhaps I'll meet a friend of mine tonight ~ No, I don�t think I�ll meet a friend of mine tonight
+QUESTION: Do you think maybe you'll go to the cinema next month? Yes, I think maybe I'll go to the cinema next month ~ No, I don�t think I'll go to the cinema next month
+GRAMMAR: Notice that we do not follow the phrase "I don't think ..." with the words "perhaps" or "maybe". This is because both these words communicate the speaker�s feeling that something is possible, whilst the phrase "I don�t think" contradicts this idea.
+WORDS: sweet
+QUESTION: Do you like sweet food? Yes, I like sweet food ~ No, I don't like sweet food
+QUESTION: Did you eat a lot of sweets when you were a child? Yes, I ate a lot of sweets when I was a child ~ No, I didn�t eat a lot of sweets when I was a child
+DICTATION: I can't taste the difference/ between these two wines./ An hour is divided into minutes./ I can walk no further;/ I must rest./ Send the children/ into the other room;/ I want to read./ I get up early in summer,/ but later in winter./ I go to bed/ earlier than my father./ It isn�t dark in this room/ when the sun is shining./ A millionaire/ is a very rich person./ Ash, university, shallow,/ complicated, reply./ The message we often write/ inside a Christmas card is/ "Merry Christmas and a Happy New Year".
+
+Lesson 49
+WORDS: spoken, written
+GRAMMAR: We generally use a lot of contractions in spoken English, but not often in written English.
+QUESTION: Do we generally use contractions in spoken or written English? We generally use contractions in spoken English
+QUESTION: Do you think it's easier to understand written English or spoken English? I think it's easier to understand written English. I think it's easier to understand spoken English.
+WORDS: book will - book'll
+WORDS: tomorrow will - tomorrow'll
+WORDS: light will - light'll
+WORDS: Mr Smith will - Mr Smith'll
+WORDS: who will - who'll
+WORDS: what will - what'll
+GRAMMAR: The contraction of "book will" is "book'll"; "tomorrow will - tomorrow'll"; "Mr Smith will - Mr Smith'll"; "who will - who'll"; "what will - what'll" etc.
+QUESTION: What's the contraction of "book will"? The contraction of "book will" is "book'll"
+GRAMMAR: We generally use contractions when we speak, but we don't use them if they are difficult to pronounce. For example, we say "pen'll" but not "pencil'll".
+QUESTION: Do we always use contractions in English? No, we don't always use contractions in English 
+QUESTION: When don't we use contractions? We don't use contractions when they are difficult to pronounce
+QUESTION: Do you think tomorrow'll be a cloudy day? Yes, I think tomorrow'll be a cloudy day. No, I don't think tomorrow'll be a cloudy day; I think it'll be sunny. No, I don't think tomorrow'll be a cloudy day; I think it'll be sunny day
+WORDS: spell
+WORDS: communicate, easily
+QUESTION: Do you prefer to communicate with your friends by phoning or texting? I prefer to communicate with my friends by phoning. I prefer to communicate with my friends by texting.
+QUESTION: Do you think it's easier to communicate in spoken or written English? I think it's easier to communicate in spoken English. I think it's easier to communicate in written English.
+QUESTION: Can you communicate very complicated ideas easily in English? No, I can't communicate very complicated ideas easily in English
+WORDS: hadn't
+GRAMMAR: The negative of "had" is "hadn't".
+QUESTION: What's the negative of "had"? The negative of "had" is "hadn't"
+WORDS: Different forms of "have"
+GRAMMAR: The common ways of asking a question with the verb "have" are:
+1) Do you have a pen?
+2) Have you got a pen?
+In the past tense, it is the same. We can say:
+1) Did you have a pen?
+2) Had you got a pen?
+The most common way of asking a question with the verb "have" in the past is "Did you have...?"
+QUESTION: What are the common ways of asking a question with the verb "to have"? The common ways of asking a question with the verb "to have" are "Do you have a pen?" and "Have you got a pen?"
+QUESTION: What are the common ways for the past tense? The common ways for the past tense are "Did you have a pen?" and "Had you got a pen?"
+QUESTION: Which is the most common way of asking a question with the verb "have" in the past? The most common way of asking a question with the verb "have" in the past is "Did you have ...?"
+QUESTION: Did you have a hat on your head yesterday? No, I didn't have a hat on my head yesterday
+QUESTION: Had you got any money in your hand last week? No, I hadn't got any money in my hand last week
+WORDS: practise, practice, sport
+QUESTION: Did you practise your English yesterday? Yes, I practised my English yesterday. No, I didn't practise my English yesterday
+QUESTION: Is it easier to become good at a sport if you get lots of practice? Yes, it's easier to become good at a sport if you get lots of practice
+QUESTION: What's the difference between the noun "practice" and the verb "practise"? The difference between the noun "practice" and the verb "practise" is that we spell the noun with a "c" and we spell the verb with an "s"
+WORDS: would like
+QUESTION: What's a polite way of communicating that you want something? A polite way of communicating that you want something is to say "I would like ..."
+QUESTION: What can we say when we offer something to somebody? When we offer something to somebody, we can say "Would you like ...?"
+QUESTION: Would you like a cup of tea? Yes, I would like a cup of tea. No, I wouldn't like a cup of tea.
+QUESTION: Would you like to go to the cinema? Yes, I would like to go to the cinema. No, I wouldn't like to go to the cinema.
+WORDS: visit, Australia
+QUESTION: Can we learn a lot by visiting different countries? Yes, we can learn a lot by visiting different countries
+QUESTION: Did you visit any new places last month? Yes, I visited some new places last month ~ No, I didn't visit any new places last month
+QUESTION: Would you like to visit Australia in the future? Yes, I would like to visit Australia in the future. No, I wouldn't like to visit Australia in the future
+WORDS: use
+QUESTION: What's the use of a pen? The use of a pen is for writing
+QUESTION: What's the use in studying languages? The use in studying languages is to make it possible for us to speak to people from other countries
+DICTATION: We watch a game of football,/ but look at a photograph./ He speaks better than I do./ I am the worst/ in the class,/ while he is the best./ I buy my soap/ from that shop/ besides shampoo./ I forgot my camera,/ so I took the photos/ with my mobile instead./ I know I can hold/ a simple conversation in English./ Poor, story, hill,/ farm, laugh, rich,/ soldier, stop, castle,/ enemy./ Not every student is quick;/ some are quick/ and some are slow./ I'm always sad/ when it rains on Sunday.
+
+Lesson 50
+WORDS: therefore
+GRAMMAR: A example of the word "therefore": I want to learn English well. Therefore, I must study.
+WORDS: sound, traffic, silent
+QUESTION: Can you hear the sound of traffic at the moment? Yes, I can hear the sound of traffic at the moment. No, I can't hear the sound of traffic at the moment
+QUESTION: Do you think the English language sounds pleasant? Yes, I think the English language sounds pleasant. No, I don't think the English language sounds pleasant
+QUESTION: Is your house completely silent at night or can you hear street noise? My house is completely silent at night. My house isn't completely silent at night; I can hear street noise
+GRAMMAR: The difference between "a" and "an" is that we use "a" before a consonant sound whereas we use "an" before a vowel sound. For example, we say "a book" because the word "book" starts with the sound /b/, a consonant sound. We say "an apple" because the word "apple" starts with the sound /�/, a vowel sound.
+QUESTION: What's the difference between "a" and "an"? The difference between "a" and "an" is that we use "a" before a consonant sound, whereas we use "an" before a vowel sound
+GRAMMAR: Remember, some words that begin with the letter "h" start with a vowel sound, because the "h" Is silent. For example, we say "an hour" and not "a hour". 
+QUESTION: Is it right to say "a hour" or "an hour"? It's right to say "an hour"
+QUESTION: Why? Because the letter "h" in the word "hour" is silent
+WORDS: succeed
+WORDS: fail
+WORDS: examination (exam)
+WORDS: take an examination, pass
+GRAMMAR: Generally, after the verb "succeed", we use the word "in" and the gerund. For example, we say "succeed in going", "succeed in taking" etc.
+QUESTION: Did you fail to answer the last question? No, I didn't fail to answer the last question; I succeeded in answering the last question
+QUESTION: If you try hard, do you think you'll succeed in learning English well? Yes, if I try hard, I think I'll succeed in learning English well
+QUESTION: What's the opposite of "to fail an exam"? The opposite of "to fail an exam" is "to pass an exam"
+QUESTION: If you fail an examination do you always take it again?
+A: Yes, if I fail an examination, I always take it again.
+A: No, if I fail an examination, I don't always take it again
+QUESTION: Do people generally succeed in getting what they want if they try hard enough?
+A: Yes, people generally succeed in getting what they want if they try hard enough
+WORDS: have to (= must)
+GRAMMAR: "Have to" means the same as "must". We can say "I must go to school" or "I have to go to school". However, we cannot use "must" to speak about the past. Instead, we use "had to" and say "Yesterday, I had to go to school".
+QUESTION: What can we say instead of "I must study"?
+A: Instead of "I must study" we can say "I have to study"
+QUESTION: Do you have to eat if you want to live?
+A: Yes, I have to eat if I want to live
+QUESTION: Did you have to get up early yesterday morning?
+A: Yes, I had to get up early yesterday morning.
+A: No, I didn't have to get up early yesterday morning
+GRAMMAR: The negatives of "have to" and "must" have different meanings. "I don't have to do it" means that I can do it if I want, but it is not necessary. "I mustn't do it" means that it is bad or wrong to do it.
+QUESTION: Which is it right to say: "You mustn't smoke in this building" or "You don't have to smoke in this building"?
+A: It's right to say "You mustn't smoke in this building"
+QUESTION: Which is it right to say: "I mustn't get up early on Saturday" or "I don't have to get up early on Saturday"?
+A: It's right to say "I don't have to get up early on Saturday"
+QUESTION: Must you study if you want to learn English?
+A: Yes, I must study if I want to learn English
+QUESTION: Must you study ten hours a day if you want to learn English?
+A: No, I don't have to study ten hours a day if I want to learn English
+
+Lesson 51
+WORDS: worker
+WORDS: beginner, sleeper
+WORDS: writer
+WORDS: speaker
+QUESTION: How do we sometimes form a noun from a verb?
+A: We sometimes form a noun from a verb by adding the letters "er" to the verb
+QUESTION: Are you a hard worker?
+A: Yes, I'm a hard worker
+A: No, I'm not a hard worker; I work very little
+QUESTION: Are you a complete beginner in English?
+A: No, I'm not a complete beginner in English; I began ...
+QUESTION: Are you a heavy (or deep) sleeper?
+A: Yes, I,m a heavy sleeper - No, I'm not a heavy sleeper; I'm a light sleeper
+QUESTION: Who's your favourite writer?
+A: My favourite writer is #{writer}
+WORDS: hope
+QUESTION: Do you hope you'll live a very long time?
+A: Yes, I hope I'll live a very long time
+A: No, I don't hope I'll live a very long time
+QUESTION: Do you think it's important to be positive about life and full of hope for the future?
+A: Yes, I think it's important to be positive about life and full of hope for the future
+QUESTION: Do you hope the weather will be sunny tomorrow?
+A: Yes, I hope the weather will be sunny tomorrow
+WORDS: believe 
+QUESTION: Do you believe everything people tell you?
+A: No, I don't believe everything people tell me; some things I believe and some things I disbelieve
+QUESTION: Do you believe there is life on other planets?
+A: Yes, I believe there is life on other planets
+A: No, I don't believe there is life on other planets
+QUESTION: Do you believe it'll be possible in the future for people to live until they're two hundred years old?
+A: Yes, I believe it'll be possible in the future for people to live until they're two hundred years old
+A: No, I don't believe it'll be possible in the future for people to live until they're two hundred years old
+WORDS: do the shopping, go shopping, list
+QUESTION: What's the difference between "to do the shopping" and "to go shopping"?
+A: The difference between "to do the shopping" and "to go shopping" is that "to do the shopping" means to buy the things that are necessary for the house, such as food etc., whereas "to go shopping" means to visit shops generally
+QUESTION: When you do the shopping, do you make a list before going to the supermarket?
+A: Yes, when I do the shopping, I make a list before going to the supermarket
+A: No, when I do the shopping, I don't make a list before going to the supermarket
+GRAMMAR: Do you ever go shopping and come home with nothing?
+A: Yes, I sometimes go shopping and come home with nothing
+A: No, I never go shopping and come home with nothing; I always buy something
+WORDS: smile
+GRAMMAR: Do people generally smile when they're unhappy?
+A: No, people don't generally smile when they're unhappy
+GRAMMAR: Does good news put a smile on your face?
+A: Yes, good news puts a smile on my face
+QUESTION: tax
+GRAMMAR: Do you have to pay a tax to the government if you buy a foreign car?
+A: Yes, I have to pay a tax to the government if I buy a foreign car
+A: No, I don't have to pay a tax to the government if I buy a foreign car
+GRAMMAR: The three forms of a verb
+Past participle
+Here, we are introducing the past participle as a form, but we are not dealing with its function. If the need arises, reassure students that they will learn how to use the past participle in the following lesson (when we introduce the present perfect).
+Present - Past - Past participle
+walk - walked - walked
+cut - cut - cut
+sit - sat - sat
+see - saw - seen 
+present: I see him every week
+past: I saw him last week
+past participle: I have seen him this week
+GRAMMAR: Generally speaking, each verb in English has three forms that you must learn: 
+1) the present 
+2) the past 
+3) the past participle 
+For example, the three forms of the verb "to see" are "see, saw, seen", where "see" is the present, "saw" is the past, and "seen" is the past participle.
+QUESTION: What are the three forms of an English verb?
+A: The three forms of an English verb are the present, the past and the past participle
+GRAMMAR: With regular verbs, the 2nd and 3rd forms are the same - for example, "kill, killed, killed". With irregular verbs, sometimes all the forms are the same - for example, "put, put. put"; sometimes two forms are the same - for example, "come, came, come"; and sometimes all three forms are different - for example, "give, gave, given".
+QUESTION: What are the three forms of "kill"?
+A: The three forms of "kill" are "kill, killed, killed"
+QUESTION: What are the three forms of "put"?
+A: The three forms of "put" are "put, put, put"
+QUESTION: What are the three forms of "come"?
+A: The three forms of "come" are "come, came, come"
+QUESTION: What are the three forms of "give"?
+A: The three forms of "give" are "give, gave, given"
+DICTATION: The past tense of the verb "to be" is/ "I was", "you were" etc./ They were sitting together/ three lessons ago; now they sit apart./ A road generally connects two towns,/ whereas a street is in a town./ I cannot walk in a straight line/ after drinking lots of whisky;/ I walk crooked./ When I go on holiday,/ I generally take a lot of photos./ "Ever" is positive/ and "never" is negative. When the weather is cold/ and there is snow,/ we cover our bodies/ with a lot of clothes.
+
+Lesson 52
+WORDS: cat, dog, result, lucky
+QUESTION: Which do you prefer: cats or dogs?
+A: I prefer dogs to cats.
+A: I prefer cats to dogs
+QUESTION: What is often the result of putting a cat and a dog together?
+A: The result of putting a cat and a dog together is often a lot of noise
+QUESTION: Do people in your country think it's lucky to see a black cat?
+A: Yes, people in my country think it's lucky to see a black cat
+A: No, people in my country don't think it's lucky to see a black cat; they think it's unlucky
+WORDS: destroy
+WORDS: document
+QUESTION: Do you ever destroy documents that you receive from your bank?
+A: Yes, I sometimes destroy documents that I receive from my bank
+QUESTION: Can a fire destroy a building?
+A: Yes, a fire can destroy a building
+WORDS: been
+WORDS: Scotland
+GRAMMAR: The past participle of the verb "to be" is "been".
+QUESTION: What's the past participle of the verb "to be"?
+A: The past participle of the verb "to be" is "been"
+QUESTION: Have you been to the cinema this week?
+A: Yes, I've been to the cinema this week
+A: No, I haven't been to the cinema this week
+QUESTION: Have you ever been to Scotland?
+A: Yes, I've been to Scotland
+A: No, I've never been to Scotland
+QUESTION: Have you been to see the film Casablanca?
+A: Yes, I've been to see the film Casablanca.
+A: No, I haven't been to see the film Casablanca.
+WORDS: crime, guilty, innocent
+WORDS: against the law
+QUESTION: What's a crime?
+A: A crime is an action which is against the law
+QUESTION: If I take something from a shop without paying, am I guilty of a crime?
+A: Yes, if you take something from a shop without paying, you're guilty of a crime
+QUESTION: What's the opposite of "guilty"?
+A: The opposite of "guilty" is "innocent"
+QUESTION: Do you always feel guilty when you do something wrong?
+A: Yes, I always feel guilty when I do something wrong
+A: No, I don't always feel guilty when I do something wrong
+QUESTION: Is there very much crime in the town where you live?
+A: Yes, there's a lot of crime in the town where I live
+A: No, there isn't very much crime in the town where I live
+WORDS: experience
+GRAMMAR: Present perfect
+"Have" + past participle (3rd form)
+GRAMMAR: We form the present perfect with the verb "have" and the past participle. For example, we say "I have arrived" or "She has written". 
+The present perfect has three common uses: 
+1) We use it to talk about our experiences. If I say "I have eaten Chinese food", it means I have experience of "eating Chinese food". If I say "I have been to Paris", it means that I have experience of "being in Paris".
+QUESTION: Do we use the present perfect to talk about our experiences?
+A: Yes, we use the present perfect to talk about our experiences
+QUESTION: Have you eaten Spanish food?
+A: Yes, I have eaten Spanish food
+A: No, I haven't eaten Spanish food
+QUESTION: Have you visited Paris?
+A: Yes, I have visited Paris
+A: No, I haven't visited Paris
+QUESTION: Have you ever worked on a farm?
+A: Yes, I have worked on a farm
+A: No, I have never worked on a farm
+WORDS: for, up to now
+GRAMMAR: 2) We also use the present perfect to talk about the duration of an action up to now. If I say "I have lived here for three years", it means that I'm living here now and I started living here three years ago.
+QUESTION: Do we also use the present perfect to talk about the duration of an action up to now?
+A: Yes, we also use the present perfect to talk about the duration of an action up to now
+QUESTION: How long have you lived in this town/city?
+A: I have lived in this town/city for #{period_of_time}
+QUESTION: Have you studied English for more than six months?
+A: Yes, I have studied English for more than six months
+A: No, I haven't studied English for more than six months; I have only studied it for #{period_of_time}
+GRAMMAR: 3) We can also use the present perfect to talk about the result now of a past action. For example. "I have eaten too much" means that I feel bad (or guilty) now. "She has arrived" means that she is here now.
+QUESTION: Do we also use the present perfect to talk about the result now of a past action?
+A: Yes, we also use the present perfect to talk about the result now of a past action
+QUESTION: Have you eaten too much today?
+A: Yes, I have eaten too much today
+A: No, I haven't eaten too much today
+WORDS: too many, too much, excessive
+GRAMMAR: "Too many" and "too much" mean an excessive number or quantity, and therefore not a good thing. We use "too many" and "too much" with nouns, but with adjectives and adverbs we only use the word "too". For example, we say "too many cars" and "too much food", but we say "too short" and "too quickly".
+QUESTION: What do "too many" and "too much" mean?
+A: "Too many" and "too much" mean an excessive number or quantity, and therefore not a good thing
+QUESTION: Do children feel ill if they eat too many sweets?
+A: Yes, children feel ill if they eat too many sweets
+QUESTION: Do you agree there are too many people in the world with too little food to eat?
+A: Yes, I agree there are too many people in the world with too little food to eat
+QUESTION: Are you too short to touch the ceiling?
+A: Yes, I'm too short to touch the ceiling
+QUESTION: Do you think a millionaire has too much money?
+A: Yes, I think a millionaire has too much money
+A: No, I don't think a millionaire has too much money
+GRAMMAR: We can also use "too much" after a verb. For example, "If I eat too much, I feel bad".
+QUESTION: If people eat too much, do they feel bad?
+A: Yes, if people eat too much, they feel bad
+QUESTION: If you work too much, do you feel tired all the time?
+A: Yes, if I work too much, I feel tired all the time
+DICTATION: We can sit at the corner/ of a square table,/ but we can't sit at the corner/ of a round one/ because, like a circle,/ a round table has no corners./ When she goes on holiday,/ she sends postcards/ to all her relations./ This method we are using/ is called the Callan Method./ The cinema was completely full./ He doesn�t know/ if he will go to church tomorrow;/ he says/ it depends on the weather./ He'll text me or email me/ in the morning./ Business, foreign, nature,/ price, bush.
+
+Lesson 53
+WORDS: age
+WORDS: marry
+WORDS: get married
+QUESTION: At what age did you begin school?
+A: I began school at the age of #{number}
+QUESTION: Which do you think is the best age for a person to get married?
+A: I think the best age for a person to get married is about #{number}
+QUESTION: Which do you think was the best age in history to live in?
+A: I think #{age_in_history} was the best age in history to live in
+QUESTION: Do people sometimes marry too young?
+A: Yes, people sometimes marry too young
+QUESTION: What's the average number of hours a day that people work in this country?
+A: The average number of hours a day that people work in this country is about #{number}
+QUESTION: About how many floors has the average building in this street got?
+A: The average building in this street's got about #{number} floors
+WORDS: average
+QUESTION: How much does the average meal cost in the average restaurant in the place where you live?
+A: The average meal costs about #{money} in the average restaurant in the place where I live
+WORDS: thick
+WORDS: thin
+QUESTION: Is a piece of paper thick?
+A: No, a piece of paper isn't thick; it's thin
+QUESTION: Is the average book thinner than the glass in the window?
+A: No, the average book isn't thinner than the glass in the window; it's thicker
+WORDS: big
+WORDS: little
+GRAMMAR: Instead of the words "large" and "small" we can use the words "big" and "little".
+QUESTION: What words can we use instead of the words "large" and "small"?
+A: We can use the words "big" and "little" instead of the words "large" and "small"
+WORDS: Switzerland
+GRAMMAR: Generally, we use "small" instead of "little" to form the comparative and superlative; we say "smaller" and "smallest" and not "littler" and "littlest", because they are easier to pronounce.
+QUESTION: Do we generally say "littler" and "littlest"?
+A: No, we don't generally say "littler" and "littlest"
+QUESTION: What do we use instead?
+A: We use "smaller" and "smallest" instead
+QUESTION: Why?
+A:Because they're easier to pronounce
+QUESTION: Is Switzerland a bigger country than India?
+A: No, Switzerland isn't a bigger country than India; it's a smaller country than India
+QUESTION: Is this a little room you're in?
+A: Yes, this is a little room I'm in
+A: No, this isn't a little room I'm in; it's a big room
+WORDS: purse, wallet, usually
+QUESTION: What's the difference between a purse and a wallet?
+A: The difference between a purse and a wallet is that women generally have purses and men generally have wallets
+QUESTION: What does a man carry in his wallet?
+A: A man carries his cash and cards in his wallet
+WORDS: lose, find, policeman
+QUESTION: Do you ever lose your money?
+A: Yes, I sometimes lose my money
+A: No, I never lose my money
+QUESTION: If you lose your way in a large city, what do you do?
+A: If I lose my way in a large city, I ask a policeman
+QUESTION: Which do you think it's worse to lose, your keys or your purse/ wallet?
+A: I think it's worse to lose my ...
+QUESTION: What's the opposite of the verb "to lose"?
+A: The opposite of the verb "to lose" is "to find"
+QUESTION: If you find something in the street, what do you do with it?
+A: If I find something in the street, I...
+QUESTION: How do you feel if you lose something and then find it again?
+A: I feel happy if I lose something and then find it again
+GRAMMAR: "Find" + somebody/something + adjective
+Instead of saying "I think English is easy", we can say "I find English easy". Instead of "I think John is impolite", we can say "I find John impolite".
+QUESTION: Do you find English easy to learn?
+A: Yes, I find English easy to learn
+A: No, I don't find English easy to learn; I find it difficult
+QUESTION: Do you find maps difficult to read?
+A: Yes, I find maps difficult to read
+A: No, I don't find maps difficult to read; I find them easy to read
+WORDS: to be angry
+WORDS: "Make" + somebody/something + adjective
+QUESTION: Do you get angry very easily?
+A: Yes, I get angry very easily
+A: No, I don't get angry very easily
+QUESTION: What kind of things make you angry?
+A: The kind of things that make me angry are when things go wrong, when people are making too much noise etc.
+QUESTION: What do you do when you're angry?
+A: When I'm angry, I go for a walk, I say nothing etc.
+QUESTION: Do you feel hungry at the moment?
+A: Yes, I feel hungry at the moment
+A: No, I don't feel hungry at the moment
+QUESTION: What do you do when you feel hungry?
+A: I eat when I feel hungry
+WORDS: fish, swim, swimmer, swimming pool
+QUESTION: Which do you prefer: fish or meat?
+A: I prefer...
+QUESTION: Can you swim?
+A: Yes, I can swim
+A: No, I can't swim
+QUESTION: What does it mean "to swim like a fish"?
+A: "To swim like a fish" means to be a strong swimmer
+QUESTION: Do you prefer swimming in the sea or in a swimming pool?
+A: I prefer swimming in ...
+QUESTION: What do we call the two ends of a swimming pool?
+A: We call the two ends of a swimming pool the shallow end and the deep end
+DICTATION: There are nearly always/ a lot of clouds/ in the sky,/ and sometimes it rains./ "Quick" is an adjective;/ "quickly" is an adverb./ I often forget people's names./ However, I rarely forget/ a person's face./ I remember that/ the plural of wife is wives./ Excuse me,/ can you repeat the question please?/ We say "over"/ when there is no contact/ between the two objects,/ or when one object/ completely covers the other./ They're both very quick writers./ He does not understand the idea exactly./ He decided to explain everything/ to his friends and relatives.
+
+Lesson 54
+WORDS: dream - dreamt - dreamt, nightmare
+QUESTION: Do you dream very much at night?
+A: Yes, I dream a lot at night
+A: No, I don't dream very much at night
+QUESTION: What do we call a bad dream?
+A: We call a bad dream a nightmare
+QUESTION: What are the three forms of "dream"?
+A: The three forms of "dream" are "dream, dreamt, dreamt"
+QUESTION: What did you dream about last night?
+A: I dreamt about flying last night
+WORDS: garden
+QUESTION: Have you got a garden at home?
+A: Yes, I've got a garden at home
+A: No, I haven't got a garden at home
+WORDS: refuse
+QUESTION: Do you ever refuse to help other people?
+A: Yes, I sometimes refuse to help other people
+A: No, I never refuse to help other people
+WORDS: separate
+QUESTION: Do you live in a separate house from your parents?
+A: Yes, I live in a separate house from my parents
+A: No, I don't live in a separate house from my parents; I live in the same house
+WORDS: lovely
+QUESTION: Did you have a lovely holiday last year?
+QUESTION: Is the weather lovely today?
+WORDS: keep, continue
+GRAMMAR: The verb keep has many different meanings. Some of them are:
+WORDS: continue (keep + -ing)
+QUESTION: Will you keep studying English until you die?
+A: Yes, I'll keep studying English until I die
+A: No, I won't keep studying English until I die
+QUESTION: Do you agree it's very bad for the health to keep eating after our stomachs are completely full?
+A: Yes, I agree it's very bad for the health to keep eating after our stomachs are completely full
+WORDS: have in a place
+QUESTION: Do you keep your money in your pocket, or do you use a purse or wallet?
+A: I keep my money in my pocket - I don't keep my money in my pocket; I use a purse/wallet
+WORDS: not give away
+QUESTION: Do you keep books after you've read them?
+A: Yes, I keep books after I've read them
+A: No, I don't keep books after I've read them
+WORDS: stay
+QUESTION: What's the best way to keep warm on a cold day?
+A: The best way to keep warm on a cold day is to wear a thick coat
+WORDS: one, you, we, they, mean
+WORDS: in general, necessarily, in particular
+WORDS: ticket
+GRAMMAR: When we use the words "one", "you", "we" and "they", we sometimes mean people in general. The word "they" means other people and not us. For example, we say:
+"If one goes to the cinema, one must buy a ticket", or 
+"If you go to the cinema, you must buy a ticket", or 
+"If we go to the cinema, we must buy a ticket". 
+As an example of "they", we can say "They don't sell food at a clothes shop".
+When I say "If you want to go to the cinema, you have to buy a ticket". I don't necessarily mean you in particular, but people in general. We generally use the word "you" more than "one" or "we".
+QUESTION: What do we sometimes mean when we use the words "one", you", "we" and "they"?
+A: When we use the words "one", "you", "we" and "they" we sometimes mean people in general
+QUESTION: In the sentence "If you want to go the cinema, you have to buy a ticket", what does the word "you" mean?
+A: In the sentence "If you want to go to the cinema, you have to buy a ticket", the word "you" doesn't necessarily mean me in particular, but people in general
+QUESTION: Which do we generally use the most: "one", "you" or "we"?
+A: We generally use "you" the most
+QUESTION: What must you do if you want to speak a language well?
+A: You must study a lot, and repeat, repeat and repeat, if you want to speak a language well
+QUESTION: What do you have to do if you want to stay healthy?
+A: If you want to stay healthy, you have to eat healthy food, sleep well and do exercise
+QUESTION: What must you do if you want to remember something well?
+A: You must repeat often if you want to remember something well
+QUESTION: Where can we buy a drink when we're thirsty?
+A: We can buy a drink from a bar when we're thirsty
+QUESTION: Which country must we go to if we want to hear people speaking Greek?
+A: We must go to Greece if we want to hear people speaking Greek
+QUESTION: What does one do when one is hungry?
+A: One eats when one is hungry
+QUESTION: Do they sell drinks at most cinemas?
+A: Yes, they sell drinks at most cinemas
+GRAMMAR: From this point on in the method, there are occasional questions that practise the impersonal use of the pronoun "you". With these questions, the word "you" in the question does not change to "I" or "me" for the answer. 
+
+Lesson 55
+GRAMMAR: Present perfect - Past simple
+before/up to now - specific past time
+he has lived here for two months - he came here two months ago
+The difference between the present perfect and the past simple is that we use the present perfect when we are thinking about time before and up to now, whereas we use the past simple when we are thinking about a specific past time. For example, "I have been here for twenty minutes; I arrived here twenty minutes ago".
+QUESTION: What's the difference between the present perfect and the past simple?
+A: The difference between the present perfect and the past simple is that we use the present perfect when we are thinking about time before and up to now, whereas we use the past simple when we are thinking about a specific past time
+Example of each: "I have been here for twenty minutes" and "I arrived here twenty minutes ago".
+GRAMMAR: For the first question below, use the season that has most recently finished.
+QUESTION: Has the #{last_season_of_the_year} ended?
+A: Yes, the #{last_season_of_the_year} has ended
+QUESTION: When did it end?
+A: It ended on #{date_when_last_season_of_the_year_ended}
+QUESTION: Have you been to the cinema this year?
+A: Yes, I've been to the cinema this year
+A: No, I haven't been to the cinema this year
+QUESTION: When was the last time you went to the cinema?
+A: The last time I went to the cinema was #{when_in_the_past}
+QUESTION: Have you written any dictations this week?
+A: Yes, I've written some dictations this week
+A: No, I haven't written any dictations this week
+QUESTION: Did you write a dictation yesterday?
+A: Yes, I wrote a dictation yesterday
+A: No, I didn't write a dictation yesterday
+WORDS: wild
+QUESTION: Are horses wild animals?
+A: Some horses are wild animals
+WORDS: branch
+QUESTION: What do we call the arms of a tree?
+A: We call the arms of a tree "branches"
+QUESTION: Does your bank have a branch near here?
+A: Yes, my bank has a branch near here
+A: No, my bank doesn't have a branch near here
+WORDS: bridge
+QUESTION: Are there any bridges over the river in Paris?
+A: Yes, there are some bridges over the river in Paris
+WORDS: egg
+QUESTION: About how many eggs do you eat a week?
+A: I eat about #{number} eggs a week
+WORDS: push
+WORDS: pull
+QUESTION: Do you push your door to go out of home?
+A: Yes, I push my door to go out of home
+A: No, I don't push my door to go out of home; I pull it
+WORDS: interest
+WORDS: bore
+QUESTION: What subject interests you the most?
+A: ... interests me the most
+QUESTION: What subject bores you the most?
+A: Geography bores me the most
+WORDS: interesting, interested, boring, bored
+QUESTION: Do you think football's an interesting sport?
+A: Yes, I think football's an interesting sport
+A: No, I don't think football's an interesting sport; I think it's a boring sport
+QUESTION: Are you interested in the history of your country?
+A: Yes, I'm interested in the history of my country
+A: No, I'm not interested in the history of my country
+QUESTION: Do you get bored if you have nothing to do?
+A: Yes, I get bored if I have nothing to do
+WORDS: between, among, science
+GRAMMAR: The difference between "between" and "among" is that we generally use "between" for two people or things, whereas we use "among" for more than two people or things. For example, "Between the two subjects of history and geography, I prefer geography", and "Among all the subjects I study (or studied) at school, I like (or liked) science the most".
+QUESTION: What's the difference between "between" and "among"?
+A: The difference between "between" and "among" is that we generally use "between" for two people or things, whereas we use "among" for more than two people or things
+QUESTION: Among all the subjects you study (or studied) at school, which do (or did) you think is (or was) the most boring?
+A: Among all the subjects I study (or studied) at school, I think (or thought)... is (or was) the most boring
+QUESTION: Among all the places you've ever been to, which do you think is the ugliest?
+A: Among all the places I've ever been to, I think #{place} is the ugliest
+QUESTION: Among all the things in this room, are any yours?
+A: Yes, among all the things in this room, some are mine
+DICTATION: The opposite of heaven is hell./ The poor dog is shaking with cold./ The public killed the queen./ Can you show me the way/ to the station, please?/ Our bodies contain a lot of blood./ Many teenagers don't like/ wearing a uniform for school./ Their glasses are full of water./ How do we form the past tense/ of regular verbs?/ We add the letters "ed"./ How often/ do you walk along/ this street?/ This way is the quickest./ I agree that smoking/ is bad for the health.
+
+Lesson 56
+WORDS: intention, soon, happen
+GRAMMAR: 
+To be going to
+One use of "to be going to" is to say what we think will happen because of something we know now. For example, "The sky is very dark now; I think it's going to rain", or "John is a very good student; he's going to do well in his exams�.
+QUESTION: Tell me one use of "to be going to".
+A: One use of "to be going to" is to say what we think will happen because of something we know now
+QUESTION: Do you think it's going to rain soon?
+A: Yes, I think it's going to rain soon
+A: No, I don't think it's going to rain soon
+GRAMMAR: Another use of "to be going to" is to speak about our future intentions. For example, "I'm going to keep studying English for a few more years".
+QUESTION: Tell me another use of "to be going to".
+A: Another use of "to be going to" is to speak about our future intentions
+QUESTION: Are you going to watch television this evening?
+A: Yes, I'm going to watch television this evening
+A: No, I'm not going to watch television this evening
+QUESTION: What are you going to have for your dinner this evening?
+A: I'm going to have some rice and vegetables for my dinner this evening
+WORDS: enjoy
+WORDS: museum
+QUESTION: What kind of things do you enjoy doing most of all?
+A: The kind of things I enjoy doing most of all are watching television, going to the cinema etc.
+QUESTION: Do you always enjoy your weekends?
+A: Yes, I always enjoy my weekends
+A: No, I don't always enjoy my weekends
+QUESTION: Do you enjoy going to museums?
+A: Yes, I enjoy going to museums
+A: No, I don't enjoy going to museums
+QUESTION: Do young children enjoy bedtime stories?
+A: Yes, young children enjoy bedtime stories
+WORDS: hole
+WORDS: keyhole
+QUESTION: What kind of hole do we find in a door?
+A: We find a keyhole in a door
+QUESTION: Have you got a hole in your pocket (or pullover, socks etc.)?
+A: Yes, I've got a hole in my pocket
+A: No, I haven't got a hole in my pocket
+QUESTION: stupid, intelligent, clever
+QUESTION: Is it stupid to believe everything people tell you?
+A: Yes, it's stupid to believe everything people tell you
+QUESTION: Which do you think are more intelligent: cats or dogs?
+A: I think dogs are more intelligent than cats.
+A: I think cats are more intelligent than dogs.
+QUESTION: What's another word for "intelligent"?
+A: Another word for "intelligent" is "clever"
+WORDS: against
+QUESTION: Who does this country play football against?
+A: This country plays football against many countries.
+QUESTION: Is the chair against the wall?
+A: No, the chair isn't against the wall; it's near the wall
+GRAMMAR: Place your chair so that it is touching the wall, and answer
+QUESTION: Is the chair against the wall now?
+A: Yes, the chair's against the wall now
+WORDS: been, gone, return
+GRAMMAR: The past participle of the verb "to go" is "gone". The three forms of "go" are "go, went, gone".
+QUESTION: What's the past participle of the verb "to go"?
+A: The past participle of the verb "to go" is "gone"
+QUESTION: What are the three forms of "go"?
+A: The three forms of "go" are "go, went, gone"
+GRAMMAR: We have two sentences: 
+1) "Mr Brown has been to Scotland" and 
+2) "Mr Brown has gone to Scotland". 
+The first sentence, "Mr Brown has been to Scotland", means that he has visited Scotland in his life but is not there now. The second sentence, "Mr Brown has gone to Scotland", means he is in Scotland; he isn't here now. Instead of Scotland the teacher can use a city near the student�s own town.
+QUESTION: What's the difference between these two sentences "Mr Brown has been to Scotland" and "Mr Brown has gone to Scotland"?
+A: The difference between those two sentences is that the first sentence means that Mr Brown has visited Scotland in his life but he is not there now, whereas the second sentence means he is in Scotland; he is not here now
+GRAMMAR: We can say "Mr Brown has gone to Scotland", because he is not here now, but we can't say "I have gone to Scotland", because that means I am not here now, which is impossible.
+QUESTION: Why can we say "Mr Brown has gone to Scotland", but not "I have gone to Scotland"?
+A: We can say "Mr Brown has gone to Scotland", but not "I have gone to Scotland", because "I have gone to Scotland" means I am not here now, which is impossible
+WORDS: bird, fly, aeroplane (plane)
+QUESTION: Do you know anybody who keeps birds at home?
+A: Yes, I know somebody who keeps birds at home
+A: No, I don't know anybody who keeps birds at home
+QUESTION: When people go on holiday, do they generally prefer to fly or go by train? When people go on holiday they generally prefer to fly.
+QUESTION: Can a bird fly quicker than a plane?
+A: No, a bird can't fly quicker than a plane; it flies slower than a plane
+QUESTION: Can a chicken fly?
+A: Yes, a chicken can fly, but not very far
+QUESTION: Have you ever dreamt you could fly?
+A: Yes, I've sometimes dreamt I could fly
+A: No, I've never dreamt I could fly
+DICTATION: I had to meet him/at the corner of the street,/ and he asked me/ to bring him some cash./ I cannot jump/ as high as the door./ The water we drink/ isn't completely pure;/ it's impure./ We can buy wine in supermarkets./ I never promise/ to do things/ and then not do them./ Adults are rarely/ as impolite as children./ Can I help you?/ They can express their thoughts/ quite well in English./ The past tenses of some irregular verbs/ are as follows:/ spoke, came, broke,/ wore, wrote, got up,/ stood, shone, took,/ told.
+
+Lesson 57
+WORDS: fat, thin
+GRAMMAR: The difference between "thick" and "fat" is that we use "thick" for things and "fat" for people and animals.
+QUESTION: What's the difference between "thick" and "fat"? The difference between "thick" and "fat" is that we use "thick" for things and "fat" for people and animals
+QUESTION: Are you fatter than your mother?
+A: Yes, I'm fatter than my mother
+A: No, I'm not fatter than my mother; I'm thinner than she is
+QUESTION: Who's the thinnest person in your family?
+A: #{family_member} is the thinnest person in my family
+QUESTION: Do people generally become thinner as they become older?
+A: No, people don't generally become thinner as they become older; they become fatter
+WORDS: swam
+QUESTION: What's the past of the verb "to swim"?
+A: The past of the verb "to swim" is "swam"
+QUESTION: Did you swim last summer?
+A: Yes, I swam last summer
+A: No, I didn't swim last summer
+WORDS: lost
+QUESTION: What is the past simple and the past participle of the verb "to lose"?
+A: The past simple and the past participle of the verb "to lose" is "lost"
+QUESTION: Have you ever lost your way in a large city?
+A: Yes, I've sometimes lost my way in a large city
+A: No, I've never lost my way in a large city
+QUESTION: Have you ever lost anything worth a lot of money?
+A: Yes, I've lost something worth a lot of money
+A: No, I've never lost anything worth a lot of money
+WORDS: each other, one another
+GRAMMAR: We generally use "each other" for two people or things, and "one another" for more than two people or things. Although this rule is often not observed, it is a good way of teaching the two terms to the students.
+QUESTION: What's the difference between "each other" and "one another"?
+A: The difference between each other and one another is that we generally use "each other" for two people or things, and "one another" for more than two people or things
+QUESTION: Do your country and England play football against each other?
+A: Yes, my country and England play football against each other
+A: No, my country and England don't play football against each other
+QUESTION: Do Italy, Germany, Russia and England play football against one another?
+A: Yes, Italy, Germany, Russia and England play football against one another
+QUESTION: Do the countries of Europe do business with one another?
+A: Yes, the countries of Europe do business with one another
+GRAMMAR: am able - was able - been able
+The past of "can" is "could", but "can" has no future tense. Therefore, we use the verb "to be able" and say "I will be able". The three forms of "to be able" are "am able, was able, been able".
+QUESTION: What's the past of "can"?
+A: The past of "can" is "could"
+QUESTION: What's the future of "can"?
+A: "Can" has no future. Therefore, we use the verb "to be able" and say "I will be able"
+QUESTION: What's the infinitive of "can"?
+A: "Can" has no infinitive. Therefore, we use "to be able"
+QUESTION: What are the three forms of "be able"?
+A: The three forms of "be able" are "am able, was able, been able"
+QUESTION: Were you able to speak English a few years ago?
+A: Yes, I was able to speak English a few years ago
+A: No, I wasn't able to speak English a few years ago
+QUESTION: Will you be able to speak English well if you study a lot?
+A: Yes, I'll be able to speak English well if I study a lot
+QUESTION: Have you been able to answer all the questions I have asked you without too much difficulty?
+A: No, I haven't been able to answer all the questions you've asked me without too much difficulty; some I have and some I haven't
+WORDS: factory
+QUESTION: Tell me the names of some things that we make in factories.
+A: The names of some things that we make in factories are cars, pens etc.
+QUESTION: Do you think work in a factory can be pleasant?
+A: Yes, I think work in a factory can be pleasant
+A: No, I don't think work in a factory can be pleasant
+WORDS: ordinary
+QUESTION: Do soldiers wear ordinary clothes?
+A: No, soldiers don't wear ordinary clothes; they wear uniforms
+WORDS: paint
+QUESTION: Can you paint?
+A: Yes, I can paint
+A: No, I can't paint
+WORDS: hotel
+WORDS: stay
+QUESTION: How much does it cost to stay in an ordinary hotel for one night in this town?
+A: It costs about ... to stay in an ordinary hotel for one night in this town
+DICTATION: In some countries/ people have to pay a tax/ if they have a dog./ The town was completely destroyed/ during the last war./ I'm sure he isn't guilty/ of the crime;/ he's too nice./ When we�re hungry, we eat./ Fresh air is good for you./ Tell me first/ a geographical fact/ and then/ a historical fact, please./ He talked in a very low voice./ My birthday's in February./ Drove, saw, sat,/ ate, gave, began,/ drank, slept./ When he becomes a doctor,/ he�ll get lots of money./ She doesn't like her new job.
+
+Lesson 58
+WORDS: song
+QUESTION: Can you understand all the words when you listen to a song in English?
+A: No, I can't understand all the words when I listen to a song in English
+WORDS: fun
+GRAMMAR: When we say that something is fun, it means that we enjoy it. For example, playing football can be fun. When we say that something is funny, it means that it makes us laugh. For example, a comedy film is funny.
+QUESTION: What's the difference between the words "fun" and "funny"?
+A: The difference between the words "fun" and "funny" is that if something is fun, we enjoy it, whereas if something is funny, it makes us laugh.
+QUESTION: Do you sometimes go shopping with your friends at the weekend for fun?
+A: Yes, I sometimes go shopping with my friends at the weekend for fun
+A: No, I never go shopping with my friends at the weekend for fun
+QUESTION: What's the funniest film you've ever seen?
+A: #{film} is the funniest film I've ever seen
+GRAMMAR: The three forms of some important verbs
+have -, had -, had
+am able - was able -, been able
+begin -, began -, begun
+know -, knew -, known
+swim -, swam -, swum
+take - took - taken
+shake -, shook -, shaken
+write - wrote - written
+forget - forgot - forgotten
+break -, broke -, broken
+eat -, ate -, eaten
+"Able" is not really a verb, but an adjective. "Am", "was", and "been" are verbs.
+QUESTION: Have you had your lunch today?
+A: Yes, I've had my lunch today
+A: No, I haven't had my lunch today
+QUESTION: Have you always been able to speak English as well as you speak it now?
+A: No, I haven't always been able to speak English as well as I speak it now
+QUESTION: Has the #{next_season_of_the_year} begun?
+A: No, the #{next_season_of_the_year} hasn't begun
+QUESTION: Have you ever known anybody who could speak more than five languages?
+A: Yes, I've known somebody who could speak more than five languages
+A: No, I've never known anybody who could speak more than five languages
+QUESTION: What's the furthest you've ever swum?
+A: The furthest I've ever swum is #{distance}
+WORDS: simply
+QUESTION: Is it possible to learn English simply by listening to English songs?
+A: No, it isn't possible to learn English simply by listening to English songs
+WORDS: by mistake
+QUESTION: Have you ever taken things that weren't yours by mistake?
+A: Yes, I've sometimes taken things that weren't mine by mistake
+A: No, I've never taken things that weren't mine by mistake
+QUESTION: Have you shaken anybody's hand today?
+A: Yes, I've shaken somebody's hand today
+A: No, I haven't shaken anybody's hand today
+QUESTION: Have you written anything today?
+A: Yes, I've written something today
+A: No, I haven't written anything today
+WORDS: if, whether, doubt
+GRAMMAR: The word "whether" means the same as "if". We usually use "whether" when we have a doubt and say, for example, "I don't know whether it'll rain tomorrow" or "Can you tell me whether he is in his office, please?" or "I can't decide whether it's a good idea to go there".
+QUESTION: What does the word "whether" mean and when do we generally use it?
+A: The word "whether" means the same as "if" and we generally use it when we express a doubt
+QUESTION: Can you tell me whether it'll rain tomorrow or not?
+A: No, I can't tell you whether it'll rain tomorrow or not
+GRAMMAR: We also use "whether" when two possible actions have the same result. For example, if I go to France for my holiday, I will have a good time. Also, if I go to Spain for my holiday, I will have a good time. Therefore. I can say "Whether I go to France or Spain for my holiday, I will have a good time". If necessary, give other examples to illustrate this use of "whether", such as "I�ll eat Italian food for dinner this evening whether I go home or go to a restaurant".
+QUESTION: What's another use of the word "whether"?
+A: Another use of the word "whether" is when two possible actions have the same result
+QUESTION: What's the difference between these two sentences "I'm going to buy the car if it's cheap" and "I'm going to buy the car whether it's cheap or not"?
+A: The difference between these two sentences is that the first sentence means I'm going to buy the car only if it's cheap, whereas the second sentence means I'm going to buy the car if it's cheap or expensive; the price is not important.
+WORDS: speed
+QUESTION: What is the highest speed a car can go when in town in this country?
+A: The highest speed a car can go when in town in this country is #{number} kmph
+WORDS: surprise
+QUESTION: Do you like unpleasant surprises?
+A: No, I don't like unpleasant surprises
+QUESTION: Does it surprise you when somebody from another country speaks your language well?
+A: Yes, it surprises me when somebody from another country speaks my language well
+WORDS: struggle
+QUESTION: Is it a big struggle for you to get up on a cold winter's morning when you feel very tired?
+A: Yes, it's a big struggle for me to get up on a cold winter's morning when I feel very tired
+QUESTION: Do you sometimes struggle to understand people when they speak English quickly?
+A: Yes, I sometimes struggle to understand people when they speak English quickly
+
+Lesson 59
+WORDS: surround
+QUESTION: What surrounds this building?
+A: Streets and other buildings surround this building
+WORDS: sword
+QUESTION: When did soldiers stop using swords in battle?
+A: Soldiers stopped using swords in battle more than a hundred years ago
+WORDS: computer, internet, website, information
+QUESTION: Do you think computers make your life easier or more difficult?
+A: I think computers make my life...
+QUESTION: Do you often use the internet for finding information?
+A: Yes, I often use the internet for finding information
+A: No, I don't often use the internet for finding information
+QUESTION: Do you like shopping on the internet?
+A: Yes, I like shopping on the internet
+A: No, I don't like shopping on the internet
+QUESTION: What are some of the most popular websites in the world?
+A: Some of the most popular websites in the world are #{something}.
+A: Some of the most popular websites in the world are google.com and facebook.com
+WORDS: turn on
+WORDS: turn off
+QUESTION: What am I doing?
+A: You're turning the light on and off
+QUESTION: Do you turn off your computer when you go to bed at night?
+A: Yes, I turn off my computer when I go to bed at night
+A: No, I don't turn off my computer when I go to bed at night
+WORDS: great, lake
+GRAMMAR: The word "great" generally means "very good" but it can sometimes mean "big" or "important". For example, "That film is great" means "That film is very good", but when we speak about "the Great Lakes" in North America, we mean that they are very big, and when we say that somebody is "a great man", we generally mean that they are important in public life.
+QUESTION: What does the word "great" mean?
+A: The word "great" generally means "very good" but it can sometimes mean "big" or "important"
+QUESTION: Do you know a great restaurant near here?
+A: Yes, I know a great restaurant near here
+QUESTION: Can you tell me who do you think is your greatest friend?
+A: Yes, I can tell you who I think is my greatest friend
+QUESTION: Tell me the names of some great people in history.
+A: The names of some great people in history are Mahatma Gandhi, Albert Einstein, Marie Curie etc.
+QUESTION: Who do you think was the greatest man that ever lived?
+A: I think #{great_man_in_history} was the greatest man that ever lived
+QUESTION: Which is the greatest city in your country?
+A: #{great_city} is the greatest city in my country
+WORDS: kept, promise, keep a promise
+WORDS: break a promise
+QUESTION: What is the past simple and the past participle of the verb "to keep"?
+A: The past simple and the past participle of the verb "to keep" is "kept"
+QUESTION: Have you ever kept any animals at home?
+A: Yes, I've kept some animals at home
+A: No, I've never kept any animals at home
+QUESTION: What's the opposite of "to keep a promise"?
+A: The opposite of "to keep a promise" is "to break a promise"
+QUESTION: Have you always kept your promises?
+A: Yes, I've always kept my promises
+A: No, I haven't always kept my promises; sometimes I've broken them
+WORDS: found
+QUESTION: What's the past simple and the past participle of "find"?
+A: The past simple and the past participle of "find" is "found"
+QUESTION: Did you find English very difficult when you began studying it?
+A: Yes, I found English very difficult when I began studying it
+QUESTION: Have you ever found anything on the street worth a lot of money?
+A: Yes, I've found something on the street worth a lot of money
+A: No, I've never found anything on the street worth a lot of money
+WORDS: else
+QUESTION: What else do people do in the evening besides watching TV?
+A: People eat, read, go for walks etc. in the evening besides watching TV
+QUESTION: Do you study anything else besides English?
+A: Yes, I study something else besides English
+A: No, I don't study anything else besides English
+QUESTION: What else do you study?
+A: I also study #{something}
+A: I study nothing else
+QUESTION: Does anybody else in your family speak English besides you?
+A: Yes, somebody else in my family speaks English besides me
+A: No, nobody else in my family speaks English besides me
+WORDS: fast
+GRAMMAR: "Fast" means the same as "quick" or "quickly"; it is both an adjective and an adverb. We do not add "ly" to it. We say "He writes fast", and not "He writes fastly".
+QUESTION: What does the word "fast" mean?
+A: The word "fast" means the same as "quick" or "quickly"
+QUESTION: Are you a fast writer?
+A: Yes, I'm a fast writer
+A: No, I'm not a fast writer
+QUESTION: Do you walk fast when the weather is very hot?
+A: No, I don't walk fast when the weather is very hot; I walk slowly
+WORDS: music
+WORDS: dance
+WORDS: rhythm
+WORDS: sense of rhythm
+QUESTION: Do you go dancing very much?
+A: Yes, I go dancing a lot
+A: No, I don't go dancing very much
+QUESTION: Is it easier to dance well if you have a good sense of rhythm?
+A: Yes, it's easier to dance well if you have a good sense of rhythm
+QUESTION: Do you prefer dancing to fast or slow music?
+A: I prefer dancing to fast music
+A: I prefer dancing to slow music
+WORDS: just, done
+GRAMMAR: The word "just" can mean "a short time ago" and it can also mean "simply" or "only".
+QUESTION: What are the three forms of "do"?
+A: The three forms of "do" are "do, did, done"
+QUESTION: What does the word "just" mean?
+A: The word "just" can mean "a short time ago" and it can also mean "simply" or "only"
+QUESTION: Have you just come into the room?
+A: Yes, I've just come into the room ~ No, I haven't just come into the room
+QUESTION: When somebody makes you angry, do you say something or do you just stay quiet?
+A: When somebody makes me angry, I say something; I don't just stay quiet.
+A: When somebody makes me angry, I just stay quiet; I don't say anything.
+QUESTION: Are there many shops in the place where you live or just a few?
+A: There are many shops in the place where I live
+WORDS: real
+QUESTION: Have you ever seen a real tiger?
+A: Yes, I've seen a real tiger
+A: No, I've never seen a real tiger
+QUESTION: Is James Bond a real person?
+A: No, James Bond isn't a real person
+DICTATION: That artist painted/ many pictures of bridges./ I must reach the shop/ before it closes/ because I want to buy some chicken/ for lunch tomorrow./ He feels much stronger today;/ yesterday he was very weak./ Some people/ are willing to die/ for what they believe./ Are you sure/ the desk is in the middle?/ Last night/ I had a very bad dream./ It is a crime/ to refuse a poor man money./ Their garden is separate from ours./ Left, smelt, learnt,/ sent, knew, hung,/ read, met./ I made eight mistakes last time.
+
+Lesson 60
+WORDS: probable, improbable, probably
+QUESTION: Is it probable that it will snow next summer?
+A: No, it isn't probable that it will snow next summer; it's very improbable
+WORDS: possibility, imagine, construction
+WORDS: police, police station, park
+GRAMMAR: 1st Conditional
+"If" + present + "will do" = real possibility
+If I go to the park tomorrow, I will play football
+This sentence means that I think there is a real possibility that I will go to the park tomorrow, and, if I do, I will play football. The construction of the 1st conditional is "If" + present + "will do". It communicates that we think something is a real possibility.
+GRAMMAR: 2nd Conditional
+"If + past + "would do" = only imagining
+If I went to the park tomorrow, I would play football
+This sentence means that I think it is very improbable that I will go to the park tomorrow; I am only imagining it. The construction of the 2nd conditional is "If" + past + "would do". It communicates that we are only imagining something. 
+It is important to understand that, in the 2nd conditional, we use the past simple after "if", but we are not thinking about past time; we are thinking about now, the future or general time. For example: 
+If I had $1 million (now). I would buy a house 
+If we went to the cinema tomorrow (future), we would see a film 
+If they were American (general time), they would speak English
+QUESTION: When do we use the 1st conditional?
+A: We use the 1st conditional to communicate that we think something is a real possibility
+QUESTION: When do we use the 2nd conditional?
+A: We use the 2nd conditional to communicate that we are only imagining something
+QUESTION: If you feel tired tonight, will you go to bed early?
+A: Yes, if I feel tired tonight, I will go to bed early
+QUESTION: If you felt ill tomorrow, would you go out?
+A: No, if I felt ill tomorrow, I wouldn't go out; I would stay at home
+QUESTION: If you study hard, will you learn to speak English well?
+A: Yes, if I study hard, I will learn to speak English well
+QUESTION: If you stopped studying, would your English get better?
+A: No, if I stopped studying, my English wouldn't get better; it would get worse
+QUESTION: If you had $1 million, what would you buy?
+A: If I had $1 million, I would buy #{something}
+QUESTION: If you swam in the sea in the middle of winter, would you find the water warm?
+A: No, if I swam in the sea in the middle of winter, I wouldn't find the water warm; I would find it cold
+QUESTION: If you go on holiday next year, where will you go?
+A: If I go on holiday next year, I will go to #{place}
+QUESTION: If you found something in the street worth a lot of money, would you keep it or would you take it to the police station?
+A: If I found something in the street worth a lot of money, I would keep it/take it to the police station
+QUESTION: If you sent a letter and forgot to put the address on it, would it arrive?
+A: No, if I sent a letter and forgot to put the address on it, it wouldn't arrive
+DICTATION: I'll listen to the news/ on a different radio station today./ When I feel ill, I go to bed./ When I feel thirsty,/ my favourite drink is water./ The difference between a ship and a boat/ is that a boat is small/ whereas a ship is large./ I want a credit card/ from a bank with a branch/ in every town/ in the country./ Most horses are not wild./ The river is very shallow,/ but we can go over by bridge/ if you like./ I generally have two eggs for breakfast.
+
+
