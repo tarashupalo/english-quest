@@ -1562,55 +1562,92 @@ GRAMMAR: When asking the following question, do not actualy walk as far as the d
 QUESTION: What am I doing?
 A: You're walking towards the door
 QUESTION: If I tell you that I am driving towards Scotland, does that necessarily mean that Scotland is my destination?
-QUESTION: No, if you tell me that you are. .. that doesn't necessarily mean that Scotland is your destination
+A: No, if you tell me that you are. .. that doesn't necessarily mean that Scotland is your destination
 WORDS: tray
-QUESTION: What do we use a tray for? We use a tray for carrying plates and cups from one room to another
+QUESTION: What do we use a tray for?
+A: We use a tray for carrying plates and cups from one room to another
 WORDS: stadium
-QUESTION: Where is the nearest sports stadium? The nearest..
-QUESTION: About how many people does it hold? It holds..
+QUESTION: Where is the nearest sports stadium?
+A: The nearest..
+QUESTION: About how many people does it hold?
+A: It holds..
 WORDS: much better
 WORDS: much more
 GRAMMAR: If we put the word "much" before a comparative, it communicates that the difference between the two things is very big. For example. Germany is bigger than England, but China is much bigger than England.
-QUESTION: Why do you speak English much better now than you did six months ago? I speak English... than I did six months ago because I've had much more practice
-QUESTION: Why is a Rolls Royce much more expensive than an ordinary car? A Rolls Royce is... because it takes longer to make than an ordinary car
+QUESTION: Why do you speak English much better now than you did six months ago?
+A: I speak English... than I did six months ago because I've had much more practice
+QUESTION: Why is a Rolls Royce much more expensive than an ordinary car?
+A: A Rolls Royce is... because it takes longer to make than an ordinary car
 WORDS: contrary
 WORDS: fall
 WORDS: temperature
 WORDS: atmosphere
-QUESTION: What�s another word for "opposite"? Another word for "opposite" is "contrary"
-QUESTION: What�s the contrary of the verb "to rise"? "To fall" is the contrary...
-QUESTION: Is the temperature of the atmosphere falling this month? Yes, the temperature _ - No, the temperature it's rising
-QUESTION: If your body temperature falls a lot, what should you do? If my body temperature... I should go to bed and call a doctor
+QUESTION: What's another word for "opposite"?
+A: Another word for "opposite" is "contrary"
+QUESTION: What's the contrary of the verb "to rise"?
+A: "To fall" is the contrary...
+QUESTION: Is the temperature of the atmosphere falling this month?
+A: Yes, the temperature
+A: No, the temperature it's rising
+QUESTION: If your body temperature falls a lot, what should you do?
+A: If my body temperature... I should go to bed and call a doctor
 WORDS: tooth, teeth, toothbrush, dentist
-QUESTION: What�s the plural of "tooth"? The plural of "tooth" is "teeth'
-QUESTION: What do we clean our teeth with? We clean our teeth with a toothbrush
-QUESTION: If you have a problem with your teeth, who should you go to see? If I have... with my teeth, I should go to see a dentist
+QUESTION: What's the plural of "tooth"?
+A: The plural of "tooth" is "teeth'
+QUESTION: What do we clean our teeth with?
+A: We clean our teeth with a toothbrush
+QUESTION: If you have a problem with your teeth, who should you go to see?
+A: If I have... with my teeth, I should go to see a dentist
 WORDS: seem
-QUESTION: Does it seem to you as if it�ll rain later? Yes, it seems to me as if... - No. it doesn't seem to me as if...
-QUESTION: Why do some people seem younger than they really are? Some people seem _ because of the way they look, the way they talk, the things they do etc.
-QUESTION: Does it seem warmer to you today than it was yesterday? Yes, it seems warmer to me... - No. it doesn't seem warmer to me ...
+QUESTION: Does it seem to you as if it'll rain later?
+A: Yes, it seems to me as if
+A: No. it doesn't seem to me as if...
+QUESTION: Why do some people seem younger than they really are?
+A: Some people seem _ because of the way they look, the way they talk, the things they do etc.
+QUESTION: Does it seem warmer to you today than it was yesterday?
+A: Yes, it seems warmer to me
+A: No. it doesn't seem warmer to me ...
 WORDS: several
-QUESTION: Are you ill several times during the year? Yes, I'm ill... - No, I'm not ill...
-QUESTION: Do some very rich people have houses in several different countries? Yes, some very...
+QUESTION: Are you ill several times during the year?
+A: Yes, I'm ill
+A: No, I'm not ill...
+QUESTION: Do some very rich people have houses in several different countries?
+A: Yes, some very...
 WORDS: compose, be composed of
-QUESTION: Did Mozart compose a lot of music? Yes, Mozart composed...
-QUESTION: Do you find it difficult to compose formal letters? Yes, I find it... - No, I don't find it...; I find it easy
-QUESTION: How many letters is the English alphabet composed of? The English alphabet is composed of 26 letters
-QUESTION: Is Europe composed of many different countries? Yes, Europe's composed of ...
+QUESTION: Did Mozart compose a lot of music?
+A: Yes, Mozart composed...
+QUESTION: Do you find it difficult to compose formal letters?
+A: Yes, I find it
+A: No, I don't find it...; I find it easy
+QUESTION: How many letters is the English alphabet composed of?
+A: The English alphabet is composed of 26 letters
+QUESTION: Is Europe composed of many different countries?
+A: Yes, Europe's composed of ...
 WORDS: wise, wisdom
-QUESTION: Do you agree that it's wise to put some money in the bank each month for later on in life? Yes, I agree...; No, I don't agree _
-QUESTION: Do you think wisdom comes more with age or experience? I think wisdom comes more with ...
+QUESTION: Do you agree that it's wise to put some money in the bank each month for later on in life?
+A: Yes, I agree...;
+A: No, I don't agree _
+QUESTION: Do you think wisdom comes more with age or experience?
+A: I think wisdom comes more with ...
 WORDS: suddenly
-QUESTION: If I suddenly threw my pen at you, would you be able to catch it? Yes, if you... your pen at me, I'd.. - No, if you _ your pen at me, I wouldn't...
+QUESTION: If I suddenly threw my pen at you, would you be able to catch it?
+A: Yes, if you... your pen at me, I'd
+A: No, if you _ your pen at me, I wouldn't...
 WORDS: pain
-QUESTION: What�s the greatest physical pain you've ever suffered? The greatest _ I've ever suffered was...
+QUESTION: What's the greatest physical pain you've ever suffered?
+A: The greatest _ I've ever suffered was...
 WORDS: certain
-QUESTION: Is there anything in life that we can be completely certain of? Yes, there's - No, there isn't _
+QUESTION: Is there anything in life that we can be completely certain of?
+A: Yes, there's
+A: No, there isn't _
 WORDS: What?
 WORDS: pass by
-QUESTION: From where you're sitting can you see people passing by the window? Yes, from where I'm sitting. I can... - No, from where I'm sitting, I can't...
+QUESTION: From where you're sitting can you see people passing by the window?
+A: Yes, from where I'm sitting. I can
+A: No, from where I'm sitting, I can't...
 WORDS: park, car park
-QUESTION: When a car park is full, where does a driver have to park his car ? When a .... a driver... in the street
+QUESTION: When a car park is full, where does a driver have to park his car?
+A: When a .... a driver... in the street
 WORDS: picture
 DICTATION: Instead of a belt/ she wore a chain,/ which was the fashion of the day./ We usually picture the devil/ as having long ears/ that become thin and narrow/ at the top./ The word "great" generally means very good,/ but it can also mean/ big or important./ "Fast" means the same as "quick",/ except that/ we do not add "ly" to it/ as an adverb.
 
@@ -1621,73 +1658,105 @@ Before we think about the 3rd conditional, we should remind ourselves of the 1st
 "If" + present + "will do" = real possibility
 If I go to the park tomorrow, I will play football
 2nd Conditional
-"If� + past + "would do" = only imagining
+"If" + past + "would do" = only imagining
 If I went to the park tomorrow, I would play football
-QUESTION: When do we use the 1st conditional? We use the 1st conditional to communicate that we think something is a real possibility in the future
-QUESTION: What is its construction? Its construction is "If" + present + "will do"
-QUESTION: Give me an example, please. If he sees his friend this evening, he will say "Hello"
-QUESTION: When do we use the 2nd conditional? We use the 2nd conditional to communicate that we are only imagining something
-QUESTION: What is its construction? Its construction is "If" + past + "would do"
-QUESTION: Give me an example, please. If she went to the North Pole next week, she would feel very cold
+QUESTION: When do we use the 1st conditional?
+A: We use the 1st conditional to communicate that we think something is a real possibility in the future
+QUESTION: What is its construction?
+A: Its construction is "If" + present + "will do"
+G: Give me an example, please. If he sees his friend this evening, he will say "Hello"
+QUESTION: When do we use the 2nd conditional?
+A: We use the 2nd conditional to communicate that we are only imagining something
+QUESTION: What is its construction?
+A: Its construction is "If" + past + "would do"
+G: Give me an example, please. If she went to the North Pole next week, she would feel very cold
 GRAMMAR: 3rd Conditional
 "If" + past perfect + "would have done" = imagining in the past
 If I had gone to the park yesterday, I would have played football
 GRAMMAR: We use the 3rd conditional to communicate that we are imagining something in the past that did not really happen. Its construction is "If" + past perfect + "would have done". The sentence "If I had gone to the park yesterday, I would have played football" means that, in fact, I did not go to the park yesterday, and I did not play football; I am only imagining.
-QUESTION: When do we use the 3rd conditional? We use the 3rd conditional when we are imagining something in the past that did not really happen
-QUESTION: What is its construction? Its construction is "If" + past perfect + "would have done"
-QUESTION: Give me an example, please. If she had studied harder, she would have succeeded in the exam last month
+QUESTION: When do we use the 3rd conditional?
+A: We use the 3rd conditional when we are imagining something in the past that did not really happen
+QUESTION: What is its construction?
+A: Its construction is "If" + past perfect + "would have done"
+G: Give me an example, please. If she had studied harder, she would have succeeded in the exam last month
 GRAMMAR: Notice that, in the 3rd conditional, we put the word "have" and the past participle after the word "would". For example, we say "I would have taken"; "you would have taken"; "he would have taken" etc.
-QUESTION: In the 3rd conditional, what do we put after the word "would"? In the 3rd conditional, we put the word "have" and the past participle after the word "would"
-QUESTION: Give me some examples, please. He would have slept. She would have written. They would have eaten.
-QUESTION: If you had been born in England, which language would you have spoken as a child? If I had been .... I would have spoken English as a child
-QUESTION: Were you in fact born in England? No, I wasn't in fact...; I was born in ...
+QUESTION: In the 3rd conditional, what do we put after the word "would"?
+A: In the 3rd conditional, we put the word "have" and the past participle after the word "would"
+G: Give me some examples, please. He would have slept. She would have written. They would have eaten.
+QUESTION: If you had been born in England, which language would you have spoken as a child?
+A: If I had been .... I would have spoken English as a child
+QUESTION: Were you in fact born in England?
+A: No, I wasn't in fact...; I was born in ...
 GRAMMAR: Exactly; we are only imagining.
-QUESTION: Did you find $100 on the street yesterday? No, I didn't ...
-QUESTION: But if you had found $100 on the street yesterday, what would you have done with it? If I had.... I would have kept it/taken it to the police station
-QUESTION: If you had not decided to study English, which language would you have studied instead? If I had notI would have studied... instead
-QUESTION: If you had not come to school last week, what would you have done instead? If I had not _, I would have gone on holiday/stayed at home etc.
+QUESTION: Did you find $100 on the street yesterday?
+A: No, I didn't ...
+QUESTION: But if you had found $100 on the street yesterday, what would you have done with it?
+A: If I had.... I would have kept it/taken it to the police station
+QUESTION: If you had not decided to study English, which language would you have studied instead?
+A: If I had notI would have studied... instead
 WORDS: diary
-QUESTION: What do people use diaries for? People use diaries to help them remember things that they have done or things that they need to do
+QUESTION: What do people use diaries for?
+A: People use diaries to help them remember things that they have done or things that they need to do
 WORDS: character
-QUESTION: What kind of character do you like to see in a person? I like to see a ... character in a person
+QUESTION: What kind of character do you like to see in a person?
+A: I like to see a ... character in a person
 WORDS: really
-QUESTION: Have you ever got up really early? Yes, I've sometimes... - No, I�ve never...
-QUESTION: For what reason?
-QUESTION: If you were driving a car on a long journey and suddenly felt really tired, what would you do? If I were..., I'd stop the car, buy a cup of coffee, and wait until I felt more awake
+QUESTION: Have you ever got up really early?
+A: Yes, I've sometimes
+A: No, I've never...
+QUESTION: If you were driving a car on a long journey and suddenly felt really tired, what would you do?
+A: If I were..., I'd stop the car, buy a cup of coffee, and wait until I felt more awake
 WORDS: ran
-QUESTION: What's the past of "run"? The past of... "ran"
-QUESTION: If you ran against him (or me etc.), who do you think'd win? If I ran .... I think... would win
+QUESTION: What's the past of "run"?
+A: The past of... "ran"
+QUESTION: If you ran against him (or me etc.), who do you think'd win?
+A: If I ran .... I think... would win
 WORDS: improve, coach
-QUESTION: How can we improve our English? We can _. by practising a lot, reading a lot etc.
-QUESTION: Why do even the best tennis players need a coach? Even the best... to help them to improve their game
-QUESTION: Is it cheaper to travel by coach or by train in your country? It's cheaper... in my country
+QUESTION: How can we improve our English?
+A: We can _. by practising a lot, reading a lot etc.
+QUESTION: Why do even the best tennis players need a coach?
+A: Even the best... to help them to improve their game
+QUESTION: Is it cheaper to travel by coach or by train in your country?
+A: It's cheaper... in my country
 GRAMMAR: Adverbs formed from adjectives
 GRAMMAR: As you have already seen, one very common way of forming adverbs is by adding the letters "ly" to the adjective. For example, "careful - carefully"; "dangerous - dangerously"; "useless - uselessly" etc.
-QUESTION: Tell me one very common way of forming adverbs from adjectives? One very common way ...
-QUESTION: Give me some examples, please. bad - badly; quick - quickly etc.
+QUESTION: Tell me one very common way of forming adverbs from adjectives?
+A: One very common way ...
+G: Give me some examples, please. bad - badly; quick - quickly etc.
 WORDS: flew
-QUESTION: What's the past of "fly"? The past of "fly" is "flew" 
-QUESTION: If you flew round the world in a straight line, would you finish in the same place as you had started? Yes, if I flew.... I'd finish in...
-QUESTION: If a bird flew into this room, what�d you do? If a bird I'd probably try to catch it
+QUESTION: What's the past of "fly"?
+A: The past of "fly" is "flew"
+QUESTION: If you flew round the world in a straight line, would you finish in the same place as you had started?
+A: Yes, if I flew.... I'd finish in...
+QUESTION: If a bird flew into this room, what'd you do?
+A: If a bird I'd probably try to catch it
 WORDS: wool
-QUESTION: Which animal do we get wool from? We get wool from a sheep
-QUESTION: What can we make from wool? We can make pullovers, hats and scarves from wool
+QUESTION: Which animal do we get wool from?
+A: We get wool from a sheep
+QUESTION: What can we make from wool?
+A: We can make pullovers, hats and scarves from wool
 WORDS: Possessive case of plural nouns ending in "s"
 WORDS: apostrophe, case
-QUESTION: How do we form the possessive case of singular nouns like "girl", "man", "child" etc.? We form the possessive case of ... by adding an apostrophe and the letter �s*
-QUESTION: Give me some examples, please. The girl's coat; the old man's hat; a child's book
-QUESTION: How do we form the possessive case of plural nouns that do not end in "s", such as "men", "women", "children" etc.? We form the possessive case of... in the same way: by adding an apostrophe and the letter "s"
-QUESTION: Give me some examples, please. The old men's hats; children's books; women's clothes
+QUESTION: How do we form the possessive case of singular nouns like "girl", "man", "child" etc.?
+A: We form the possessive case of ... by adding an apostrophe and the letter "s"
+G: Give me some examples, please. The girl's coat; the old man's hat; a child's book
+QUESTION: How do we form the possessive case of plural nouns that do not end in "s", such as "men", "women", "children" etc.?
+A: We form the possessive case of... in the same way: by adding an apostrophe and the letter "s"
+G: Give me some examples, please. The old men's hats; children's books; women's clothes
 GRAMMAR: When, however, a plural noun already ends in "s", we form its possessive case just by adding an apostrophe, but no "s".
-QUESTION: How do we form the possessive case of a plural noun which already ends in "s"? We form the possessive case of... just by adding an apostrophe, but no "s"
-QUESTION: Give me some examples, please. The girls' coats; the workers' clothes; ladies' dresses
-QUESTION: What do footballers' shirts have written on their backs? Footballers' shirts have numbers written on their backs
+QUESTION: How do we form the possessive case of a plural noun which already ends in "s"?
+A: We form the possessive case of... just by adding an apostrophe, but no "s"
+G: Give me some examples, please. The girls' coats; the workers' clothes; ladies' dresses
+QUESTION: What do footballers' shirts have written on their backs?
+A: Footballers' shirts have numbers written on their backs
 WORDS: kick
-QUESTION: What am I doing? You're kicking the table
 WORDS: certain
 WORDS: coast
-QUESTION: Can the English coast be seen from the coast of France? Yes, on certain days, the English coast...
+QUESTION: Can the English coast be seen from the coast of France?
+A: Yes, on certain days, the English coast...
 WORDS: tire
-QUESTION: Do you ever tire of speaking? Yes, I sometimes tire... ~ No, I never tire ...
+QUESTION: Do you ever tire of speaking?
+A: Yes, I sometimes tire
+A: No, I never tire ...
 DICTATION: What have they just done?/ They've just learnt that/ we use the 1st conditional/ to communicate that we think/ something is a real possibility./ Its construction is/ "if" + present + "will do"./ In the 2nd conditional,/ we use the past tense to communicate/ that we are only imagining something./ We use "would"/ followed by the infinitive without "to"/ to talk about the imagined result.
 
