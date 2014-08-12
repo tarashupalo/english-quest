@@ -2,13 +2,15 @@ Lesson 61
 WORDS: chat
 WORDS: online
 QUESTION: Do you prefer chatting with your friends on the phone or online?
-A: I prefer chatting with my friends...
+A: I prefer chatting with my friends on the phone.
+A: I prefer chatting with my friends on online.
 OTHER: Why?
+A: Because I can see them.
 QUESTION: How often do you go online to look at your email?
-A: I go online #{how_often} to look at my email
+A: I go online #{how_often:a few times a day} to look at my email
 WORDS: notice
 QUESTION: What's the first thing you notice about people when you meet them for the first time?
-A: The first thing I notice about people when I meet them for the first time is their voice (clothes, eyes etc.)
+A: The first thing I notice about people when I meet them for the first time is their #{thing:voice, clothes, eyes}
 WORDS: free, busy
 QUESTION: Are most people busy on Sunday?
 A: No, most people aren't busy on Sunday; they're free
@@ -23,35 +25,33 @@ QUESTION: Is it more comfortable to sleep lying down or sitting up?
 A: It's more comfortable to sleep lying down than sitting up
 QUESTION: Do you find it comfortable to sleep without a pillow?
 A: Yes, I find it comfortable to sleep without a pillow
-A: No, I don't find it I find it uncomfortable
+A: No, I don't find it comfortable to sleep without a pillow; I find it uncomfortable
 WORDS: wake up - woke up - woken up
 WORDS: go to sleep, immediately, midnight
 QUESTION: Do you usually go to sleep before midnight?
 A: Yes, I usually go to sleep before midnight.
-A: No, I don't usually...
+A: No, I don't usually go to sleep before midnight.
 QUESTION: Do you generally wake up early?
-A: Yes, I generally...
-A: No, I don't generally ...
+A: Yes, I generally wake up early
+A: No, I don't generally wake up early; I generally wake up late
 QUESTION: What are the three forms of "wake up"?
-A: The three forms of "wake up" are "wake up, woke up. woken up"
+A: The three forms of "wake up" are "wake up, woke up, woken up"
 QUESTION: What was the first thing you saw when you woke up today?
-A: The first thing I saw when I woke up ...
-QUESTION: Have you ever woken up too late to go to school (or work)?
-A: Yes, I've sometimes woken up...
-A: No, I've never woken up ...
+A: The first thing I saw when I woke up was the ceiling
+QUESTION: Have you ever woken up too late to go to work?
+A: Yes, I've sometimes woken up too late to go to work
+A: No, I've never woken up too late to go to work
 WORDS: button
 WORDS: buttonhole
 WORDS: through
-QUESTION: What am I doing?
-A: You're putting your pen through the buttonhole in your shirt (blouse etc.)
 QUESTION: When you look through your bedroom window, what do you see?
-A: When I look through my bedroom window, I see...
+A: When I look through my bedroom window, I see #{something:some trees}
 QUESTION: If you went from London to Rome, which cities would you perhaps have to go through?
 A: If I went I would perhaps have to go through Paris, Milan etc.
 WORDS: career
 QUESTION: Would you like a career in the army?
-A: Yes, I'd like.
-A: No, I wouldn't like...
+A: Yes, I'd like a career in the army
+A: No, I wouldn't like a career in the army
 WORDS: cross, crossroads
 WORDS: test
 QUESTION: When a teacher puts a cross next to an answer in a written test, what does it mean? When a teacher _, it means the answer is wrong
