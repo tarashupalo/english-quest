@@ -47,18 +47,19 @@ WORDS: through
 QUESTION: When you look through your bedroom window, what do you see?
 A: When I look through my bedroom window, I see #{something:some trees}
 QUESTION: If you went from London to Rome, which cities would you perhaps have to go through?
-A: If I went I would perhaps have to go through Paris, Milan etc.
+A: If I went from London to Rome, I would perhaps have to go through Paris, Milan etc.
 WORDS: career
 QUESTION: Would you like a career in the army?
 A: Yes, I'd like a career in the army
 A: No, I wouldn't like a career in the army
 WORDS: cross, crossroads
 WORDS: test
-QUESTION: When a teacher puts a cross next to an answer in a written test, what does it mean? When a teacher _, it means the answer is wrong
+QUESTION: When a teacher puts a cross next to an answer in a written test, what does it mean?
+A: When a teacher puts a cross next to an answer in a written test, it means the answer is wrong
 QUESTION: Are there any crossroads at the end of the street where you live?
-A: Yes, there are some _ where I live
-A: No, there aren't any _ where I live
-GRAMMAR: Note that the word "crossroads' can be singular or plural.
+A: Yes, there are some crossroads at the end of the street where I live
+A: No, there aren't any crossroads at the end of the street where I live
+GRAMMAR: Note that the word "crossroads" can be singular or plural.
 WORDS: danger
 WORDS: alcohol
 WORDS: dangerous, dangerously
@@ -66,69 +67,70 @@ WORDS: detective
 QUESTION: What colour do we use for danger?
 A: We use red for danger
 QUESTION: Is it dangerous to drive after drinking alcohol?
-A: Yes, it's dangerous...
+A: Yes, it's dangerous to drive after drinking alcohol
 QUESTION: Would you like to live dangerously like a detective: somebody like Sherlock Holmes, for example?
-A: Yes, I'd like.
-A: No, I wouldn't like ...
+A: Yes, I'd like to live dangerously like a detective: somebody like Sherlock Holmes
+A: No, I wouldn't like to live dangerously like a detective: somebody like Sherlock Holmes
 WORDS: should, obligation, alternative
 WORDS: ambulance
 GRAMMAR: The sentences "I must study" and "I should study" are not the same. The first sentence. "I must study", means that I have an obligation to study: I have no alternative. The second sentence. "I should study", means that I have alternatives: I can go to the cinema if I like, or for a walk, but studying is the right thing for me to do. The best idea is to study.
 QUESTION: What's the difference between these two sentences: "I must study" and "I should study"?
 A: The difference between those two sentences is that "I must study" means that I have no alternative, whereas "I should study" means I have alternatives but that studying is the right thing for me to do
 QUESTION: Do you think people should be more polite in the shops and streets?
-A: Yes, I think ...
+A: Yes, I think people should be more polite in the shops and streets
 QUESTION: Do you agree that students should study hard?
-A: Yes, I agree...
+A: Yes, I agree that students should study hard
 QUESTION: Do you agree that young people should help the old?
-A: Yes, I agree...
+A: Yes, I agree that young people should help the old
 QUESTION: What should we do when somebody is dangerously ill?
-A: When somebody.... we should immediately call an ambulance
+A: When somebody is dangerously ill we should immediately call an ambulance
 QUESTION: What do you think you should do if you want to make a lot of money?
-A: If you want to..., I think you should _
+A: If you want to make a lot of money, I think you should work very hard
 WORDS: correct
 WORDS: grammatical
 QUESTION: How can we correct our mistakes in our pronunciation?
-A: We can correct... by listening and speaking as much as possible
+A: We can correct our mistakes in our pronunciation by listening and speaking as much as possible
 WORDS: problem, cause, colleague, boss
 WORDS: freedom, justice
 QUESTION: If you have a problem with a colleague at work, should you speak to your boss about it?
-A: Yes, if I have.... I should speak to my boss about it
+A: Yes, if I have a problem with a colleague at work, I should speak to my boss about it
 QUESTION: Can smoking cause health problems?
-A: Yes, smoking can...
+A: Yes, smoking can cause health problems
 QUESTION: In history, have many people died for the causes of freedom and justice?
-A: Yes, in history, many people...
+A: Yes, in history, many people died for the causes of freedom and justice
 WORDS: as
 QUESTION: As we have now studied about a thousand words and a lot of the grammar, can you hold a simple conversation in English?
-A: Yes, as we have.... I can hold...
+A: Yes, as we have now studied about a thousand words and a lot of the grammar, I can hold a simple conversation in English
 QUESTION: As you are not tall enough to reach the ceiling, what would you have to do if you wanted to reach it?
-A: As I am not..., I would have to put a chair on the table and stand on the chair if I wanted...
+A: As I am not tall enough to reach the ceiling, I would have to put a chair on the table and stand on the chair if I wanted to reach it
 WORDS: that is
 GRAMMAR: We use the words "that is" when we want to correct something we have just said, or when we want to add more information. A sentence with "that is" in it:
 Everybody loves that film; that is, everybody I've spoken to.
 We will go to the cinema this evening; that is, if we have enough money
 WORDS: bone
 QUESTION: Have you ever broken any of the bones in your body?
-A: Yes, I've broken one/some of.
-A: No, I've never broken any of...
+A: Yes, I've broken one of the bones in my body
+A: Yes, I've broken some of the bones in my body
+A: No, I've never broken any of the bones in my body
 DICTATION: If somebody wants/ to buy my motorbike/ before I go away./ I'll sell it/ for almost nothing./ It is worth paying a little more,/ and going to a good hairdresser./ Parents often read/ bedtime stories to their children./ In some ways,/ life today is harder/ than it was in the past,/ but in other ways/ it is easier./ The waiter brought us the menu,/ but it was the waitress/ who brought the food.
 
 Lesson 62
 WORDS: life, lives, the poor, the rich
 GRAMMAR: If a noun finishes with "f" or "fe", we make the plural by changing the "f" or "fe" to "ves". For example, the plural of "wife" is "wives"; the plural of "knife" is "knives"; the plural of "scarf" is "scarves".
 QUESTION: What's the plural of "life"?
-A: The plural of...
+A: The plural of "life" is "lives"
 QUESTION: Do you think the lives of the poor are happier than those of the rich?
-A: Yes, I think.
-A: No, I don't think...; I think they're less happy
+A: Yes, I think the lives of the poor are happier than those of the rich
+A: No, I don't think the lives of the poor are happier than those of the rich; I think they're less happy
 WORDS: although
 QUESTION: Although you're now able to hold a simple conversation in English, do you think you should keep studying?
-A: Yes, although I'm ... I think I should _
+A: Yes, although I'm now able to hold a simple conversation in English, I think I should keep studying
 QUESTION: Are some people always happy although they have problems in their lives?
-A: Yes, some people..
+A: Yes, some people are always happy although they have problems in their lives
 WORDS: cook, tasty, pasta
 QUESTION: Is there a restaurant near here that cooks tasty food?
-A: Yes, there's a .
-A: No, there isn't a...
+A: Yes, there's a restaurant near here that cooks tasty food
+A: No, there isn't a restaurant near here that cooks tasty food
 QUESTION: Is it difficult to cook pasta?
 A: No, it isn't difficult to cook pasta; it's easy
 WORDS: Are you a good cook?
@@ -136,31 +138,31 @@ A: Yes, I'm a good cook
 A: No, I'm not a good cook
 WORDS: independent
 QUESTION: Do you think that all the countries of the world should be independent?
-A: Yes, I think.
-A: No, I don't think
+A: Yes, I think that all the countries of the world should be independent
+A: No, I don't think that all the countries of the world should be independent
 WORDS: origin
 QUESTION: Do many European languages have their origins in Latin?
-A: Yes, many European languages...
+A: Yes, many European languages have their origins in Latin
 WORDS: belong to
 QUESTION: If a factory belonged to you, do you think you would be able to make a lot of money?
-A: Yes, if a factory belonged to me, I think I would be able _
+A: Yes, if a factory belonged to me, I think I would be able to make a lot of money
 WORDS: could
 WORDS: vice versa
 GRAMMAR: "Could" is the past of "can", but we can also use "could" instead of "would be able" in conditional sentences.
 QUESTION: What can we use instead of "would be able" in conditional sentences?
-A: We can use "could" instead of _
-QUESTION: Give me an example, please. If I was a bird, I could fly
+A: We can use "could" instead of "would be able" in conditional sentences
+G: Give me an example, please. If I was a bird, I could fly
 GRAMMAR: Now I'm going to ask you some questions with "could" and you answer with "would be able", and vice versa.
 QUESTION: If you were very, very tall, could you touch the ceiling?
-A: Yes, if I were.... I would be able to touch _
+A: Yes, if I were very, very tall, I would be able to touch the ceiling
 QUESTION: If you were a doctor, would you be able to help people who were ill?
-A: Yes. if I were I could help..
+A: Yes, if I were a doctor, I could help people who were ill
 QUESTION: If you were as strong as a horse, could you lift a man above your head with only one hand?
-A: Yes, if I were.... I would be able to lift a man above my head _
+A: Yes, if I were as strong as a horse, I would be able to lift a man above my head with only one hand
 WORDS: throw
 QUESTION: Do you think you could throw a stone further than your father can?
-A: Yes, I think I could... further than may father can
-A: No, I don't think I could ... further than my father can
+A: Yes, I think I could throw a stone further than may father can
+A: No, I don't think I could throw a stone further than my father can
 WORDS: alive
 WORDS: dead
 QUESTION: Is Napoleon alive?
@@ -168,9 +170,9 @@ A: No, Napoleon isn't alive; he's dead
 WORDS: drop
 WORDS: go without
 QUESTION: What would happen if you dropped a glass on the floor?
-A: If I dropped .... it would break
+A: If I dropped a glass on the floor it would break
 QUESTION: What's the longest (time) you have ever gone without drinking a drop of water?
-A: The longest I've ever... is...
+A: The longest I've ever gone without drinking a drop of water is about #{how_long: 10 hours, one day}
 WORDS: assassinate
 QUESTION: What happened to President Kennedy?
 A: President Kennedy was assassinated (in 1963)
@@ -179,20 +181,24 @@ QUESTION: Did anything unusual happen to you yesterday?
 A: Yes, something unusual happened to me yesterday
 A: No, nothing unusual happened to me yesterday
 QUESTION: Is it usual for people in your country to eat hot food for breakfast?
-A: Yes, it's usual for people in my country.
-A: No. it isn't usual for people in my country _
+A: Yes, it's usual for people in my country to eat hot food for breakfast
+A: No. it isn't usual for people in my country to eat hot food for breakfast
 QUESTION: Is it unusual for children to find coffee tasty?
-A: Yes, it's unusual _
+A: Yes, it's unusual for children to find coffee tasty
 WORDS: still, yet, in progress
 GRAMMAR: We use "still" for something that is in progress at the moment, whereas we use "yet" for something that has not begun or happened. For example. "It is still winter; it isn't spring yet. It is still 20...; it isn't 20... yet. It Is still Monday; it isn't Tuesday yet" etc We generally use "still" in positive sentences, whereas we generally use �yet� In questions and negative sentences, but not always. We must learn when to use "still" and when to use "yet" by practice.
 QUESTION: What's the difference between "still" and "yet"?
 A: The difference between "still" and "yet" is that we use "still" for something that is in progress at the moment, whereas we use "yet" for something that has not begun or happened.
 G: We generally use "still" in positive sentences, whereas we generally use "yet" in questions and negative sentences. Examples: It's still winter; it isn't spring yet
-QUESTION: Have you studies finished yet? No, my studies haven't finished yet; they're still in progress
-QUESTION: Have we finished studying yet? No, we haven't finished studying yet; I'm still studying
-QUESTION: Has the spring (summer etc.) begun yet? No, the spring (summer etc.) hasn't begun yet; it's still...
+QUESTION: Have you studies finished yet?
+A: No, my studies haven't finished yet; they're still in progress
+QUESTION: Have you finished studying yet?
+A: No, I haven't finished studying yet; I'm still studying
+QUESTION: Has the #{next_season_of_the_year} begun yet?
+A: No, the #{next_season_of_the_year} hasn't begun yet; it's still #{current_season_of_the_year}
 QUESTION: Will you still be in this country in two weeks' time?
-A: Yes, I'll still be...
+A: Yes, I'll still be in this country in two weeks' time
+A: No, I won't still be in this country in two weeks' time
 WORDS: special
 DICTATION: If I receive a call from him,/ I'll stay./ It is an ordinary paint factory;/ it makes nothing special./Rainy days make me sad./ I listened,/ but could hear no sound. What song do you suggest/ we get him to give us/ if he is not too tired?/ We don't turn right/ until we get to the next street./ The opposite of death is life.
 
@@ -203,66 +209,72 @@ A: No, the bottoms of my shoes aren't clean; they're dirty
 QUESTION: When our shoes are dirty, what should we do?
 A: When our shoes are dirty, we should clean them
 QUESTION: Which do you think is the cleanest city you know of?
-A: I think ... is the cleanest city I know of
+A: I think #{city: Tokio} is the cleanest city I know of
 QUESTION: And which do you think is the dirtiest?
-A: I think... is the dirtiest
+A: I think #{city: Liverpool} is the dirtiest
 QUESTION: Which do you think is less unpleasant: the dirt of the city or the dirt of the country, of the farm etc.?
-A: I think the dirt of the... is less unpleasant than the dirt of the...
+A: I think the dirt of the city is less unpleasant than the dirt of the country
+A: I think the dirt of the country is less unpleasant than the dirt of the city
 WORDS: to be afraid
 QUESTION: Do you remember if you were afraid of the dark when you were a little child?
 A: Yes, I remember I was afraid of the dark when I was a little child
 A: No, I don't remember if I was afraid of the dark when I was a little child
 QUESTION: Would you be afraid to go round the world in a small, open boat?
-A: Yes, I would be afraid
-A: No. I wouldn't be afraid ...
+A: Yes, I would be afraid to go round the world in a small, open boat
+A: No. I wouldn't be afraid to go round the world in a small, open boat
 QUESTION: Do people shake when they feel very afraid?
-A: Yes. people shake _
+A: Yes. people shake when they feel very afraid
 WORDS: guard, on your guard, off your guard
 QUESTION: What's the best way to guard against becoming ill?
-A: The best way _ is to eat healthy food, sleep well and do exercise
+A: The best way to guard against becoming ill is to eat healthy food, sleep well and do exercise
 QUESTION: Must we be on our guard when we buy something from a man selling things in the street?
-A: Yes, we must be _
+A: Yes, we must be on our guard when we buy something from a man selling things in the street
 QUESTION: Why?
 A: Because maybe we won't be able to find him again if there's a problem with the thing we've bought
-QUESTION: What's the opposite of "on your guard"? The opposite of "on your guard" is "off your guard"
+QUESTION: What's the opposite of "on your guard"?
+A: The opposite of "on your guard" is "off your guard"
 WORDS: calm, quietly
 QUESTION: What's the best way to calm somebody down when he's very angry?
-A: The best way... is to speak quietly and pleasantly to him
+A: The best way to calm somebody down when he's very angry is to speak quietly and pleasantly to him
 QUESTION: Are we having calm weather at the moment?
-A: Yes, we're having
-A: No, we aren't having ...
+A: Yes, we're having calm weather at the moment
+A: No, we aren't having calm weather at the moment
 WORDS: if I were, king
 WORDS: person (1st. 2nd person etc )
 GRAMMAR: In the 2nd conditional, we can use the verb "to be" in the past simple and say "if I was", "if you were", "if he was" etc. or we can use "were" for all persons and say �if I were", "if you were", "if he were� etc. The second form is perhaps more common.
 QUESTION: What are the two ways of forming the 2nd conditional with the verb "to be"?
 A: The two ways of forming the 2nd conditional with the verb "to be" are "if I was" and "if I were"
 QUESTION: If you were a millionaire, where would you live?
-A: If I were..., I would live in ...
+A: If I were a millionaire, I would live in Hawaii
+Q: Why?
+A: Because it's beautiful
 QUESTION: If I were you, which language would I speak?
-A: If you were me, you would speak ...
+A: If you were me, you would speak #{language: Ukrainian, Spanish}
 QUESTION: If you were a king, what would your wife be called?
 A: If I were a king, my wife would be called a queen
 QUESTION: If there wasn't a light in this room, would we be able to see well when it got dark?
-A: No, if there wasn't ... we wouldn't...; we would see badly
+A: No, if there wasn't a light in this room, we wouldn't be able to see well when it got dark; we would see badly
 QUESTION: If there weren't any food in the world, would we all die?
-A: Yes, if there weren't we would all die
+A: Yes, if there weren't any food in the world, we would all die
 QUESTION: If you weren't you, who would you like to be?
-A: If I weren't me, I would like to be ...
+A: If I weren't me, I would like to be George Clooney
+Q: Why?
+A: Because he's handsome and has a lot of money
 WORDS: if I were you, advice, expression, especially
 GRAMMAR: We say "If I were you" when we want to give advice to somebody, especially when we think perhaps there is a problem. For example, "If I were you, I would go to see a doctor" or "I wouldn't open that door if I were you!"
 For example, "If I were you, I would eat more vegetables" or "I wouldn't buy that car if I were you!"
 QUESTION: Can we use the expression "if I were you" to give advice to somebody?
-A: Yes, we can use the expression ...
+A: Yes, we can use the expression "if I were you" to give advice to somebody
 QUESTION: What's the biggest problem in your life at the moment?
-A: The biggest problem in my life at the moment is...
+A: The biggest problem in my life at the moment is learning English
 WORDS: win - won - won, lottery
 QUESTION: What's another opposite of the verb "lose" besides "find"?
-A: Another opposite... is "win"
+A: Another opposite of the verb "lose" besides "find" is "win"
 QUESTION: What are the three forms of "win"?
 A: The three forms of "win" are "win, won, won"
 QUESTION: Does your country usually win at football?
-A: Yes, my country.
-A: No, my country ...; it usually loses
+A: Yes, my country usually win at football
+A: No, my country usually win at football; it usually loses
 QUESTION: Do you do the lottery?
 A: Yes, I do the lottery
 A: No, I don't do the lottery
@@ -270,12 +282,12 @@ QUESTION: Have you ever won?
 A: Yes, I've won
 A: No, I've never won
 QUESTION: If you won a million pounds, what would you do with it?
-A: If I won _, I would ...
+A: If I won a million pounds, I would buy a large house
 WORDS: useful, useless, possess
 QUESTION: What do we do with useless things?
 A: We throw useless things away
 QUESTION: What are the two most useful things you possess?
-A: The two most useful things I possess are ...
+A: The two most useful things I possess are my phone and my computer
 QUESTION: Do you think that what you're learning now will be useful to you later on in life?
 A: Yes, I think that what I'm learning now will be useful to me later on in life
 QUESTION: Why?
@@ -288,13 +300,13 @@ WORDS: Contraction of "would"
 WORDS: contract
 GRAMMAR: The contraction of "I would" is Td~. We can use contractions for all the persons and say "I'd", "you'd", "he'd", "she'd", "it'd", "we'd", "you'd", "they'd".
 QUESTION: What's the contraction of "I would"?
-A: The contraction of
+A: The contraction of "I would" is "I'd"
 WORDS: If you went to the cinema this evening, which film would you see?
-A: If I went I'd see...
+A: If I went I'd see #{film: Titanik, The artist}
 QUESTION: If I were you, which language would I speak?
-A: If you were me, you'd speak...
+A: If you were me, you'd speak #{language: Italian}
 QUESTION: If a plant had no water, would it die?
-A: Yes, if a plant...
+A: Yes, if a plant had no water, it'd die
 WORDS: Contraction of "would" with other words
 GRAMMAR: We can contract "would" with almost any word. For example, "the book would becomes "the book'd"; "who would" becomes "who'd" etc.
 QUESTION: What's the contraction of "book would"?
@@ -305,26 +317,26 @@ GRAMMAR: lesson'd; who'd; what'd; which'd
 QUESTION: If you were a king, what'd your wife be called?
 A: If I were a king, my wife'd be called a queen
 QUESTION: If you lost your way in a large city, who'd you ask?
-A: If I lost my wayI'd ask a policeman
+A: If I lost my way in a large city, I'd ask a policeman
 QUESTION: If today were Sunday, what'd tomorrow be?
 A: If today were Sunday, tomorrow'd be Monday
 WORDS: sandwich, cheese
 QUESTION: When office workers are too busy to leave their desks for lunch, do they often just have a quick sandwich?
-A: Yes. when office workers _
+A: Yes, when office workers are too busy to leave their desks for lunch, do they often just have a quick sandwich
 QUESTION: What kind of things do we put in sandwiches?
 A: We put meat, cheese, egg etc. in sandwiches
 WORDS: fault, faultless, faulty
 WORDS: fix
 QUESTION: What's your biggest fault?
-A: My biggest fault is...
+A: My biggest fault is that I get angry very easily
 QUESTION: If your computer was faulty, would you know how to fix the fault?
-A: Yes, if my computer was faulty, I'd know
-A: No, if my computer was faulty, I wouldn't know _
+A: Yes, if my computer was faulty, I'd know how to fix the fault
+A: No, if my computer was faulty, I wouldn't know how to fix the fault
 QUESTION: Are your dictations usually faultless?
 A: No, my dictations aren't usually faultless; they usually contain mistakes
 QUESTION: If a student makes a mistake in his dictation, is it usually his fault or the teacher's fault?
 A: If a student it's usually his fault, but it could sometimes be the teacher's fault
-OTHER: OK
+WORDS: OK
 WORDS: all right
 GRAMMAR: "OK" and "all right" have the same meaning.
 QUESTION: What can we say instead of "OK"?
@@ -332,7 +344,7 @@ A: Instead of "OK" we can say "all right"
 WORDS: compare, comparison
 WORDS: have something in common
 QUESTION: Can we compare Michelangelo with Napoleon?
-A: No, we can't compare _
+A: No, we can't compare Michelangelo with Napoleon
 QUESTION: Why not?
 A: Because they were two completely different kinds of people, who did different things from each other
 WORDS: What must two people or things have if we want to make a comparison between them?
@@ -342,12 +354,10 @@ WORDS: cool
 QUESTION: What do we use ice for?
 A: We use ice for putting in drinks to cool them etc.
 WORDS: pour
-GRAMMAR: Pretend to pour from a bottle in one hand into a glass in the other.
-QUESTION: What am I doing?
-A: You're pouring some water (wine etc.) from a bottle into a glass
 WORDS: unite
 QUESTION: Do you think that all the countries of the world will unite one day?
-A: Yes, I think... ~ No, I don't think...
+A: Yes, I think that all the countries of the world will unite one day
+A: No, I don't think that all the countries of the world will unite one day
 WORDS: even
 WORDS: surprising
 GRAMMAR: The word "even" can have a similar meaning to "also", but we use it when the next piece of information is surprising.
@@ -356,40 +366,38 @@ He was very impolite; he didn't even say "hello"
 It's very simple; even a child could understand it
 WORDS: mix, mixture, pink
 QUESTION: Do we generally mix sugar with potatoes?
-A: No, we don't generally...
+A: No, we don't generally mix sugar with potatoes
 QUESTION: Do you think a mixture of tea and coffee would make pleasant drink?
-A: No, I don't think...; it would make an unpleasant drink
+A: No, I don't think a mixture of tea and coffee would make pleasant drink; it would make an unpleasant drink
 QUESTION: If you mixed some red and white paint together, what would you get?
-A: If I mixed..., I'd get pink paint
+A: If I mixed some red and white paint together, I'd get pink paint
 WORDS: care, care for, take care of
 QUESTION: Who cared for you when you were a child?
 A: My mother cared for me when I was a child
 QUESTION: Do you think the young should take care of the old?
-A: Yes, I think _
+A: Yes, I think the young should take care of the old
 QUESTION: Do you take good care of your health?
 A: Yes, I take good care of my health
 A: No, I don't take good care of my health
 QUESTION: Do you care what people think or say about you?
-A: Yes, I care... about me
-A: No. I don't care... about me
+A: Yes, I care what people think or say about me
+A: No. I don't care what people think or say about me
 WORDS: appointment, keep an appointment, hurry
 WORDS: take your time
 QUESTION: If you were late for a very important appointment, would you take your time?
-A: No, if I were.... I wouldn't take my time; I'd hurry
+A: No, if I were late for a very important appointment, I wouldn't take my time; I'd hurry
 QUESTION: Why?
 A: Because it's important to keep appointments that we've made
 QUESTION: Why is it sometimes a bad thing to hurry?
-A: It's sometimes.. because we often make mistakes when we hurry
+A: It's sometimes a bad thing to hurry because we often make mistakes when we hurry
 QUESTION: Would you take your time going home if somebody told you your house was on fire?
 A: No, I wouldn't take my time going home if somebody told me my house was on fire; I'd hurry
-QUESTION: What's the translation of "I am in a hurry"?
-A: The translation of "I am in a hurry" is
 WORDS: plenty of
 GRAMMAR: The words "plenty of" mean "more than enough".
 QUESTION: What do the words "plenty of" mean?
-A: The words "plenty of" ...
+A: The words "plenty of" means "more than enough"
 QUESTION: Do people hurry when they have plenty of time?
-A: No, people don't hurry ...; they take their time
+A: No, people don't hurry when they have plenty of time; they take their time
 Q: What's the opposite of "plenty of water"?
 A: The opposite of "plenty of water" is "little water" or "not enough water"
 
@@ -402,20 +410,12 @@ Examples of "for". for half an hour; for two weeks
 Examples of "since". since six o'clock; since last June
 QUESTION: What's the difference between "for" and "since"?
 A: The difference between "for" and "since" is that we use the word "for" when we say a period of time, whereas we use the word "since" when we say the point at which the period began
-QUESTION: How long have you been in this room for?
-A: I've been in this room for...
-QUESTION: Since when has he/she been in this room?
-A: He's/She's been in this room since ...
-QUESTION: How long have you lived in this town for?
-A: I've lived in this town for...
-QUESTION: Since when has he/she lived in this town?
-A: He's/She's lived in this town since ...
 QUESTION: Have you been able to speak English for more than ten years?
-A: Yes, I've been able to
-A: No, I haven't been able to _
+A: Yes, I've been able to speak English for more than ten years
+A: No, I haven't been able to speak English for more than ten years
 QUESTION: Have you been able to speak English since you were a young child?
-A: Yes, I've _ since I was.
-A: No, I haven't _ since I was _
+A: Yes, I've been able to speak English since I was a young child.
+A: No, I haven't _ since I was a young child
 WORDS: kitchen, fridge, freezer, cooker
 WORDS: sink, microwave
 QUESTION: What kind of things does a kitchen usually contain?
