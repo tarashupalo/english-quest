@@ -970,19 +970,19 @@ QUESTION: Do you think it may rain later?
 A: Yes, I think it may rain later
 A: No, I don't think it will rain later
 QUESTION: What might happen if you didn't look both ways before crossing the road?
-A: An accident might happen if I didn't...
+A: An accident might happen if I didn't look both ways before crossing the road
 QUESTION: What might you see if you went to London?
 A: I might see Buckingham Palace, the Houses of Parliament, Trafalgar Square, Piccadilly Circus etc. if I went to London
 QUESTION: Do you think there might be another world war?
-A: Yes, I think there might be
-A: No, I don't think there'll be...
+A: Yes, I think there might be another world war
+A: No, I don't think there'll be another world war
 WORDS: arrive at, point, arrive in, area
 WORDS: airport, passport
 GRAMMAR: We arrive at a point, like a building or a station, whereas we arrive in an area, like a city or a country.
 QUESTION: What's the difference between "arrive at" and "arrive in"?
 A: The difference between "arrive at" and "arrive in" is that we arrive at a point, whereas we arrive in an area
 QUESTION: If you arrived at a foreign airport without your passport, what might happen?
-A: If I arrived... without my passport, I might not be able to enter the country
+A: If I arrived at a foreign airport without my passport, I might not be able to enter the country
 WORDS: cafe
 QUESTION: What is a cafe?
 A: A cafe is a small, informal restaurant where you can get light meals, snacks and drinks
@@ -993,36 +993,36 @@ A: No, I don't owe you any money
 QUESTION: Do I owe you any money?
 A: Yes, you owe me some money
 A: No, you don't owe me any money
-WORDS: Verb + back
+G: Verb + back
 WORDS: souvenir
 GRAMMAR: When we add the word "back" to a verb it means "to return". For example, "give back", "go back", "pay back" etc.
 QUESTION: What does it mean "to give back"?
 A: "To give back' means "to return'
 QUESTION: When you go on holiday, what do you bring back with you?
-A: When I go.... I bring back souvenirs with me
+A: When I go on holiday, I bring back souvenirs with me
 QUESTION: When people lend you money, do you always pay it back when promised?
-A: Yes, when people lend me money, I always
-A: No, when people lend me money, I don't always ...
+A: Yes, when people lend me money, I always pay it back when promised
+A: No, when people lend me money, I don't always pay it back when promised
 QUESTION: Do you know anybody who has retired but then later gone back to work?
-A: Yes, I know somebody
-A: No. I don't know anybody _
+A: Yes, I know somebody who has retired but then later gone back to work
+A: No. I don't know anybody who has retired but then later gone back to work
 WORDS: pride, proud, normal, normally
 WORDS: take pride in
 QUESTION: What is your normal breakfast?
-A: My normal breakfast is...
+A: My normal breakfast is coffee and bread
 QUESTION: Do people normally feel proud when they do well in exams?
-A: Yes, people normally...
-QUESTION: Do you take pride in your work (studies)?
-A: Yes, I take pride in my work (studies)
-A: No I don't take pride in my work (studies)
+A: Yes, people normally feel proud when they do well in exams
+QUESTION: Do you take pride in your work?
+A: Yes, I take pride in my work
+A: No I don't take pride in my work
 WORDS: servant
 QUESTION: If you were very rich, would you have servants in your house?
-A: Yes, if I were..., I'd have servants in my house
-A: No, if I were..., I wouldn't have servants in my house
+A: Yes, if I were very rich, I'd have servants in my house
+A: No, if I were very rich, I wouldn't have servants in my house
 WORDS: wheel
 WORDS: lorry
 QUESTION: Does a lorry have fewer wheels than a car?
-A: No, a lorry doesn't ...; it has more wheels
+A: No, a lorry doesn't have fewer wheels than a car; it has more wheels
 WORDS: arrow, centimetre, metre
 QUESTION: About how long is an arrow?
 A: An arrow is about a metre long
@@ -1030,34 +1030,34 @@ QUESTION: How many centimetres make a metre?
 A: A hundred centimetres make a metre
 WORDS: beard
 QUESTION: Do you know anybody who has a long beard?
-A: Yes, I know somebody
-A: No I don't know anybody...
+A: Yes, I know somebody who has a long beard
+A: No I don't know anybody who has a long beard
 WORDS: true, false, paper (newspaper)
 QUESTION: Is it false that the opposite of "heaven" is "hell"?
-A: No, it isn't false...; it's true
+A: No, it isn't false that the opposite of "heaven" is "hell"; it's true
 QUESTION: Is everything we read in the newspapers true?
-A: No, not everything...; some things are true and some things are false
+A: No, not everything we read in the newspapers true; some things are true and some things are false
 QUESTION: Why do you think this is so?
 A: I think maybe it's because newspapers haven't always got time to make sure that what they write is completely true
 WORDS: maintain
 QUESTION: Is it cheap to maintain a large house?
-A: No, it isn't cheap...; it's expensive
+A: No, it isn't cheap to maintain a large house; it's expensive
 WORDS: Ireland
 WORDS: it takes
-QUESTION: How long does it take you to go home from here?
-A: It takes me about... to go...
+G: How long does it take you to go home from here? It takes me about an hour to go home from here
 QUESTION: Does it take longer to fly from here to Ireland than to go by train and ship?
-A: No, it doesn't take...; it takes less time
+A: No, it doesn't take longer to fly from here to Ireland than to go by train and ship; it takes less time
 QUESTION: About how long would it take us to reach the station from here if we walked very fast? It'd take us about... to reach ...
 WORDS: amount
 WORDS: amount to
-QUESTION: What amount of money have you got in your pocket (or bag) at the moment?
-A: I've got about... in my pocket
+QUESTION: What amount of money have you got in your pocket at the moment?
+A: I've got about #{money: $50, 10 dollars, a hundred pounds} in my pocket
 Q: Do they use a large amount of wood in building houses in this region?
-A: Yes, they use
-A: No, they don't use...
+A: Yes, they use a large amount of wood in building houses in this region
+A: No, they don't use a large amount of wood in building houses in this region
 QUESTION: Why or why not?
-A: Because it's cheap/expensive etc.
+A: Because it's expensive.
+A: Because it's cheap.
 Q: What do $50 and $13 amount to?
 A: $5O and $13 amount to $63
 WORDS: further, Sweden, in addition
@@ -1065,13 +1065,13 @@ WORDS: extra
 GRAMMAR: The word "further" means the same as "farther", but it also means "in addition" or "extra".
 Give me a further example of the word "further", please. If I failed an exam, I'd have to take further lessons
 QUESTION: What does the word "further" mean?
-A: The word "further" _
+A: The word "further" means the same as "farther", but it also means "in addition" or "extra"
 QUESTION: Which is further from Spain: Sweden or Switzerland?
 A: Sweden is further from Spain than Switzerland
 QUESTION: What's the furthest you've ever been?
-A: The furthest I've ever been is from ... to ...
+A: The furthest I've ever been is from #{from: England} to #{to: Japan}
 QUESTION: Where'd you have to go if you wanted further information about train times at a station?
-A: I'd have to go to the information office if I wanted ...
+A: I'd have to go to the information office if I wanted further information about train times at a station
 DICTATION: They keep lots of their books/ under the bed./ She's pouring the fruit juice/ from a bottle into a glass./ His grave/ was covered with sand,/ and, in the sand,/ somebody had printed his name./ From the neck of the bottle/ came a flame/ which gave light to the room./ Fish and chips/ is a common meal in England./ If we push a door/ which has the word "pull"/ written on it,/ it won't open./ He's got a hole in his sock.
 
 Lesson 71
@@ -1090,81 +1090,79 @@ QUESTION: What does that sentence mean?
 A: That sentence means that Mary did not know where her key was yesterday because of losing it earlier in the day
 QUESTION: What's the difference between these two sentences "I ate my dinner at 9 o'clock" and "I had eaten my dinner at 9 o'clock"?
 A: The difference between these two sentences is that "I ate my dinner at 9 o'clock" means I started to eat my dinner at 9 o'clock, whereas "I had eaten my dinner at 9 o'clock" means that my dinner was already finished at 9 o'clock
-QUESTION: Had you had anything to eat before you came to school today?
-A: Yes, I had had something... before I came
-A: No, I hadn't had anything... before I came ...
+G: Had you had anything to eat before you came to school today? Yes, I had had something to eat before before I came to school today
 WORDS: party, political
-QUESTION: What does the word "party" mean?
-A: The word "party" means...
 QUESTION: Do you ever throw (have) a party at home on your birthday?
-A: Yes, I sometimes... on my birthday
-A: No, I never... on my birthday
+A: Yes, I sometimes throw (have) a party at home on my birthday
+A: No, I never throw (have) a party at home on my birthday
 QUESTION: Which is the strongest political party in your country today?
-A: The ... party is the... in my country today
+A: The #{political_party} is the strongest political party in my country today
 QUESTION: Do you prefer to go on holiday with a friend or in a large party?
-A: I prefer to go on ...
+A: I prefer to go on holiday with a friend
+A: I prefer to go on holiday in a large party
 WORDS: mad, crazy, UFO
 GRAMMAR: The word "mad" has three common meanings: angry, very interested, and crazy.
 QUESTION: What does the word "mad" mean?
 A: The word "mad" means angry, very interested, and crazy
 QUESTION: Do some people get mad when they're driving in very heavy traffic?
-A: Yes, some people...
+A: Yes, some people get mad when they're driving in very heavy traffic
 QUESTION: What kind of things are you most mad about?
 A: I'm most mad about music, films, sport etc.
 QUESTION: If a friend told you they had seen a UFO, would you believe them or think they were going mad?
-A: If a friend told me ...; I'd...
+A: If a friend told me they had seen a UFO; I'd think they were going mad
 WORDS: copy
 QUESTION: What happens if one pupil copies from another during an exam?
-A: If one pupil.... he's sent out of the room
+A: If one pupil copies from another during an exam, he's sent out of the room
 QUESTION: If you were given two copies of the same book for your birthday, what would you do?
-A: If I were given _ for my birthday, I'd _
+A: If I were given two copies of the same book for my birthday, I'd give one to a friend
 WORDS: influence
 QUESTION: Does the weather have a strong influence over you? Do you, for example, feel happy in good weather and unhappy in bad weather?
-A: Yes, the weather... over me
-A: No, the weather... over me
+A: Yes, the weather has a strong influence over me
+A: No, the weather doesn't have a strong influence over me
 WORDS: mouse, mice
 QUESTION: What is the name of the famous mouse in the cinema world?
-A: The name of... is Mickey Mouse
+A: The name of the famous mouse in the cinema world is Mickey Mouse
 QUESTION: What do mice like eating?
 A: Mice like eating cheese etc.
 WORDS: throat
 WORDS: opportunity
 QUESTION: Which would you prefer: a job that gave you the opportunity to visit other countries, or a job that gave you the opportunity to earn a lot?
-A: I'd prefer a job that gave me the opportunity to...
+A: I'd prefer a job that gave me the opportunity to visit other countries
+A: I'd prefer a job that gave me the opportunity to earn a lot
 WORDS: develop, industry, agriculture
 QUESTION: What do we mean by the under-developed countries of the world?
-A: By the under-developed..., we mean those with little industry, agriculture etc.
+A: By the under-developed countries of the world, we mean those with little industry, agriculture etc.
 WORDS: print
 WORDS: sand, beach
 WORDS: desert
 QUESTION: Where do we find sand?
 A: We find sand on a beach, in a desert etc.
 QUESTION: When you're on holiday, do you enjoy lying on a beach in the sun?
-A: Yes, when I'm.... I enjoy
-A: No, when I'm.... I don't enjoy...
+A: Yes, when I'm on holiday, I enjoy lying on a beach in the sun
+A: No, when I'm on holiday, I don't enjoy lying on a beach in the sun
 QUESTION: Why is it difficult to live in a desert?
-A: It's difficult... because there is so little water
+A: It's difficult to live in a desert because there is so little water
 WORDS: bell, knock, pay a visit, ring
-QUESTION: Is there a bell in school?
-A: Yes, there's a bell
+G: Is there a bell in a school? Yes, there's a bell in a school
 QUESTION: What do you do when you arrive at somebody's front door in order to pay a visit?
-A: When I arrive at.... I knock on the door or ring the doorbell
+A: When I arrive at somebody's front door in order to pay a visit I knock on the door or ring the doorbell
 WORDS: shout
 QUESTION: When do people shout?
 A: People shout when they're angry or when they think somebody can't hear them
-QUESTION: If there were some people shouting loudly outside in the corridor, would you be able to hear me?
-A: No, if there were.... I wouldn't be able to hear you
+G: If there were some people shouting loudly outside in the corridor, would you be able to hear me? No, if there were some people shouting loudly outside in the corridor, I wouldn't be able to hear you
 WORDS: stick
 WORDS: walking stick
 QUESTION: Do some people use walking sticks to help them move around when they get older?
-A: Yes, some people...
+A: Yes, some people use walking sticks to help them move around when they get older
 QUESTION: Which animals like to fetch sticks that you throw for them?
-A: Dogs like to fetch _
-WORDS: Would prefer + infinitive with "to"
+A: Dogs like to fetch to fetch sticks that you throw for them
+G: Would prefer + infinitive with "to"
 QUESTION: Where would you prefer to live: by a lake or by the sea?
-A: I'd prefer to live by ...
+A: I'd prefer to live by a lake
+A: I'd prefer to live by the sea
 QUESTION: This evening, would you prefer to go out for dinner or simply go home?
-A: This evening, I'd prefer to ...
+A: This evening, I'd prefer to go out for dinner
+A: This evening, I'd prefer simply go home
 WORDS: exclamation mark
 DICTATION: Keep off the grass!/ They've gone away for the day/ and will return late/ this evening;/ at least, that's what they said/ before leaving./ The average age/ for getting married/ is between twenty and thirty./ Among all the subjects/1 studied at school,/ I found science/ the most interesting,/ not the most boring./ Birds cannot fly/ faster than planes./ The soldiers carried the sticks/ into the field/ in order to make a fire.
 
@@ -1176,33 +1174,32 @@ Give me an example. late - lateness
 QUESTION: How do we sometimes form a noun from an adjective?
 A: We sometimes form a noun from an adjective by adding the letters "ness" to the adjective
 QUESTION: When did you have your last illness?
-A: I had my last illness...
+A: I had my last illness #{when: two weeks ago, last month, half a year ago, five years ago}
 QUESTION: What's the reason for tiredness?
 A: The reason for tiredness is too much work, not enough sleep etc.
 QUESTION: What's the reason for darkness at night?
 A: The reason for darkness at night is that the world turns completely round every 24 hours
 WORDS: alone
 QUESTION: What's another way of saying "he lives on his own"?
-A: Another way... is "He lives alone"
+A: Another way of saying "he lives on his own" is "He lives alone"
 QUESTION: Do you live alone or with other people?
 A: I live alone
 A: I live with other people
 QUESTION: Do you prefer to go on holiday alone?
-A: Yes, I prefer.
-A: No, I don't prefer...; I prefer to go in company
+A: Yes, I prefer to go on holiday alone
+A: No, I don't prefer to go on holiday alone; I prefer to go in company
 WORDS: already
-QUESTION: Has the lesson already finished?
-A: No, the lesson hasn't finished yet; it's still in progress
+F: Has the lesson already finished? No, the lesson hasn't finished yet; it's still in progress
 QUESTION: Are you already able to speak English without making any mistakes?
-A: No, I'm not able to... yet; I still make some mistakes
-QUESTION: Are we already in spring (summer etc.)?
-A: No, we aren't in ... yet; we're still in ...
+A: No, I'm not able to speak English without making any mistakes yet; I still make some mistakes
+QUESTION: Are we already in #{next_season_of_the_year}?
+A: No, we aren't in #{next_season_of_the_year} yet; we're still in #{current_season_of_the_year}
 WORDS: thrown
 QUESTION: What are the three forms of "throw"?
 A: The three forms of "throw" are "throw, threw, thrown"
 QUESTION: Have you ever thrown anything away by mistake which was worth a lot of money?
-A: Yes, I've thrown something away.
-A: No. I've never thrown anything away...
+A: Yes, I've thrown something away by mistake which was worth a lot of money
+A: No. I've never thrown anything away by mistake which was worth a lot of money
 WORDS: in spite of, despite
 GRAMMAR: "In spite of" and "despite" both mean the same as "although", but they are prepositions, so we put nouns after them. 
 There are three ways of using "in spite of" or "despite". They can be followed by a noun, or "-ing", or "the fact that. For example:
@@ -1211,28 +1208,31 @@ Despite being ill, she went to work.
 In spite of the fact that she was ill, she went to work. 
 It is important to remember that "in spite of" and "despite" cannot be followed immediately by a subject and verb. For example, we cannot say "In spite of she was ill, she went to work".
 QUESTION: Why do some people do dangerous sports in spite of the danger?
-A: Some people... because they find them exciting
+A: Some people do dangerous sports in spite of the danger because they find them exciting
 QUESTION: Name some foods that are very popular despite being bad for the health.
-A: Some foods that are very... are...
+A: Some foods that are very despite being bad for the health are chicks, cakes, ice creams, etc.
 QUESTION: Do you think it's worth learning a foreign language in spite of the fact that it's quite difficult?
-A: Yes, I think _
+A: Yes, I think it's worth learning a foreign language in spite of the fact that it's quite difficult
 QUESTION: In spite of studying a lot of words and grammar, do you still find English a little difficult?
-A: Yes, in spite of... I still find..
+A: Yes, in spite of studying a lot of words and grammar, I still find English a little difficult
 WORDS: anyone, someone, no one (no-one)
 GRAMMAR: Instead of the words "anybody", "somebody" and "nobody", we can use the words "anyone", "someone" and "no one" (or "no-one").
 QUESTION: What words can we use instead of "anybody", "somebody" and "nobody"?
 A: Instead of "anybody", "somebody" and "nobody", we can use "anyone", "someone" and "no one"
 WORDS: borrow
 QUESTION: What's the opposite of the verb "to lend"?
-A: The opposite _ is "to borrow"
+A: The opposite of the verb "to lend" is "to borrow"
 QUESTION: Should we always give back the things we borrow?
-A: Yes, we should always...
+A: Yes, we should always give back the things we borrow
 WORDS: my own, emphasize
 GRAMMAR: We often put the word "own" after a possessive adjective when we want to emphasize that something belongs to someone. For example, this is my own pen; it belongs to me. Notice that we can say that this is our classroom because we study here all the time, but we cannot say that this is our own classroom because It doesn�t belong to us.
 Give me an example of the word "own" after a possessive adjective. This is my own book
+Q: Do you live in a house or a flat?
+A: I live in a house
+A: I live in a flat
 QUESTION: Do you live in your own house (or flat), or does it belong to somebody else?
 A: Yes, I live in my own house (or flat)
-A: No, I don't live in my own house (or flat); it belongs to...
+A: No, I don't live in my own house (or flat); it belongs to somebody else
 WORDS: skin
 WORDS: wire
 WORDS: electricity
@@ -1243,18 +1243,19 @@ A: We use wire to carry electricity, to connect things together etc.
 QUESTION: What do we mean by a wireless internet connection?
 A: By a wireless internet connection, we mean that we can connect to the internet without connecting wires to our computer
 QUESTION: What can we say instead of "a wireless internet connection"?
-A: Instead of ... we can say "Wi-Fi"
+A: Instead of "a wireless internet connection" we can say "Wi-Fi"
 QUESTION: Do some bars and cafes offer free Wi-Fi to their customers?
-A: Yes, some bars _
+A: Yes, some bars and cafes offer free Wi-Fi to their customers
 QUESTION: Spell the word "Wi-Fi", please.
 A: W, I, hyphen, F, I.
 WORDS: boil
 WORDS: fry
 WORDS: roast
 QUESTION: Tell me three ways of cooking potatoes.
-A: Three ways... are boiling, frying and roasting
+A: Three ways of cooking potatoes are boiling, frying and roasting
 QUESTION: Do you prefer fried eggs or boiled eggs?
-A: I prefer...
+A: I prefer fried eggs
+A: I prefer boiled eggs
 QUESTION: How long does it take to boil potatoes?
 A: It takes about twenty minutes to boil potatoes
 WORDS: brick
@@ -1275,13 +1276,13 @@ WORDS: Future continuous, I will be speaking
 GRAMMAR: We use the future continuous for an action that will be in progress at a particular time in the future. For example, the sentence "I will be sleeping at 4 o'clock tomorrow morning" means that I will go to sleep before 4 o'clock and I will wake up after 4 o'clock; at 4 o'clock, I will be in the middle of a period of sleeping.
 Give me an example, please. I will be working at this time tomorrow
 QUESTION: When do we use the future continuous?
-A: We use the future continuous...
+A: We use the future continuous for an action that will be in progress at a particular time in the future
 QUESTION: What do you think you will be doing at this time tomorrow?
-A: I think I'll be ... at this time tomorrow
+A: I think I'll be #{what: studying, working} at this time tomorrow
 QUESTION: Will you still be studying English in fifty years' time?
-A: No, I won't still be studying ...
+A: No, I won't still be studying English in fifty years' time
 QUESTION: Where do you think you'll be living in ten years' time?
-A: I think I'll be living ... in ten years' time
+A: I think I'll be living #{where: in London} in ten years' time
 WORDS: inch
 WORDS: foot, yard
 GRAMMAR: Point to your thumb (from its tip to the first joint), then to your foot, then to the length of your arm, and say 
@@ -1294,44 +1295,44 @@ A: Twelve inches make a foot
 QUESTION: How many feet make a yard?
 A: Three feet make a yard
 QUESTION: Is a yard longer than a metre?
-A: No, a yard...; it's shorter than a metre
+A: No, a yard isn't longer than a metre; it's shorter than a metre
 QUESTION: Consequently, when we run a hundred yards, do we run further than a hundred metres?
-A: No, when we run we run less than ...
+A: No, when we run a hundred yards, we run less than a hundred metres
 WORDS: chain
 QUESTION: Are you wearing a chain?
-A: Yes, I'm.
-A: No, I'm not _
+A: Yes, I'm wearing a chain
+A: No, I'm not wearing a chain
 QUESTION: What do we mean when we say someone is a chain-smoker?
-A: When we say.... we mean that he or she smokes one cigarette after another without stopping, like a chain
+A: When we say someone is a chain-smoker we mean that he or she smokes one cigarette after another without stopping, like a chain
 WORDS: rise, constantly
 QUESTION: Does the sun rise early in winter?
 A: No, the sun doesn't it rises late
 QUESTION: Is the cost of living constantly rising these days?
-A: Yes, the cost of living is
-A: No, the cost of living isn't...
-QUESTION: What'd you do if this table slowly began to rise into the air without anybody touching it?
-A: If this table .... I'd run out of the room etc.
+A: Yes, the cost of living is constantly rising these days
+A: No, the cost of living isn't constantly rising these days
+G: What'd you do if this table slowly began to rise into the air without anybody touching it? If this table slowly began to rise into the air without anybody touching it I'd run out of the room etc.
 WORDS: belt
 QUESTION: Are you wearing a belt?
-A: Yes, I'm
-A: No, I'm not...
+A: Yes, I'm wearing a belt
+A: No, I'm not wearing a belt
 WORDS: hourly, daily, weekly
 WORDS: monthly, yearly
 GRAMMAR: The words "hourly", "daily", "weekly", "monthly" and "yearly" mean "every hour", "every day", "every week", "every month" and "every year".
 QUESTION: What do the words "hourly", "daily", "weekly", "monthly" and "yearly" mean?
 A: The words "hourly", "daily"... mean "every hour", "every day"...
 QUESTION: Do most radio stations have hourly traffic news?
-A: Yes, most radio stations _
+A: Yes, most radio stations have hourly traffic news
 QUESTION: Which daily newspaper do you read?
-A: I read...
+A: I read #{newspaper: "The evening standard"}
+A: I don't read any daily newspapers
 QUESTION: Do you read any weekly newspapers?
-A: Yes, I read some
-A: No. I don't read any...
+A: Yes, I read some weekly newspapers
+A: No, I don't read any weekly newspapers
 QUESTION: Which?
 QUESTION: How many hours of English do you study monthly?
-A: I study... hours of English monthly
+A: I study #{number: 10} hours of English monthly
 QUESTION: Where do you usually go for your yearly holidays?
-A: I usually go... for my yearly holidays
+A: I usually go #{where: to Spain} for my yearly holidays
 WORDS: allow
 WORDS: let - let - let
 WORDS: everyday
@@ -1340,23 +1341,23 @@ Give me an example, please. The doctor allowed me to change my appointment. The 
 QUESTION: What's the difference between "allow" and "let"?
 A: The difference between "allow" and "let" is that "allow" has the infinitive with "to" after it, whereas "let" has the infinitive without "to" after it
 QUESTION: What sometimes happens when we let people borrow things that belong to us?
-A: When we let.... they sometimes don't return them
+A: When we let people borrow things that belong to us they sometimes don't return them
 QUESTION: Do you think it's a good idea to allow children to do as they please (want to)?
-A: No, I don't think _
+A: No, I don't think it's a good idea to allow children to do as they please
 QUESTION: Do you think it's dangerous these days to let people we don't know enter our houses?
-A: Yes, I think
-A: No, I don't think ...
+A: Yes, I think it's dangerous these days to let people we don't know enter our houses
+A: No, I don't think it's dangerous these days to let people we don't know enter our houses
 QUESTION: Do you think more people would kill each other if the law of the country let them?
-A: Yes, I think
-A: No, I don't think ...
+A: Yes, I think more people would kill each other if the law of the country let them
+A: No, I don't think more people would kill each other if the law of the country let them
 GRAMMAR: Another difference between "allow" and "let" is that we cannot use "let" in the passive voice. We cannot say "I was let"; we must say "I was allowed".
 QUESTION: Which is it right to say: "I was let" or "I was allowed"?
 A: It's right to say "I was allowed"
 QUESTION: Why?
 A: Because we cannot use "let" in the passive voice
 QUESTION: Do you think students should be allowed to use their mobile phones during lessons?
-A: Yes, I think
-A: No, I don't think...
+A: Yes, I think students should be allowed to use their mobile phones during lessons
+A: No, I don't think students should be allowed to use their mobile phones during lessons
 DICTATION: From over the lake/ came the sound/ of the church bells. /The fat man swam/ better than his thin friend./ She lost her way/ and was unable to find a policeman./ Some past participles of verbs are:/ begun, known, swum,/ taken, shaken, written,/ forgotten and broken./ We use the word "whether"/ to express a doubt./ The only way to learn/ how to cook/ is by practice.
 
 Lesson 74
@@ -1368,31 +1369,34 @@ on the wall
 nowhere
 QUESTION: Is there a book anywhere in this room?
 A: Yes, there's a book somewhere in this room
+A: No, there isn't a book anywhere in this room
 QUESTION: Is there a radio anywhere in this room?
+A: Yes, there's a radio anywhere in this room
 A: No, there isn't a radio anywhere in this room
 QUESTION: If there's nowhere to sit on a bus, what do you have to do?
-A: If there's nowhere... I have to stand
+A: If there's nowhere to sit on a bus, I have to stand
 QUESTION: Is there anywhere near here you can buy foreign books?
-A: Yes, there's somewhere near here I can _
+A: Yes, there's somewhere near here I can buy foreign books
 QUESTION: Is there anywhere in this town I could get my hair cut for nothing?
-A: No, there isn't... you could get your hair cut for nothing
+A: No, there isn't anywhere in this town you could get your hair cut for nothing
 QUESTION: Where in the world can a man murder another man without breaking the law?
-A: There's nowhere in the world ...
+A: There's nowhere in the world where a man can murder another man without breaking the law
 QUESTION: If you could live anywhere in the world, where would you live?
-A: If I could live._, I'd live in...
-OTHER: Why?
+A: If I could live anywhere in the world, I'd live in #{where: Wales}
+Q: Why?
+A: Because it's beautiful and people are lovely
 WORDS: loosen
 WORDS: loose
 QUESTION: Do you think it's OK to let dogs run around loose, or do you think they should be kept on a chain?
-A: I think it's OK
-A: I think dogs should...
+A: I think it's OK to let dogs run around loose
+A: I think dogs should be kept on a chain
 QUESTION: Why do people in hot countries wear loose clothes?
-A: People in hot countries... to keep themselves cool
+A: People in hot countries wear loose clothes to keep themselves cool
 QUESTION: Are there any loose stones on the road near you?
-A: Yes, there are some
-A: No, there aren't any ...
+A: Yes, there are some loose stones on the road near me
+A: No, there aren't any loose stones on the road near me
 QUESTION: Why does a man sometimes loosen his tie?
-A: A man sometimes... because it's more comfortable
+A: A man sometimes loosen his tie because it's more comfortable
 WORDS: storm, lightning, thunder
 QUESTION: What's a storm?
 A: A storm is a short period of very bad weather
@@ -1407,177 +1411,167 @@ A: The devil lives in hell
 WORDS: ride
 WORDS: cycle
 QUESTION: Can you ride a horse?
-A: Yes, I can
-A: No, I can't...
+A: Yes, I can ride a horse
+A: No, I can't ride a horse
 QUESTION: Do you like riding on buses?
-A: Yes, I like
-A: No, I don't like ...
+A: Yes, I like riding on buses
+A: No, I don't like riding on buses
 QUESTION: What's another way of saying "I ride a bike every day"?
-A: Another way... is "I cycle every day'
+A: Another way of saying "I ride a bike every day" is "I cycle every day'
 WORDS: may, can, could, permission
 GRAMMAR: When we ask for permission to do something, we use the words "may", "can" or "could". For example, "May I leave the room, please?"
 Give me three examples, please. May I smoke? Can I open the window? Could I borrow your pen. please?
 QUESTION: What words do we use when we ask for permission to do something?
-A: We use "may", "can" or "could" when we ask...
+A: We use "may", "can" or "could" when we ask for permission to do something
 WORDS: catch, raincoat
 GRAMMAR: We use the word "catch" in expressions such as "catch a ball", "catch a train", "catch a cold" etc.
 QUESTION: In what kind of expressions do we use the word "catch"?
-A: We use the word "catch" in expressions such as ...
+A: We use the word "catch" in expressions such as such as "catch a ball", "catch a train", "catch a cold" etc.
 GRAMMAR: What am I doing? You're throwing your pen into the air and catching it
 QUESTION: Are you the kind of person who usually has to run hard at the last moment in order to catch a bus or a train?
-A: Yes, I'm the kind of
-A: No, I'm not the kind of...
+A: Yes, I'm the kind of person who usually has to run hard at the last moment in order to catch a bus or a train
+A: No, I'm not the kind of person who usually has to run hard at the last moment in order to catch a bus or a train
 QUESTION: If you walked in the rain without carrying an umbrella or wearing a raincoat, what might happen?
-A: If I walked.... I'd get wet and might catch a cold
+A: If I walked in the rain without carrying an umbrella or wearing a raincoat, I'd get wet and might catch a cold
 WORDS: cap
 QUESTION: Why is it a good idea to wear a cap in hot, sunny weather?
-A: It's a good idea... because it protects your head and eyes from the sun
+A: It's a good idea to wear a cap in hot, because it protects your head and eyes from the sun
 WORDS: habit, be in the habit of doing
 GRAMMAR: The most common way to speak about our habits is to use the present simple or past simple. For example, we say "I drink coffee every day" or "I usually went to bed early when I was a child". We sometimes add expressions like "usually", "always" or "every week" so that it is understood that we are speaking about a habit
 Give me an example, please. I play football every weekend. I always studied hard before exams at university
 QUESTION: What's the most common way to speak about our habits?
-A: The most common _
+A: The most common way to speak about our habits is to use the present simple or past simple
 QUESTION: Does your father smoke?
 A: Yes, my father smokes
 A: No, my father doesn't smoke
 QUESTION: Did you usually go to bed early when you were a small child?
-A: Yes, I usually went to bed early when I was _
+A: Yes, I usually went to bed early when I was a small child
 QUESTION: What's your worst habit?
-A: My worst habit is that I (smoke, drink too much coffee etc.)
+A: My worst habit is that I #{habbit: smoke, drink too much coffee}
 GRAMMAR: Notice that we can also say that someone is "In the habit of doing" something.
 QUESTION: Are you in the habit of speaking to yourself when you're alone?
-A: Yes, I'm in the... to myself when I'm alone
-A: No, I'm not in the... to myself when I'm alone
+A: Yes, I'm in the habit of speaking to myself when I'm alone
+A: No, I'm not in the habit of speaking to myself when I'm alone
 QUESTION: What were you in the habit of doing at the weekend when you were a little child?
-A: I was in the habit of... at the weekend when I was...
+A: I was in the habit of visiting my grandmother at the weekend when I was a little child
 WORDS: stranger
 WORDS: foreigner
-GRAMMAR: A stranger is somebody we don�t know, whereas a foreigner is somebody from another country.
+GRAMMAR: A stranger is somebody we don't know, whereas a foreigner is somebody from another country.
 QUESTION: What's the difference between a stranger and a foreigner?
-A: The difference between a stranger and a foreigner is that a stranger is...
+A: The difference between a stranger and a foreigner is that a stranger is somebody we don't know, whereas a foreigner is somebody from another country
 WORDS: snowstorm
 DICTATION: Don't shout all the time!/ I can hear you/ well enough/ when you speak quietly./ However,/ the best way to learn anything in English/ is by practice./ They've always kept their promises,/ so they say./ Of course he finds life boring;/ he watches the same television programmes/ all the time./ They were nearly blinded/ by the snowstorm,/ and could not see which direction/ the ambulance was coming from.
 
 Lesson 75
 WORDS: look like
 QUESTION: What famous person would you most like to look like?
-A: I'd most like to look like ...
-QUESTION: What does he/she look like?
-A: He/She is... and has..
-GRAMMAR: In the answer to the question above, ensure that the student gives a physical description rather than a comparison to somebody else.
+A: I'd most like to look like Robert de Niro
 QUESTION: Do you look more like your mother or your father?
-A: I look more like my...
+A: I look more like my mother
+A: I look more like my father
 QUESTION: Do you think it looks like rain (or looks as if it is going to rain)?
-A: Yes, I think
-A: No, I don't think _
+A: Yes, I think it looks like rain
+A: No, I don't think it looks like rain
 QUESTION: Do you think you look like succeeding (or look as if you will succeed) in learning English quite well?
-A: Yes, I think I look ...
+A: Yes, I think I look like succeeding in learning English quite well
 WORDS: travel, journey, just
 GRAMMAR: The difference between "travel" and "journey" is that we generally use "travel" as a verb and "journey" as a noun. For example, "I travelled a long way" or "The journey was long".
 QUESTION: What's the difference between "travel" and "journey"?
-A: The difference between ...
+A: The difference between "travel" and "journey" is that we generally use "travel" as a verb and "journey" as a noun
 QUESTION: Why is it now easier for people to travel to other countries just for the weekend?
-A: It's now easier... because travelling is cheaper and faster these days
+A: It's now easier for people to travel to other countries just for the weekend because travelling is cheaper and faster these days
 QUESTION: What's the longest journey you've ever made?
-A: The longest journey I've ever made is from ... to ...
+A: The longest journey I've ever made is from #{from: England} to #{to: Japan}
 WORDS: of course
 G: Give me a sentence with the words "of course" in it, please. Could I borrow your pen for a second? Of course you can - He's American and so, of course, he speaks English
 WORDS: nowadays
 QUESTION: Do you think people are happier nowadays than they were in the past?
-A: Yes, I think
-A: No, I don't think ...
+A: Yes, I think people are happier nowadays than they were in the past
+A: No, I don't think people are happier nowadays than they were in the past
 QUESTION: Why or why not?
+A: Because people are healthier an live longer nowadays than they were in the past
 WORDS: suffer
 QUESTION: Have you suffered from any illnesses in the last two years?
-A: Yes, I've suffered from some illnesses
-A: No. I haven't suffered from any illnesses...
+A: Yes, I've suffered from some illnesses in the last two years
+A: No, I haven't suffered from any illnesses in the last two years
 WORDS: wish
 QUESTION: What's your greatest wish in life?
-A: My greatest wish in life is...
+A: My greatest wish in life is to be happy
 WORDS: exist
 QUESTION: About how long has this building existed for?
-A: This building has existed for...
+A: This building has existed for #{how_long: more than hundred years}
 WORDS: remind
 WORDS: in other words
 WORDS: member
 GRAMMAR: The difference between the words "remember" and "remind" is that we remember something ourselves, without help, whereas, if we forget something, somebody reminds us. In other words, they remember for us.
 QUESTION: What's the difference between the words "remember" and "remind"?
-A: The difference between ...
+A: The difference between the words "remember" and "remind" is that we remember something ourselves, without help, whereas, if we forget something, somebody reminds us
 QUESTION: If you have an important appointment to keep, which member of your family reminds you to keep it?
-A: If I have ... my... reminds me ...
+A: If I have an important appointment to keep, #{who: my mother} reminds me to keep it
 QUESTION: Do I remind you of any member of your family?
-A: Yes, you remind me of
-A: No, you don't remind me of any...
+A: Yes, you remind me of some member of my family
+A: No, you don't remind me of any member of my family
 WORDS: library
 QUESTION: What's the difference between a bookshop and a library?
-A: The difference... is that a bookshop is a place where we can buy books, whereas a library is a place where we can go to read books and borrow them
+A: The difference between a bookshop and a library is that a bookshop is a place where we can buy books, whereas a library is a place where we can go to read books and borrow them
 WORDS: even though, even, not even
 QUESTION: When you were a child, did you sometimes have to go to school even though you didn't want to?
-A: Yes, when I was a child, I sometimes had to... I didn't want to
+A: Yes, when I was a child, I sometimes had to to school even though I didn't want to
 QUESTION: Are there some areas of the world where it never gets warm, even in the middle of summer?
-A: Yes, there are
+A: Yes, there are some areas of the world where it never gets warm, even in the middle of summer
 QUESTION: Will there be even more people and more cars in the world in a few years' time?
-A: Yes, there'll be
+A: Yes, there'll be even more people and more cars in the world in a few years' time
 QUESTION: Do you know of a village in this country where they haven't even got water or electricity?
-A: Yes, I know of
-A: No, I don't know of...
-QUESTION: Where?
+A: Yes, I know of a village in this country where they haven't even got water or electricity
+A: No, I don't know of a village in this country where they haven't even got water or electricity
 WORDS: to, at
 WORDS: direction
 GRAMMAR: The difference between the words "to" and "at" is that we generally use "to" when we are moving in the direction of a place, and "at" when we are there. For example. "I'm going to the table. Now, I'm (standing) at the table".
 QUESTION: What's the difference between the words "to" and "at"?
-A: The difference between ...
+A: The difference between the words "to" and "at" is that we generally use "to" when we are moving in the direction of a place, and "at" when we are there
 G: Give me an example, please. I'm going to the table, and now I'm at the table
-QUESTION: Are you coming to the school?
-A: No, I'm not...; I'm at the school
-QUESTION: Am I going to the table?
-A: No, you aren't...; you're (standing) at the table
+G: Are you coming to the school? No, I'm not coming to the school; I'm at the school
+G: Am I going to the table? No, you aren't going to the table; you're (standing) at the table
 WORDS: soon
 WORDS: at once
 QUESTION: If I go out of the room and say "I'll be back soon", how long will I be?
-A: If you go..., you'll be maybe five or ten minutes
+A: If you go out of the room and say "I'll be back soon", you'll be maybe five or ten minutes
 QUESTION: If I go out of the room and say "I'll be back at once", how long will I be?
-A: If you go .... you'll be about one minute, or you'll be back almost immediately
-QUESTION: Will it soon be spring (summer, autumn, or winter)?
-A: Yes, it'll soon be ...
+A: If you go out of the room and say "I'll be back at once", you'll be about one minute, or you'll be back almost immediately
+QUESTION: Will it soon be #{next_season_of_the_year}?
+A: Yes, it'll soon be #{next_season_of_the_year}
 QUESTION: How soon do you think it will be before everybody in the world has enough money in order to live a comfortable life?
-A: I think it'll be a long time before everybody...
+A: I think it'll be a long time before everybody in the world has enough money in order to live a comfortable life
 QUESTION: Which would get you home sooner: a bus or a car?
 A: I think maybe a car would get me home sooner than a bus
 
 Lesson 76
 WORDS: need
 QUESTION: What would you do if you needed a haircut?
-A: If I needed.... I'd go to a hairdresser's
+A: If I needed a haircut, I'd go to a hairdresser's
 QUESTION: What do you think you need more than anything else in your life?
-A: I think I need ... more than anything else in my life
+A: I think I need my family more than anything else in my life
 QUESTION: What do you think your country needs more than anything else?
-A: I think my country needs... more than anything else
+A: I think my country needs jobs more than anything else
 WORDS: towards
 WORDS: destination
-GRAMMAR: The word "towards" means "in the direction of". For example, if I say "I�m walking towards the station" it means that I'm walking in the direction of the station; it doesn�t necessarily mean that the station is my destination.
+GRAMMAR: The word "towards" means "in the direction of". For example, if I say "I'm walking towards the station" it means that I'm walking in the direction of the station; it doesn't necessarily mean that the station is my destination.
 QUESTION: What does the word "towards" mean?
-A: The word "towards" means _
-GRAMMAR: When asking the following question, do not actualy walk as far as the door.
-QUESTION: What am I doing?
-A: You're walking towards the door
+A: The word "towards" means "in the direction of"
+G: What am I doing? You're walking towards the door
 QUESTION: If I tell you that I am driving towards Scotland, does that necessarily mean that Scotland is my destination?
-A: No, if you tell me that you are. .. that doesn't necessarily mean that Scotland is your destination
+A: No, if you tell me that you are driving towards Scotland, that doesn't necessarily mean that Scotland is your destination
 WORDS: tray
 QUESTION: What do we use a tray for?
 A: We use a tray for carrying plates and cups from one room to another
 WORDS: stadium
-QUESTION: Where is the nearest sports stadium?
-A: The nearest..
-QUESTION: About how many people does it hold?
-A: It holds..
 WORDS: much better
 WORDS: much more
 GRAMMAR: If we put the word "much" before a comparative, it communicates that the difference between the two things is very big. For example. Germany is bigger than England, but China is much bigger than England.
 QUESTION: Why do you speak English much better now than you did six months ago?
-A: I speak English... than I did six months ago because I've had much more practice
+A: I speak English much better now than you did six months ago than I did six months ago because I've had much more practice
 QUESTION: Why is a Rolls Royce much more expensive than an ordinary car?
-A: A Rolls Royce is... because it takes longer to make than an ordinary car
+A: A Rolls Royce is much more expensive than an ordinary car because it takes longer to make than an ordinary car
 WORDS: contrary
 WORDS: fall
 WORDS: temperature
@@ -1585,69 +1579,68 @@ WORDS: atmosphere
 QUESTION: What's another word for "opposite"?
 A: Another word for "opposite" is "contrary"
 QUESTION: What's the contrary of the verb "to rise"?
-A: "To fall" is the contrary...
+A: "To fall" is the contrary of the verb "to rise"
 QUESTION: Is the temperature of the atmosphere falling this month?
-A: Yes, the temperature
-A: No, the temperature it's rising
+A: Yes, the temperature of the atmosphere is falling this month
+A: No, the temperature of the atmosphere isn't falling this month; it's rising
 QUESTION: If your body temperature falls a lot, what should you do?
-A: If my body temperature... I should go to bed and call a doctor
+A: If my body temperature falls a lot, I should go to bed and call a doctor
 WORDS: tooth, teeth, toothbrush, dentist
 QUESTION: What's the plural of "tooth"?
-A: The plural of "tooth" is "teeth'
+A: The plural of "tooth" is "teeth"
 QUESTION: What do we clean our teeth with?
 A: We clean our teeth with a toothbrush
 QUESTION: If you have a problem with your teeth, who should you go to see?
-A: If I have... with my teeth, I should go to see a dentist
+A: If I have a problem with my teeth, I should go to see a dentist
 WORDS: seem
 QUESTION: Does it seem to you as if it'll rain later?
-A: Yes, it seems to me as if
-A: No. it doesn't seem to me as if...
+A: Yes, it seems to me as if it'll rain later
+A: No. it doesn't seem to me as if it'll rain later
 QUESTION: Why do some people seem younger than they really are?
-A: Some people seem _ because of the way they look, the way they talk, the things they do etc.
+A: Some people seem younger than they really are because of the way they look, the way they talk, the things they do etc.
 QUESTION: Does it seem warmer to you today than it was yesterday?
-A: Yes, it seems warmer to me
-A: No. it doesn't seem warmer to me ...
+A: Yes, it seems warmer to me today than it was yesterday
+A: No. it doesn't seem warmer to me today than it was yesterday
 WORDS: several
 QUESTION: Are you ill several times during the year?
-A: Yes, I'm ill
-A: No, I'm not ill...
+A: Yes, I'm ill several times during the year
+A: No, I'm not ill several times during the year
 QUESTION: Do some very rich people have houses in several different countries?
-A: Yes, some very...
+A: Yes, some very rich people have houses in several different countries
 WORDS: compose, be composed of
 QUESTION: Did Mozart compose a lot of music?
-A: Yes, Mozart composed...
+A: Yes, Mozart composed a lot of music
 QUESTION: Do you find it difficult to compose formal letters?
-A: Yes, I find it
-A: No, I don't find it...; I find it easy
+A: Yes, I find it difficult to compose formal letters
+A: No, I don't find it difficult to compose formal letters; I find it easy
 QUESTION: How many letters is the English alphabet composed of?
 A: The English alphabet is composed of 26 letters
 QUESTION: Is Europe composed of many different countries?
-A: Yes, Europe's composed of ...
+A: Yes, Europe's composed of many different countries
 WORDS: wise, wisdom
 QUESTION: Do you agree that it's wise to put some money in the bank each month for later on in life?
-A: Yes, I agree...;
-A: No, I don't agree _
+A: Yes, I agree that it's wise to put some money in the bank each month for later on in life
+A: No, I don't agree that it's wise to put some money in the bank each month for later on in life
 QUESTION: Do you think wisdom comes more with age or experience?
-A: I think wisdom comes more with ...
+A: I think wisdom comes more with experience
 WORDS: suddenly
 QUESTION: If I suddenly threw my pen at you, would you be able to catch it?
-A: Yes, if you... your pen at me, I'd
-A: No, if you _ your pen at me, I wouldn't...
+A: Yes, if you suddenly threw your pen at me, I'd be able to catch it
+A: No, if you suddenly threw your pen at me, I wouldn't be able to catch it
 WORDS: pain
 QUESTION: What's the greatest physical pain you've ever suffered?
-A: The greatest _ I've ever suffered was...
+A: The greatest physical pain I've ever suffered was #{when: when I broke my leg}
 WORDS: certain
 QUESTION: Is there anything in life that we can be completely certain of?
-A: Yes, there's
-A: No, there isn't _
-WORDS: What?
+A: Yes, there's something in life that we can be completely certain of
+A: No, there isn't anything in life that we can be completely certain of
 WORDS: pass by
 QUESTION: From where you're sitting can you see people passing by the window?
-A: Yes, from where I'm sitting. I can
-A: No, from where I'm sitting, I can't...
+A: Yes, from where I'm sitting, I can see people passing by the window
+A: No, from where I'm sitting, I can't see people passing by the window
 WORDS: park, car park
 QUESTION: When a car park is full, where does a driver have to park his car?
-A: When a .... a driver... in the street
+A: When a car park is full, a driver have to park his car in the street
 WORDS: picture
 DICTATION: Instead of a belt/ she wore a chain,/ which was the fashion of the day./ We usually picture the devil/ as having long ears/ that become thin and narrow/ at the top./ The word "great" generally means very good,/ but it can also mean/ big or important./ "Fast" means the same as "quick",/ except that/ we do not add "ly" to it/ as an adverb.
 
@@ -1684,68 +1677,70 @@ QUESTION: In the 3rd conditional, what do we put after the word "would"?
 A: In the 3rd conditional, we put the word "have" and the past participle after the word "would"
 G: Give me some examples, please. He would have slept. She would have written. They would have eaten.
 QUESTION: If you had been born in England, which language would you have spoken as a child?
-A: If I had been .... I would have spoken English as a child
+A: If I had been born in England, I would have spoken English as a child
 QUESTION: Were you in fact born in England?
-A: No, I wasn't in fact...; I was born in ...
+A: No, I wasn't in fact born in England; I was born in #{where: Japan, Ukraine}
 GRAMMAR: Exactly; we are only imagining.
 QUESTION: Did you find $100 on the street yesterday?
-A: No, I didn't ...
+A: No, I didn't find $100 on the street yesterday
 QUESTION: But if you had found $100 on the street yesterday, what would you have done with it?
-A: If I had.... I would have kept it/taken it to the police station
+A: If I had found $100 on the street yesterday, I would have kept it/taken it to the police station
 QUESTION: If you had not decided to study English, which language would you have studied instead?
-A: If I had notI would have studied... instead
+A: If I had not decided to study English, I would have studied #{language: Spanish} instead
 WORDS: diary
 QUESTION: What do people use diaries for?
 A: People use diaries to help them remember things that they have done or things that they need to do
 WORDS: character
 QUESTION: What kind of character do you like to see in a person?
-A: I like to see a ... character in a person
+A: I like to see a friendly character in a person
 WORDS: really
 QUESTION: Have you ever got up really early?
-A: Yes, I've sometimes
-A: No, I've never...
+A: Yes, I've sometimes got up really early
+A: No, I've never got up really early
 QUESTION: If you were driving a car on a long journey and suddenly felt really tired, what would you do?
-A: If I were..., I'd stop the car, buy a cup of coffee, and wait until I felt more awake
+A: If I were driving a car on a long journey and suddenly felt really tired, I'd stop the car, buy a cup of coffee, and wait until I felt more awake
 WORDS: ran
 QUESTION: What's the past of "run"?
-A: The past of... "ran"
-QUESTION: If you ran against him (or me etc.), who do you think'd win?
-A: If I ran .... I think... would win
+A: The past of "run" is "ran"
+QUESTION: If you ran against your father, who do you think'd win?
+A: If I ran against your father, I think I would win
+A: If I ran against your father, I think he would win
 WORDS: improve, coach
 QUESTION: How can we improve our English?
-A: We can _. by practising a lot, reading a lot etc.
+A: We can improve our English by practising a lot, reading a lot etc.
 QUESTION: Why do even the best tennis players need a coach?
-A: Even the best... to help them to improve their game
+A: Even the best tennis players need a coach to help them to improve their game
 QUESTION: Is it cheaper to travel by coach or by train in your country?
-A: It's cheaper... in my country
+A: It's cheaper to travel by train in my country
+A: It's cheaper to travel by coach in my country
 GRAMMAR: Adverbs formed from adjectives
 GRAMMAR: As you have already seen, one very common way of forming adverbs is by adding the letters "ly" to the adjective. For example, "careful - carefully"; "dangerous - dangerously"; "useless - uselessly" etc.
 QUESTION: Tell me one very common way of forming adverbs from adjectives?
-A: One very common way ...
+A: One very common way of forming adverbs is by adding the letters "ly" to the adjective
 G: Give me some examples, please. bad - badly; quick - quickly etc.
 WORDS: flew
 QUESTION: What's the past of "fly"?
 A: The past of "fly" is "flew"
 QUESTION: If you flew round the world in a straight line, would you finish in the same place as you had started?
-A: Yes, if I flew.... I'd finish in...
+A: Yes, if I flew round the world in a straight line, I'd finish in the same place as I had started
 QUESTION: If a bird flew into this room, what'd you do?
-A: If a bird I'd probably try to catch it
+A: If a bird flew into this room, I'd probably try to catch it
 WORDS: wool
 QUESTION: Which animal do we get wool from?
 A: We get wool from a sheep
 QUESTION: What can we make from wool?
 A: We can make pullovers, hats and scarves from wool
-WORDS: Possessive case of plural nouns ending in "s"
+G: Possessive case of plural nouns ending in "s"
 WORDS: apostrophe, case
 QUESTION: How do we form the possessive case of singular nouns like "girl", "man", "child" etc.?
-A: We form the possessive case of ... by adding an apostrophe and the letter "s"
+A: We form the possessive case of singular nouns like "girl", "man", "child" etc. by adding an apostrophe and the letter "s"
 G: Give me some examples, please. The girl's coat; the old man's hat; a child's book
 QUESTION: How do we form the possessive case of plural nouns that do not end in "s", such as "men", "women", "children" etc.?
-A: We form the possessive case of... in the same way: by adding an apostrophe and the letter "s"
+A: We form the possessive case of plural nouns that do not end in "s", such as "men", "women", "children" etc. in the same way: by adding an apostrophe and the letter "s"
 G: Give me some examples, please. The old men's hats; children's books; women's clothes
 GRAMMAR: When, however, a plural noun already ends in "s", we form its possessive case just by adding an apostrophe, but no "s".
 QUESTION: How do we form the possessive case of a plural noun which already ends in "s"?
-A: We form the possessive case of... just by adding an apostrophe, but no "s"
+A: We form the possessive case of a plural noun which already ends in "s" just by adding an apostrophe, but no "s"
 G: Give me some examples, please. The girls' coats; the workers' clothes; ladies' dresses
 QUESTION: What do footballers' shirts have written on their backs?
 A: Footballers' shirts have numbers written on their backs
@@ -1753,10 +1748,10 @@ WORDS: kick
 WORDS: certain
 WORDS: coast
 QUESTION: Can the English coast be seen from the coast of France?
-A: Yes, on certain days, the English coast...
+A: Yes, on certain days, the English coast can be seen from the coast of France
 WORDS: tire
 QUESTION: Do you ever tire of speaking?
-A: Yes, I sometimes tire
-A: No, I never tire ...
+A: Yes, I sometimes tire of speaking
+A: No, I never tire of speaking
 DICTATION: What have they just done?/ They've just learnt that/ we use the 1st conditional/ to communicate that we think/ something is a real possibility./ Its construction is/ "if" + present + "will do"./ In the 2nd conditional,/ we use the past tense to communicate/ that we are only imagining something./ We use "would"/ followed by the infinitive without "to"/ to talk about the imagined result.
 
